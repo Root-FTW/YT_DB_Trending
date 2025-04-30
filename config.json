@@ -2,8 +2,8 @@
     "TRENDING_METADATA_LOC": "assets/meta/trending",
     "TRENDING_ODS_DIR": "db/ods/",
     "TRENDING_COUNTRY_CODES":  [
-        "AR", "BO", "CL", "CO", "CR", "CU", "EC", "SV", "ES", "GT", "GQ", "HN", "MX", "NI", "PA", "PY", "PE", "PR", "DO", "UY", "VE",
-        "AU", "BS", "BB", "BZ", "BM", "CA", "US", "GI", "GD", "GY", "IE", "JM", "MT", "NZ", "GB", "KN", "VC", "LC", "SG", "ZA", "TT"
+        "AR", "BO", "CL", "CO", "CR", "EC", "SV", "ES", "GT", "HN", "MX", "NI", "PA", "PY", "PE", "PR", "DO", "UY", "VE",
+        "AU", "BS", "BB", "BZ", "CA", "US", "IE", "JM", "MT", "NZ", "GB", "SG", "ZA", "TT"
     ],
 
     "VIDEO_STATS_METADATA_LOC": "assets/meta/video_stats",
