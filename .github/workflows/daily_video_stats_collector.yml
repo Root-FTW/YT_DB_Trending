@@ -1,0 +1,47 @@
+name: Daily Video Statistics Collector
+
+on:
+  #schedule:
+  #  - cron: '0 8 * * *'  # Runs daily at 8 AM UTC
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y libatlas-base-dev libopenblas-dev
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Upgrade pip and install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install -r src/requirements.txt
+
+      - name: Set API Key Environment Variable
+        run: echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> $GITHUB_ENV
+
+      - name: Debug Working Directory
+        run: pwd
+
+      - name: Run the script
+        run: python src/collection/video_stats.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit JSON file
+        run: |
+          git add assets/meta/video_stats/*.json
+          git commit -m "Automated collection of Video Statistics update [$(date)]" || echo "No changes to commit"
+          git push
