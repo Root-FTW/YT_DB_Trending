@@ -3,7 +3,7 @@
     "TRENDING_ODS_DIR": "db/ods/",
     "TRENDING_COUNTRY_CODES":  [
         "AR", "BO", "CL", "CO", "CR", "EC", "SV", "ES", "GT", "HN", "MX", "NI", "PA", "PY", "PE", "PR", "DO", "UY", "VE",
-        "AU", "BZ", "CA", "US", "IE", "JM", "MT", "NZ", "GB", "SG", "ZA", "TT"
+        "AU", "CA", "US", "IE", "JM", "MT", "NZ", "GB", "SG", "ZA", "TT"
     ],
 
     "VIDEO_STATS_METADATA_LOC": "assets/meta/video_stats",
