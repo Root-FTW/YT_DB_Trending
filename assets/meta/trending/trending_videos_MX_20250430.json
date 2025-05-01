@@ -1,10 +1,354 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "VNmor0hO2n5gnleqZyXr8lCRb7Y",
+    "etag": "qRvG4csTvWT6yb2e6aHKZtQ0SPM",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "uhaYjUcxsqQyj0_iEH7683zWSe8",
+            "etag": "lUHfKeG4nIfnr2favBLfwQfqk64",
+            "id": "MJR3YbsJ5oU",
+            "snippet": {
+                "publishedAt": "2025-04-29T17:03:14Z",
+                "channelId": "UCECJDeK0MNapZbpaOzxrUPA",
+                "title": "AS\u00cd ES CUBA: un pa\u00eds atrapado en el pasado | \u00bfC\u00f3mo vive la gente? \ud83c\udde8\ud83c\uddfa",
+                "description": "Llegamos a Cuba, un pa\u00eds que durante d\u00e9cadas ha dado mucho de qu\u00e9 hablar. En este primer reportaje, analizamos aspectos generales y las grandes dificultades con las que los cubanos deben enfrentarse en su vida cotidiana. \n\nPartes del video:\n\n00:00 INTRO\n00:47 \u00bfD\u00f3nde estamos?\n01:39 Primeras impresiones\n02:50 Entrevista a locales\n04:07 Calles y autom\u00f3viles antiguos\n04:49 Autos sovieticos\n05:17 Autos actuales\n05:38 Bicis el\u00e9ctricas\n05:50 Transporte local\n06:40 Letreros politicos\n07:30 Edificios descuidados\n11:15 Centro no turistico\n12:05 Entrevista a locales\n14:45 No hay Coca Cola\n14:54 As\u00ed ven pel\u00edculas nuevas\n15:50 As\u00ed es un cine cubano\n17:03 As\u00ed ve\u00edan Youtube\n18:48 Filas en bancos\n20:31 Bodegas de abastecimiento\n23:26 As\u00ed funciona el dinero\n26:05 Centro hist\u00f3rico y poblaci\u00f3n\n26:55 Todo esta sin luz\n27:30 Entrevista a locales\n28:20 Plantas generadoras\n19:03 NO HAY LUZ\n30:54 As\u00ed obtienen gasolina\n34:07 \u00bfpor qu\u00e9 pasa todo esto?\n37:04 No funcionan estas apps\n37:30 No funciona Iphone\n39:07 Talleres para iPhone\n39:55 Tabaco y ca\u00f1a de az\u00facar\n40:20 La triste realidad de emprender\n43:32 Tiendas de importaci\u00f3n\n45:08 Conclusi\u00f3n y despedida\n\n\u00a1SUSCR\u00cdBETE!\n\n- S\u00edgueme en Instagram @LuisitoComunica http://www.instagram.com/LuisitoComunica\n- S\u00edgueme en Facebook http://www.facebook.com/LuisitoComunica\n- Twitter https://www.twitter.com/LuisitoComunica",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luisito Comunica",
+                "tags": [
+                    "luisitocomunica",
+                    "luisitocomunicaa",
+                    "luisito comunica",
+                    "luisito comunicaa",
+                    "luisito",
+                    "comunica",
+                    "comunicaa",
+                    "Cuba",
+                    "Cubano",
+                    "Habana",
+                    "La habana",
+                    "Reportaje",
+                    "Documental",
+                    "La realidad",
+                    "Realidad",
+                    "Internet",
+                    "D\u00f3lar",
+                    "Moneda",
+                    "Peso cubano",
+                    "Dinero cubano",
+                    "Econom\u00eda",
+                    "Luisito comunica Cuba",
+                    "Luisito Cuba",
+                    "Blogger mexicano",
+                    "Vlogger mexicano",
+                    "YouTuber Mexicano",
+                    "En Cuba",
+                    "Cubanos",
+                    "Gasolina",
+                    "Precios",
+                    "Empresas",
+                    "Estilo de vida"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "AS\u00cd ES CUBA: un pa\u00eds atrapado en el pasado | \u00bfC\u00f3mo vive la gente? \ud83c\udde8\ud83c\uddfa",
+                    "description": "Llegamos a Cuba, un pa\u00eds que durante d\u00e9cadas ha dado mucho de qu\u00e9 hablar. En este primer reportaje, analizamos aspectos generales y las grandes dificultades con las que los cubanos deben enfrentarse en su vida cotidiana. \n\nPartes del video:\n\n00:00 INTRO\n00:47 \u00bfD\u00f3nde estamos?\n01:39 Primeras impresiones\n02:50 Entrevista a locales\n04:07 Calles y autom\u00f3viles antiguos\n04:49 Autos sovieticos\n05:17 Autos actuales\n05:38 Bicis el\u00e9ctricas\n05:50 Transporte local\n06:40 Letreros politicos\n07:30 Edificios descuidados\n11:15 Centro no turistico\n12:05 Entrevista a locales\n14:45 No hay Coca Cola\n14:54 As\u00ed ven pel\u00edculas nuevas\n15:50 As\u00ed es un cine cubano\n17:03 As\u00ed ve\u00edan Youtube\n18:48 Filas en bancos\n20:31 Bodegas de abastecimiento\n23:26 As\u00ed funciona el dinero\n26:05 Centro hist\u00f3rico y poblaci\u00f3n\n26:55 Todo esta sin luz\n27:30 Entrevista a locales\n28:20 Plantas generadoras\n19:03 NO HAY LUZ\n30:54 As\u00ed obtienen gasolina\n34:07 \u00bfpor qu\u00e9 pasa todo esto?\n37:04 No funcionan estas apps\n37:30 No funciona Iphone\n39:07 Talleres para iPhone\n39:55 Tabaco y ca\u00f1a de az\u00facar\n40:20 La triste realidad de emprender\n43:32 Tiendas de importaci\u00f3n\n45:08 Conclusi\u00f3n y despedida\n\n\u00a1SUSCR\u00cdBETE!\n\n- S\u00edgueme en Instagram @LuisitoComunica http://www.instagram.com/LuisitoComunica\n- S\u00edgueme en Facebook http://www.facebook.com/LuisitoComunica\n- Twitter https://www.twitter.com/LuisitoComunica"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "4284525",
+                "likeCount": "166313",
+                "favoriteCount": "0",
+                "commentCount": "16864"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "P24vfUCp9Bt_jBDVRZJEwPV7IQM",
+            "id": "R2-yomhYAj4",
+            "snippet": {
+                "publishedAt": "2025-04-30T03:58:07Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV",
+                "description": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV\n\nStream \u201cGnarly\u201d Out Now: https://KATSEYE.lnk.to/GnarlyID\n\n*Follow KATSEYE*\nYouTube: https://www.youtube.com/@katseyeworld\nInstagram: https://www.instagram.com/katseyeworld/\nTikTok: https://www.tiktok.com/@katseyeworld\nX:  https://www.twitter.com/katseyeworld\nWeverse: https://weverse.io/katseye/feed\nOfficial Website: https://katseye.world/\nNewsletter: https://KATSEYE.lnk.to/SignUpID\n\nCredits:\nDirector: Cody Critcheloe\nCreative Director: Humberto Leon\nVisual Director: Jo\u00e3o Moraes\n\nExecutive Creator: Sungdeuk Son\nHead of Creative Production: Jay Ihn\nVisual Creative: Andrew Ibea, Tiffany Suh, Sieun Jung, Tyler Murrah\nPerformance Direction: Grant Gilmore, Sohey Sugihara\nContributing Choreography: Sienna Lalau\n\nDirector of Photography: Sunghun Hong\nProduction Designer: Yesol Kim\nCostumer: Heejun Jang\nHair: Gabe Sin, Suhyeon Jeon, Semin Park\nMakeup: Jeonghwan Park\nNail: Seunghwi Yu\n\nEdited by Jinhyuck Jang, Dakota Giglio (Church Edit)\n3D CGI by Kwangwon Lee, Sangwon Park, Vinyl Creative\n2D CGI by Yeowon Jeong, Myeongjae Song, Ngoc Pham\nVFX by Kent Hill\nColor by Jiyun Yeom (Lucid Color)\n\nProduction by Ambience\n-Executive Producer: Downy Jung\n-Producers: Minye Cho, Sangah Jeon\n\n[PRESENTED BY HYBE X GEFFEN]\n\n#KATSEYE #KATSEYE_Gnarly",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE",
+                    "HYBE LABELS",
+                    "\ud558\uc774\ube0c",
+                    "\ud558\uc774\ube0c\ub808\uc774\ube14\uc988"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV",
+                    "description": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV\n\nStream \u201cGnarly\u201d Out Now: https://KATSEYE.lnk.to/GnarlyID\n\n*Follow KATSEYE*\nYouTube: https://www.youtube.com/@katseyeworld\nInstagram: https://www.instagram.com/katseyeworld/\nTikTok: https://www.tiktok.com/@katseyeworld\nX:  https://www.twitter.com/katseyeworld\nWeverse: https://weverse.io/katseye/feed\nOfficial Website: https://katseye.world/\nNewsletter: https://KATSEYE.lnk.to/SignUpID\n\nCredits:\nDirector: Cody Critcheloe\nCreative Director: Humberto Leon\nVisual Director: Jo\u00e3o Moraes\n\nExecutive Creator: Sungdeuk Son\nHead of Creative Production: Jay Ihn\nVisual Creative: Andrew Ibea, Tiffany Suh, Sieun Jung, Tyler Murrah\nPerformance Direction: Grant Gilmore, Sohey Sugihara\nContributing Choreography: Sienna Lalau\n\nDirector of Photography: Sunghun Hong\nProduction Designer: Yesol Kim\nCostumer: Heejun Jang\nHair: Gabe Sin, Suhyeon Jeon, Semin Park\nMakeup: Jeonghwan Park\nNail: Seunghwi Yu\n\nEdited by Jinhyuck Jang, Dakota Giglio (Church Edit)\n3D CGI by Kwangwon Lee, Sangwon Park, Vinyl Creative\n2D CGI by Yeowon Jeong, Myeongjae Song, Ngoc Pham\nVFX by Kent Hill\nColor by Jiyun Yeom (Lucid Color)\n\nProduction by Ambience\n-Executive Producer: Downy Jung\n-Producers: Minye Cho, Sangah Jeon\n\n[PRESENTED BY HYBE X GEFFEN]\n\n#KATSEYE #KATSEYE_Gnarly"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "2633752",
+                "likeCount": "228789",
+                "favoriteCount": "0",
+                "commentCount": "42681"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xaqF3PjYI4KM1yVkrIrga0hNghs",
+            "id": "3CU7oaxfON8",
+            "snippet": {
+                "publishedAt": "2025-04-30T03:09:40Z",
+                "channelId": "UC8olsAcO3ymIER6tnoFjw7w",
+                "title": "Kary Torres Oficial est\u00e1 en vivo Kary Pao y Wendy Nayeli",
+                "description": "Gracias por su apoyo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kary Torres Oficial",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Kary Torres Oficial est\u00e1 en vivo Kary Pao y Wendy Nayeli",
+                    "description": "Gracias por su apoyo"
+                }
+            },
+            "statistics": {
+                "viewCount": "171371",
+                "likeCount": "15445",
+                "favoriteCount": "0",
+                "commentCount": "271"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_0rCPXx9RSPUFYMa3Sd0QOomJx0",
+            "id": "QLi0x5quEF0",
+            "snippet": {
+                "publishedAt": "2025-04-29T22:00:35Z",
+                "channelId": "UCuGn3ioftOo6jvHE1YK4Bfw",
+                "title": "Prob\u00e9 32 Caf\u00e9s y Encontr\u00e9 el MEJOR",
+                "description": "En este video El Guzii prueba las bebidas m\u00e1s populares de Starbucks y las compara con las nuevas franquicias de caf\u00e9. \u00bfHabr\u00e1 mejor caf\u00e9 que Starbucks?\n#ElGuzii #coffee \n\nFrappuccino hecho en casa https://youtu.be/_RnWyVfVD6U?si=vU0uQBUXH-LmaHlS\nTacos el Vaquero https://youtu.be/aCfNEVOvuEs?si=keY48fOmZVVgsUxX\n\nS\u00edgueme en TIKTOK:\nhttps://vm.tiktok.com/ZS5sAVaP/ \n\n*** Mi equipo de cocina: ***\n- Olla de presi\u00f3n InstantPot: https://amzn.to/3h9PtyI \n- Sart\u00e9n de Acero: https://amzn.to/3gatGW8 \n- Cuchillo 1 (Chef Knife): https://amzn.to/2YaYS1o\n- Cuchillo 2 (Slicing Knife): https://amzn.to/3g6o7s0\n- Cuchillo 3 (Utility Knife): https://amzn.to/3kWERFB\n- Cuchillo 4 (Bread Knife): https://amzn.to/2Ei47oN\n- Cortador de Harina y Masa: https://amzn.to/2EqewPR\n- Adaptador para Moler Carne: https://amzn.to/3cmUEtn \n\n*** Mi equipo de grabaci\u00f3n ***\n- C\u00e1mara de Video: https://amzn.to/3ji7taT \n- C\u00e1mara para Foto: https://amzn.to/2EpZ1HI \n- Lente 1 (Video): https://amzn.to/3aYz3GU \n- Lente 2 (Foto): https://amzn.to/2QqicDG \n- Tarjeta SD (Video): https://amzn.to/2YBokNI\n- Grabadora (Audio): https://amzn.to/32iWWVK \n- Tarjeta SD (Audio): https://amzn.to/3b82BSV \n- Microfono Inalambrico (Audio): https://amzn.to/2Expy5x \n- Microfono para c\u00e1mara (Audio): https://amzn.to/2YypYQo \n\n***************************************************\nFACEBOOK - http://www.facebook.com/ElGuziiOfficial\nINSTAGRAM - http://www.instagram.com/elguzii \nTIKTOK - https://vm.tiktok.com/ZS5sAVaP/ \nWEBSITE - http://www.elguzii.com \n\n***************************************************\n\u00bfGUSTAS ENVIARME ALGO? \n\nEl Guzii\n591 Telegraph Canyon Road No. 562\nChula Vista, CA 91910\n\n***************************************************",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "El Guzii",
+                "tags": [
+                    "El Guzii",
+                    "Guzzi",
+                    "Guzy",
+                    "Guzii Style",
+                    "Recetas Divertidas",
+                    "Jairo Macizo",
+                    "Cocina Lab",
+                    "Sabores del Alma",
+                    "Cocina",
+                    "Miskiri Miskiri",
+                    "fuego alto",
+                    "mini size me",
+                    "caf\u00e9",
+                    "coffee",
+                    "quien hace el mejor caf\u00e9",
+                    "probando",
+                    "prob\u00e9 32 caf\u00e9s",
+                    "encontr\u00e9 el mejor caf\u00e9",
+                    "starbucks",
+                    "taco bell",
+                    "live m\u00e1s caf\u00e9",
+                    "jack in the box",
+                    "dunkin donuts",
+                    "oxxo",
+                    "caffenio",
+                    "7 eleven",
+                    "americano",
+                    "mexicano",
+                    "frapp\u00e9",
+                    "frappuccino",
+                    "latte",
+                    "iced coffee",
+                    "refresher",
+                    "fresa",
+                    "dragon fruit",
+                    "limonada",
+                    "t\u00f3nico",
+                    "espresso",
+                    "caf\u00e9 mexicano",
+                    "drive thru"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-MX",
+                "localized": {
+                    "title": "Prob\u00e9 32 Caf\u00e9s y Encontr\u00e9 el MEJOR",
+                    "description": "En este video El Guzii prueba las bebidas m\u00e1s populares de Starbucks y las compara con las nuevas franquicias de caf\u00e9. \u00bfHabr\u00e1 mejor caf\u00e9 que Starbucks?\n#ElGuzii #coffee \n\nFrappuccino hecho en casa https://youtu.be/_RnWyVfVD6U?si=vU0uQBUXH-LmaHlS\nTacos el Vaquero https://youtu.be/aCfNEVOvuEs?si=keY48fOmZVVgsUxX\n\nS\u00edgueme en TIKTOK:\nhttps://vm.tiktok.com/ZS5sAVaP/ \n\n*** Mi equipo de cocina: ***\n- Olla de presi\u00f3n InstantPot: https://amzn.to/3h9PtyI \n- Sart\u00e9n de Acero: https://amzn.to/3gatGW8 \n- Cuchillo 1 (Chef Knife): https://amzn.to/2YaYS1o\n- Cuchillo 2 (Slicing Knife): https://amzn.to/3g6o7s0\n- Cuchillo 3 (Utility Knife): https://amzn.to/3kWERFB\n- Cuchillo 4 (Bread Knife): https://amzn.to/2Ei47oN\n- Cortador de Harina y Masa: https://amzn.to/2EqewPR\n- Adaptador para Moler Carne: https://amzn.to/3cmUEtn \n\n*** Mi equipo de grabaci\u00f3n ***\n- C\u00e1mara de Video: https://amzn.to/3ji7taT \n- C\u00e1mara para Foto: https://amzn.to/2EpZ1HI \n- Lente 1 (Video): https://amzn.to/3aYz3GU \n- Lente 2 (Foto): https://amzn.to/2QqicDG \n- Tarjeta SD (Video): https://amzn.to/2YBokNI\n- Grabadora (Audio): https://amzn.to/32iWWVK \n- Tarjeta SD (Audio): https://amzn.to/3b82BSV \n- Microfono Inalambrico (Audio): https://amzn.to/2Expy5x \n- Microfono para c\u00e1mara (Audio): https://amzn.to/2YypYQo \n\n***************************************************\nFACEBOOK - http://www.facebook.com/ElGuziiOfficial\nINSTAGRAM - http://www.instagram.com/elguzii \nTIKTOK - https://vm.tiktok.com/ZS5sAVaP/ \nWEBSITE - http://www.elguzii.com \n\n***************************************************\n\u00bfGUSTAS ENVIARME ALGO? \n\nEl Guzii\n591 Telegraph Canyon Road No. 562\nChula Vista, CA 91910\n\n***************************************************"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "239018",
+                "likeCount": "7346",
+                "favoriteCount": "0",
+                "commentCount": "319"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4zvvbRfk-pTyOq99lc-ZoN6gH2k",
+            "id": "BxiH0UIyVPk",
+            "snippet": {
+                "publishedAt": "2025-04-29T22:16:07Z",
+                "channelId": "UChOAQwIwOg3VktymoWSnh1Q",
+                "title": "ESTE RETO NADIE LO HA CONSEGUIDO \ud83c\udf2e **$500 Si LOGRO CONSEGUIRLO \ud83d\udd25",
+                "description": "RETO DE TACOS!\ud83e\udd75\ud83c\udf2e\n\nHoy he venido a un negocio conocido por sus Deliciosos Tacos, pero tambi\u00e9n por su Retos de Comida tan Extremo que nadie logra superar, hoy he venido a intentar su Reto de Comer 35 Tacos en solamente 20 Minutos, el Premio por acabar con el son $500 Pesos en efectivo, hasta ahora nadie lo ha logrado, pero hoy vengo con Mucha Hambre y Dispuesto a intentar su Reto...\u00bfLo lograr\u00e9?\ud83d\udc40\ud83c\udf2e\ud83d\udd25\n\nSi ustedes quieren Conocer este negocio y Probar sus Deliciosos Tacos , yo les comparto la Direcci\u00f3n de este establecimiento\ud83d\udc40\ud83c\udf2e: Boulevard 4 Vientos, entrada San Marcos, EDOMEX.\n#food #tendencia \n\nLos invito a seguirme en\ud83d\udc47\ud83c\udffb\ud83d\udc40\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\u2764\ufe0f:\n\nFACEBOOK AleMinero \ud83c\udf2e\ud83d\udd25\ud83e\udd18\ud83c\udffb\u2764\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f: https://www.facebook.com/profile.php?id=100070720866007\n\nINSTAGRAM AleMinero\ud83d\udd25\ud83c\uddf2\ud83c\uddfd\ud83e\udd18\ud83c\udffb\ud83c\udf56\ud83d\udcaa\ud83c\udffb\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f:  https://www.instagram.com/alexis_minero2001/\n\nTIK TOK AleMinero\u2764\ufe0f\ud83c\udf56\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25: https://vm.tiktok.com/ZMLVLTwkr/ \nGracias por ver m\u00ed v\u00eddeo!!!\ud83c\uddf2\ud83c\uddfd\u263a\ufe0f\u2764\ufe0f\ud83c\udf2e\ud83d\udcaa\ud83c\udffb\ud83c\udf54\ud83d\udd25\n\nNo olvides que si conoces alg\u00fan establecimiento de comida que tenga reto, puedes dejarlo en la caja de comentarios y aparecer\u00e1 en un futuro video \ud83c\uddf2\ud83c\uddfd\u2764\ufe0f\ud83c\udf2e Si les gustan mis retos no olviden dejar su Like, compartir y suscr\u00edbirse para que suba m\u00e1s v\u00eddeos, un fuerte abrazo, saludos\u270c\ud83c\udffb\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AleMinero",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "ESTE RETO NADIE LO HA CONSEGUIDO \ud83c\udf2e **$500 Si LOGRO CONSEGUIRLO \ud83d\udd25",
+                    "description": "RETO DE TACOS!\ud83e\udd75\ud83c\udf2e\n\nHoy he venido a un negocio conocido por sus Deliciosos Tacos, pero tambi\u00e9n por su Retos de Comida tan Extremo que nadie logra superar, hoy he venido a intentar su Reto de Comer 35 Tacos en solamente 20 Minutos, el Premio por acabar con el son $500 Pesos en efectivo, hasta ahora nadie lo ha logrado, pero hoy vengo con Mucha Hambre y Dispuesto a intentar su Reto...\u00bfLo lograr\u00e9?\ud83d\udc40\ud83c\udf2e\ud83d\udd25\n\nSi ustedes quieren Conocer este negocio y Probar sus Deliciosos Tacos , yo les comparto la Direcci\u00f3n de este establecimiento\ud83d\udc40\ud83c\udf2e: Boulevard 4 Vientos, entrada San Marcos, EDOMEX.\n#food #tendencia \n\nLos invito a seguirme en\ud83d\udc47\ud83c\udffb\ud83d\udc40\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\u2764\ufe0f:\n\nFACEBOOK AleMinero \ud83c\udf2e\ud83d\udd25\ud83e\udd18\ud83c\udffb\u2764\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f: https://www.facebook.com/profile.php?id=100070720866007\n\nINSTAGRAM AleMinero\ud83d\udd25\ud83c\uddf2\ud83c\uddfd\ud83e\udd18\ud83c\udffb\ud83c\udf56\ud83d\udcaa\ud83c\udffb\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f:  https://www.instagram.com/alexis_minero2001/\n\nTIK TOK AleMinero\u2764\ufe0f\ud83c\udf56\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25: https://vm.tiktok.com/ZMLVLTwkr/ \nGracias por ver m\u00ed v\u00eddeo!!!\ud83c\uddf2\ud83c\uddfd\u263a\ufe0f\u2764\ufe0f\ud83c\udf2e\ud83d\udcaa\ud83c\udffb\ud83c\udf54\ud83d\udd25\n\nNo olvides que si conoces alg\u00fan establecimiento de comida que tenga reto, puedes dejarlo en la caja de comentarios y aparecer\u00e1 en un futuro video \ud83c\uddf2\ud83c\uddfd\u2764\ufe0f\ud83c\udf2e Si les gustan mis retos no olviden dejar su Like, compartir y suscr\u00edbirse para que suba m\u00e1s v\u00eddeos, un fuerte abrazo, saludos\u270c\ud83c\udffb\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25"
+                },
+                "defaultAudioLanguage": "es-MX"
+            },
+            "statistics": {
+                "viewCount": "418458",
+                "likeCount": "10016",
+                "favoriteCount": "0",
+                "commentCount": "407"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YgE4JyO4etA3rnYYrmP66BWrKfE",
             "id": "KY9OUC92l0s",
             "snippet": {
                 "publishedAt": "2025-04-29T04:30:06Z",
@@ -52,15 +396,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "398850",
-                "likeCount": "20055",
+                "viewCount": "470022",
+                "likeCount": "22687",
                 "favoriteCount": "0",
-                "commentCount": "1493"
+                "commentCount": "1657"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2B1l7gSskPw5F3Ljx-LO45u7CmQ",
+            "etag": "LjkqoRm0pj2IpIPXyA3EPP0gMzQ",
             "id": "Duq2ZhSVgUA",
             "snippet": {
                 "publishedAt": "2025-04-28T21:00:22Z",
@@ -132,15 +476,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "945069",
-                "likeCount": "36884",
+                "viewCount": "1065730",
+                "likeCount": "40421",
                 "favoriteCount": "0",
-                "commentCount": "664"
+                "commentCount": "743"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "N9UsGHd9VftAllCok_z6ekrf5Vw",
+            "etag": "hAdmEIFylk2OWhMWtm5KhiluYKU",
             "id": "5B7vYdOYIjY",
             "snippet": {
                 "publishedAt": "2025-04-29T07:45:01Z",
@@ -217,15 +561,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1453920",
-                "likeCount": "23356",
+                "viewCount": "1604747",
+                "likeCount": "24413",
                 "favoriteCount": "0",
-                "commentCount": "4657"
+                "commentCount": "4887"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "oSd0_J2xrI98bF66mLmmd4jeiWg",
+            "etag": "cZWfUw4WDjcK8TO_vQLewmovctA",
             "id": "kOMYNpbOl2U",
             "snippet": {
                 "publishedAt": "2025-04-27T16:24:26Z",
@@ -277,138 +621,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "1388855",
-                "likeCount": "31217",
+                "viewCount": "1461133",
+                "likeCount": "32788",
                 "favoriteCount": "0",
-                "commentCount": "951"
+                "commentCount": "983"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9Ihn7D0h3pGmZs5gD4KxZQi_n1Q",
-            "id": "etxls9GQaV4",
-            "snippet": {
-                "publishedAt": "2025-04-28T03:47:29Z",
-                "channelId": "UCTIyEyDNHPrwVFPhpi5dm0A",
-                "title": "Resumen y goles | Monterrey 1-2 Pachuca | Liga MX - Play-In CL 2025 | TUDN",
-                "description": "Pachuca le remonta a Rayados en los \u00faltimos minutos y avanza a la Liguilla.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "TUDN M\u00e9xico",
-                "tags": [
-                    "Monterrey vs Pachuca",
-                    "highlights Monterrey vs Pachuca",
-                    "monterrey liga mx",
-                    "pachuca liga mx",
-                    "partidos hoy liga mx",
-                    "play-in liga mx",
-                    "liga mx",
-                    "partidos hoy",
-                    "futbol",
-                    "liga mx gratis",
-                    "vix",
-                    "liga mx vix",
-                    "goles liga mx",
-                    "highlights liga mx",
-                    "vix en vivo",
-                    "TUDN",
-                    "resumen Monterrey vs Pachuca"
-                ],
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
-                "localized": {
-                    "title": "Resumen y goles | Monterrey 1-2 Pachuca | Liga MX - Play-In CL 2025 | TUDN",
-                    "description": "Pachuca le remonta a Rayados en los \u00faltimos minutos y avanza a la Liguilla."
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "1360534",
-                "likeCount": "9404",
-                "favoriteCount": "0",
-                "commentCount": "1549"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Ky3qYajqBtQlWrUU1bLsZGzhPMI",
-            "id": "gOuru96VeW4",
-            "snippet": {
-                "publishedAt": "2025-04-28T03:28:12Z",
-                "channelId": "UCe3Ev4a4Sm9L5aO9sJJ_WXw",
-                "title": "Resumen Ju\u00e1rez  (1) 1-1 (2) Pumas | Play in | Liga BBVA MX, Clausura 2025",
-                "description": "Suscr\u00edbete a nuestro canal: https://www.youtube.com/AztecaDeportes?sub_confirmation=1\n-------------------------------\nEncuentra m\u00e1s informaci\u00f3n en:\nSitio oficial: https://www.tvazteca.com/aztecadeportes\n\nS\u00edguenos en: \n\nFacebook: https://www.facebook.com/aztecadeportes/\nX: https://x.com/aztecadeportes\nInstagram: https://www.instagram.com/aztecadeportes",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "TV Azteca Deportes",
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Resumen Ju\u00e1rez  (1) 1-1 (2) Pumas | Play in | Liga BBVA MX, Clausura 2025",
-                    "description": "Suscr\u00edbete a nuestro canal: https://www.youtube.com/AztecaDeportes?sub_confirmation=1\n-------------------------------\nEncuentra m\u00e1s informaci\u00f3n en:\nSitio oficial: https://www.tvazteca.com/aztecadeportes\n\nS\u00edguenos en: \n\nFacebook: https://www.facebook.com/aztecadeportes/\nX: https://x.com/aztecadeportes\nInstagram: https://www.instagram.com/aztecadeportes"
-                }
-            },
-            "statistics": {
-                "viewCount": "454550",
-                "likeCount": "3441",
-                "favoriteCount": "0",
-                "commentCount": "398"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "IqatHWHApVEqDBeHb8qAmL5pyO4",
+            "etag": "mBYqntQd-9ZV99fGbnltmFMriB4",
             "id": "lO6uS-wnznY",
             "snippet": {
                 "publishedAt": "2025-04-28T21:35:04Z",
@@ -488,15 +709,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "623015",
-                "likeCount": "77639",
+                "viewCount": "726938",
+                "likeCount": "87408",
                 "favoriteCount": "0",
-                "commentCount": "4595"
+                "commentCount": "4905"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2D1be4MaBpw7xvnqrVPx9BxFeVI",
+            "etag": "jyrgFCy-SjspykXP52uyC3TPiHU",
             "id": "1Mm4FMgDsH8",
             "snippet": {
                 "publishedAt": "2025-04-28T04:00:06Z",
@@ -563,15 +784,194 @@
                 "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "2036836",
-                "likeCount": "31027",
+                "viewCount": "2402013",
+                "likeCount": "39043",
                 "favoriteCount": "0",
-                "commentCount": "2811"
+                "commentCount": "3008"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "21DrmsadS7KoG6Tpi2m06oNtqgU",
+            "etag": "xGdizsRJeFbKEQe5ekik63dtPd8",
+            "id": "etxls9GQaV4",
+            "snippet": {
+                "publishedAt": "2025-04-28T03:47:29Z",
+                "channelId": "UCTIyEyDNHPrwVFPhpi5dm0A",
+                "title": "Resumen y goles | Monterrey 1-2 Pachuca | Liga MX - Play-In CL 2025 | TUDN",
+                "description": "Pachuca le remonta a Rayados en los \u00faltimos minutos y avanza a la Liguilla.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/etxls9GQaV4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TUDN M\u00e9xico",
+                "tags": [
+                    "Monterrey vs Pachuca",
+                    "highlights Monterrey vs Pachuca",
+                    "monterrey liga mx",
+                    "pachuca liga mx",
+                    "partidos hoy liga mx",
+                    "play-in liga mx",
+                    "liga mx",
+                    "partidos hoy",
+                    "futbol",
+                    "liga mx gratis",
+                    "vix",
+                    "liga mx vix",
+                    "goles liga mx",
+                    "highlights liga mx",
+                    "vix en vivo",
+                    "TUDN",
+                    "resumen Monterrey vs Pachuca"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "Resumen y goles | Monterrey 1-2 Pachuca | Liga MX - Play-In CL 2025 | TUDN",
+                    "description": "Pachuca le remonta a Rayados en los \u00faltimos minutos y avanza a la Liguilla."
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "1373601",
+                "likeCount": "9451",
+                "favoriteCount": "0",
+                "commentCount": "1561"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "w2se0z9rUCvp3vfURb5d4VU1cSQ",
+            "id": "3UgJU5aMtU4",
+            "snippet": {
+                "publishedAt": "2025-04-30T00:00:03Z",
+                "channelId": "UCGPBHKmboKgep6A1Alq1yCw",
+                "title": "Lali, Duki - PL\u00c1STICO (Official Video)",
+                "description": "Escuch\u00e1 \"No vayas a atender cuando el demonio llama\" \ud83d\udd25 https://lali.lnk.to/NoVayasAAtender\nSuscribite al canal \u25b6 http://smarturl.it/LaliYT    \n\nPlataformas Digitales:\nSpotify: https://smarturl.it/LaliSpotify\nYouTube Music: https://lnk.to/LaliYouTubeMusic\nDeezer: https://smarturl.it/LaliDeezer\nApple Music: https://smarturl.it/LaliAppleMusic\nAmazon Music: https://smarturl.it/LaliAmazonMusic\n\nSeguime en redes!\nInstagram: https://www.instagram.com/lali/\nTwitter: https://twitter.com/lalioficial\nFacebook: https://www.facebook.com/lalioficial\nWeb: https://lalioficial.com/ \n\nLetra:\nEscuch\u00e1 \"No vayas a atender cuando el demonio llama\" \ud83d\udd25 https://lali.lnk.to/NoVayasAAtender\nSuscribite al canal \u25b6 http://smarturl.it/LaliYT    \n\nPlataformas Digitales:\nSpotify: https://smarturl.it/LaliSpotify\nYouTube Music: https://lnk.to/LaliYouTubeMusic\nDeezer: https://smarturl.it/LaliDeezer\nApple Music: https://smarturl.it/LaliAppleMusic\nAmazon Music: https://smarturl.it/LaliAmazonMusic\n\nSeguime en redes!\nInstagram: https://www.instagram.com/lali/\nTwitter: https://twitter.com/lalioficial\nFacebook: https://www.facebook.com/lalioficial\nWeb: https://lalioficial.com/ \n\nLetra:\nSal\u00ed corriendo sola en la persecuci\u00f3n\nEst\u00e1 lleno de sombras con delineador\nCaras desfiguradas\nNo vayas a atender cuando el demonio llama.\n\nSon vampiros con ropa de dise\u00f1ador\nEntre las luces rojas, besos con alcohol\nLes cambia la mirada\nNo vayas a atender cuando el demonio llama.\n\nVestidos apretados brillando en las oscuridad\nOh oh\nEst\u00e1n cerrando tratos y yo me quiero escapar\nUh oh oh.\n\nAhora que sueno en la radio me buscan\nAhora que ya lleno estadios les gusta\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que nunca me caigo se frustran\nAhora que no me lo guardo se asustan\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\n(DUKI)\nPor qu\u00e9 tengo que dar la energ\u00eda\nA criaturas vac\u00edas que quieren mi sol?\nEn el viento una voz que me gu\u00eda\nCu\u00e1ntas fantas\u00edas de un mundo mejor.\n\nDonde el tiempo a los falsos lo olvida\nY cae la mentira en los ojos de Dios\nMe mantengo alejado de aquellos\nQue al final no son lo que dicen que son.\n\nLo veo r\u00e1pido\nCara \u2018e pl\u00e1stico\nDemasiado b\u00e1sico\nSon robots de macintosh\nQu\u00e9 habr\u00e1n sentido esas almas que se apagaron?\nPerder su identidad no vale cu\u00e1nto le pagaron.\n\nAhora que sueno en la radio me buscan\nAhora que ya lleno estadios les gusta\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que nunca me caigo se frustran\nAhora que no me la guardo se asustan\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que sueno en la radio me buscan\nAhora que ya lleno estadios les gusta\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que nunca me caigo se frustran\nAhora que no me lo guardo se asustan\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\n#LALI\n#PLASTICO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3UgJU5aMtU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3UgJU5aMtU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3UgJU5aMtU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3UgJU5aMtU4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3UgJU5aMtU4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LaliMusicaVEVO",
+                "tags": [
+                    "Lali Duki",
+                    "PL\u00c1STICO"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Lali, Duki - PL\u00c1STICO (Official Video)",
+                    "description": "Escuch\u00e1 \"No vayas a atender cuando el demonio llama\" \ud83d\udd25 https://lali.lnk.to/NoVayasAAtender\nSuscribite al canal \u25b6 http://smarturl.it/LaliYT    \n\nPlataformas Digitales:\nSpotify: https://smarturl.it/LaliSpotify\nYouTube Music: https://lnk.to/LaliYouTubeMusic\nDeezer: https://smarturl.it/LaliDeezer\nApple Music: https://smarturl.it/LaliAppleMusic\nAmazon Music: https://smarturl.it/LaliAmazonMusic\n\nSeguime en redes!\nInstagram: https://www.instagram.com/lali/\nTwitter: https://twitter.com/lalioficial\nFacebook: https://www.facebook.com/lalioficial\nWeb: https://lalioficial.com/ \n\nLetra:\nEscuch\u00e1 \"No vayas a atender cuando el demonio llama\" \ud83d\udd25 https://lali.lnk.to/NoVayasAAtender\nSuscribite al canal \u25b6 http://smarturl.it/LaliYT    \n\nPlataformas Digitales:\nSpotify: https://smarturl.it/LaliSpotify\nYouTube Music: https://lnk.to/LaliYouTubeMusic\nDeezer: https://smarturl.it/LaliDeezer\nApple Music: https://smarturl.it/LaliAppleMusic\nAmazon Music: https://smarturl.it/LaliAmazonMusic\n\nSeguime en redes!\nInstagram: https://www.instagram.com/lali/\nTwitter: https://twitter.com/lalioficial\nFacebook: https://www.facebook.com/lalioficial\nWeb: https://lalioficial.com/ \n\nLetra:\nSal\u00ed corriendo sola en la persecuci\u00f3n\nEst\u00e1 lleno de sombras con delineador\nCaras desfiguradas\nNo vayas a atender cuando el demonio llama.\n\nSon vampiros con ropa de dise\u00f1ador\nEntre las luces rojas, besos con alcohol\nLes cambia la mirada\nNo vayas a atender cuando el demonio llama.\n\nVestidos apretados brillando en las oscuridad\nOh oh\nEst\u00e1n cerrando tratos y yo me quiero escapar\nUh oh oh.\n\nAhora que sueno en la radio me buscan\nAhora que ya lleno estadios les gusta\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que nunca me caigo se frustran\nAhora que no me lo guardo se asustan\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\n(DUKI)\nPor qu\u00e9 tengo que dar la energ\u00eda\nA criaturas vac\u00edas que quieren mi sol?\nEn el viento una voz que me gu\u00eda\nCu\u00e1ntas fantas\u00edas de un mundo mejor.\n\nDonde el tiempo a los falsos lo olvida\nY cae la mentira en los ojos de Dios\nMe mantengo alejado de aquellos\nQue al final no son lo que dicen que son.\n\nLo veo r\u00e1pido\nCara \u2018e pl\u00e1stico\nDemasiado b\u00e1sico\nSon robots de macintosh\nQu\u00e9 habr\u00e1n sentido esas almas que se apagaron?\nPerder su identidad no vale cu\u00e1nto le pagaron.\n\nAhora que sueno en la radio me buscan\nAhora que ya lleno estadios les gusta\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que nunca me caigo se frustran\nAhora que no me la guardo se asustan\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que sueno en la radio me buscan\nAhora que ya lleno estadios les gusta\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\nAhora que nunca me caigo se frustran\nAhora que no me lo guardo se asustan\nOh oh oh oh oh, son de pl\u00e1stico\nOh oh oh oh oh.\n\n#LALI\n#PLASTICO"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "276031",
+                "likeCount": "28679",
+                "favoriteCount": "0",
+                "commentCount": "2502"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "q3fmZ4dkEd0zC3ETHskI7gtmreA",
+            "id": "gOuru96VeW4",
+            "snippet": {
+                "publishedAt": "2025-04-28T03:28:12Z",
+                "channelId": "UCe3Ev4a4Sm9L5aO9sJJ_WXw",
+                "title": "Resumen Ju\u00e1rez  (1) 1-1 (2) Pumas | Play in | Liga BBVA MX, Clausura 2025",
+                "description": "Suscr\u00edbete a nuestro canal: https://www.youtube.com/AztecaDeportes?sub_confirmation=1\n-------------------------------\nEncuentra m\u00e1s informaci\u00f3n en:\nSitio oficial: https://www.tvazteca.com/aztecadeportes\n\nS\u00edguenos en: \n\nFacebook: https://www.facebook.com/aztecadeportes/\nX: https://x.com/aztecadeportes\nInstagram: https://www.instagram.com/aztecadeportes",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gOuru96VeW4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TV Azteca Deportes",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Resumen Ju\u00e1rez  (1) 1-1 (2) Pumas | Play in | Liga BBVA MX, Clausura 2025",
+                    "description": "Suscr\u00edbete a nuestro canal: https://www.youtube.com/AztecaDeportes?sub_confirmation=1\n-------------------------------\nEncuentra m\u00e1s informaci\u00f3n en:\nSitio oficial: https://www.tvazteca.com/aztecadeportes\n\nS\u00edguenos en: \n\nFacebook: https://www.facebook.com/aztecadeportes/\nX: https://x.com/aztecadeportes\nInstagram: https://www.instagram.com/aztecadeportes"
+                }
+            },
+            "statistics": {
+                "viewCount": "458267",
+                "likeCount": "3457",
+                "favoriteCount": "0",
+                "commentCount": "400"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LSsN3AsEiLf8dlO6Knt0m83iGf4",
             "id": "EHjdrqvicN4",
             "snippet": {
                 "publishedAt": "2025-04-27T23:00:06Z",
@@ -631,15 +1031,74 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "1488854",
-                "likeCount": "156713",
+                "viewCount": "1647848",
+                "likeCount": "166369",
                 "favoriteCount": "0",
-                "commentCount": "14696"
+                "commentCount": "15315"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "kUWghKvIWAFl7gz_fJKH2cSqwzo",
+            "etag": "0wNFdTPZxLyM5leJyNkCHHSTzfw",
+            "id": "NiAHVOBF0Ng",
+            "snippet": {
+                "publishedAt": "2025-04-25T16:00:06Z",
+                "channelId": "UCYUGG6IiGdKynMf19D-jW4w",
+                "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
+                "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Chaki Bley",
+                "tags": [
+                    "Chaki Bley",
+                    "GunzGangMusic",
+                    "BlazeMusic.Net",
+                    "Una Chica Good",
+                    "AT Films",
+                    "Yomal El Maestro"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
+                    "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet"
+                }
+            },
+            "statistics": {
+                "viewCount": "982886",
+                "likeCount": "29942",
+                "favoriteCount": "0",
+                "commentCount": "1246"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FW34w0sRGRhzkI_m7lS2zwHu1i0",
             "id": "mitnAa_dMP8",
             "snippet": {
                 "publishedAt": "2025-04-27T13:10:20Z",
@@ -713,15 +1172,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "835997",
-                "likeCount": "7923",
+                "viewCount": "845964",
+                "likeCount": "7998",
                 "favoriteCount": "0",
-                "commentCount": "505"
+                "commentCount": "506"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "CW1LjAkuJPGVne_MDySUPgniWvY",
+            "etag": "Vm0PFghqi81AjSWDCkpSU5kAVVk",
             "id": "9weontk8CEE",
             "snippet": {
                 "publishedAt": "2025-04-27T20:01:11Z",
@@ -781,15 +1240,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "858308",
-                "likeCount": "24257",
+                "viewCount": "935273",
+                "likeCount": "25941",
                 "favoriteCount": "0",
-                "commentCount": "586"
+                "commentCount": "606"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "efYhFdU33mkoNQZyirtLL7YFRGg",
+            "etag": "pPI5JUDFQEvd9u_5CVF8V9D6riU",
             "id": "5w-XjMGfR_I",
             "snippet": {
                 "publishedAt": "2025-04-28T13:00:06Z",
@@ -833,15 +1292,76 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "716779",
-                "likeCount": "55009",
+                "viewCount": "799959",
+                "likeCount": "57159",
                 "favoriteCount": "0",
-                "commentCount": "3391"
+                "commentCount": "3525"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ErkrYi6235OnvWwp57gzrqtV0xY",
+            "etag": "oz1lghTZkLhVG81WWx4wvUZWcKw",
+            "id": "OvI0fHAxmnQ",
+            "snippet": {
+                "publishedAt": "2025-04-29T18:02:50Z",
+                "channelId": "UCCEmjNPpJYhGDgaEqeeA4HA",
+                "title": "Probando EL MEJOR CAF\u00c9 DEL MUNDO en Colombia\u00a0-\u00a0TheGrefg",
+                "description": "El mejor caf\u00e9 del mundo est\u00e1 en Colombia\nSUSCR\u00cdBETE y si quieres, hazte miembro del canal https://www.youtube.com/channel/UCCEmjNPpJYhGDgaEqeeA4HA/join\nSigue mis Directos en https://www.twitch.tv/thegrefg\nInstagram https://www.instagram.com/thegrefg\nTik Tok https://www.tiktok.com/@thegrefg?lang=es\nX https://x.com/TheGrefg\nDiscord http://discord.gg/thegrefg\nCanal de WhatsApp https://whatsapp.com/channel/0029Va26zJa2v1InCd6kil3g\n\u00daltimo v\u00eddeo de mi equipo Heretics https://youtu.be/uBjL38F9JuM\n\nCosas que uso:\n\nMi Libro https://www.planetadelibros.com/libro-los-secretos-de-youtube/279938\nRemotto Battery https://es.remottobattery.com/\nMi Mando Oficial https://xcontrollers.es/\nMis Cascos https://astro.family/grefgEMEA\n\nBusiness Contact: contact@thegrefg.com\n\n---\nV\u00eddeo creado y subido por TheGrefg.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TheGrefg",
+                "tags": [
+                    "probando",
+                    "el mejor caf\u00e9",
+                    "del mundo",
+                    "colombia",
+                    "thegrefg",
+                    "plex",
+                    "roro"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Probando EL MEJOR CAF\u00c9 DEL MUNDO en Colombia\u00a0-\u00a0TheGrefg",
+                    "description": "El mejor caf\u00e9 del mundo est\u00e1 en Colombia\nSUSCR\u00cdBETE y si quieres, hazte miembro del canal https://www.youtube.com/channel/UCCEmjNPpJYhGDgaEqeeA4HA/join\nSigue mis Directos en https://www.twitch.tv/thegrefg\nInstagram https://www.instagram.com/thegrefg\nTik Tok https://www.tiktok.com/@thegrefg?lang=es\nX https://x.com/TheGrefg\nDiscord http://discord.gg/thegrefg\nCanal de WhatsApp https://whatsapp.com/channel/0029Va26zJa2v1InCd6kil3g\n\u00daltimo v\u00eddeo de mi equipo Heretics https://youtu.be/uBjL38F9JuM\n\nCosas que uso:\n\nMi Libro https://www.planetadelibros.com/libro-los-secretos-de-youtube/279938\nRemotto Battery https://es.remottobattery.com/\nMi Mando Oficial https://xcontrollers.es/\nMis Cascos https://astro.family/grefgEMEA\n\nBusiness Contact: contact@thegrefg.com\n\n---\nV\u00eddeo creado y subido por TheGrefg."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "775085",
+                "likeCount": "47258",
+                "favoriteCount": "0",
+                "commentCount": "1256"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2IIT0c_3zRhEJwyaoyvhgVqa1Ro",
             "id": "oYHdKBfTwbE",
             "snippet": {
                 "publishedAt": "2025-04-26T23:09:42Z",
@@ -942,74 +1462,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "17378478",
-                "likeCount": "380683",
+                "viewCount": "17661962",
+                "likeCount": "382263",
                 "favoriteCount": "0",
-                "commentCount": "16166"
+                "commentCount": "16190"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "toifQBQrjlpn1iQrdVSWtb3ZaG4",
-            "id": "NiAHVOBF0Ng",
-            "snippet": {
-                "publishedAt": "2025-04-25T16:00:06Z",
-                "channelId": "UCYUGG6IiGdKynMf19D-jW4w",
-                "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
-                "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Chaki Bley",
-                "tags": [
-                    "Chaki Bley",
-                    "GunzGangMusic",
-                    "BlazeMusic.Net",
-                    "Una Chica Good",
-                    "AT Films",
-                    "Yomal El Maestro"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
-                    "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet"
-                }
-            },
-            "statistics": {
-                "viewCount": "827171",
-                "likeCount": "26973",
-                "favoriteCount": "0",
-                "commentCount": "1177"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "yptrtlKkiArlmuOnaE8540a_tBg",
+            "etag": "44eefWn5ydtt4jS1PL-taGf2AIc",
             "id": "hU5akDv_cyU",
             "snippet": {
                 "publishedAt": "2025-04-27T18:05:57Z",
@@ -1070,15 +1531,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "659675",
-                "likeCount": "5755",
+                "viewCount": "661915",
+                "likeCount": "5767",
                 "favoriteCount": "0",
-                "commentCount": "352"
+                "commentCount": "354"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "HeQgvkWu02k3v5kSwiVGgIN_rVE",
+            "etag": "nevYqMffmlkwf93MIFlE9tak0Es",
             "id": "iDmkMZuf8Rk",
             "snippet": {
                 "publishedAt": "2025-04-29T00:08:00Z",
@@ -1122,15 +1583,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "91025",
-                "likeCount": "8941",
+                "viewCount": "103623",
+                "likeCount": "9610",
                 "favoriteCount": "0",
-                "commentCount": "356"
+                "commentCount": "373"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "UbTI4_xnHdElLh6oPXTEotBtVzI",
+            "etag": "87nSjAlPCZxhX7Y711193AxDhH8",
             "id": "uyiG6uw-6pA",
             "snippet": {
                 "publishedAt": "2025-04-26T16:00:00Z",
@@ -1175,15 +1636,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "70428815",
-                "likeCount": "2005130",
+                "viewCount": "74321116",
+                "likeCount": "2069204",
                 "favoriteCount": "0",
-                "commentCount": "30222"
+                "commentCount": "30950"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "VcCzSgRkUhro1cB1Q2iEiFMhGf0",
+            "etag": "i4_MbtwrcrExW3ZMzeyt75HIArg",
             "id": "RABPC24-QYc",
             "snippet": {
                 "publishedAt": "2025-04-27T13:15:55Z",
@@ -1226,15 +1687,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1490391",
-                "likeCount": "74947",
+                "viewCount": "1508217",
+                "likeCount": "75400",
                 "favoriteCount": "0",
-                "commentCount": "3130"
+                "commentCount": "3138"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "u4ZEuR-0Vb7MCZ7Noe4pkv6Ww8g",
+            "etag": "4o77TX0GfgF6II__gdA_Kh2DCgs",
             "id": "P5o2wD2C_A4",
             "snippet": {
                 "publishedAt": "2025-04-26T18:00:17Z",
@@ -1296,15 +1757,15 @@
                 "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "1497873",
-                "likeCount": "12190",
+                "viewCount": "1585006",
+                "likeCount": "12827",
                 "favoriteCount": "0",
-                "commentCount": "1101"
+                "commentCount": "1157"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OA_S3uNtFrCLkPKzpMMYWu62MLY",
+            "etag": "HpsmHq6Ly87hn4D7Z6E-g8N7AHU",
             "id": "n4ixZgEAVVA",
             "snippet": {
                 "publishedAt": "2025-04-28T22:30:08Z",
@@ -1372,15 +1833,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "644327",
-                "likeCount": "36533",
+                "viewCount": "678420",
+                "likeCount": "37742",
                 "favoriteCount": "0",
-                "commentCount": "2124"
+                "commentCount": "2020"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ssCsVeaNp0F2T6H27oPx-pfcSKY",
+            "etag": "EcAYY_DscDOjoU-vwDQzuVEte7s",
             "id": "zwkdZNn0c1Y",
             "snippet": {
                 "publishedAt": "2025-04-27T21:01:01Z",
@@ -1445,15 +1906,135 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "912371",
-                "likeCount": "60391",
+                "viewCount": "944687",
+                "likeCount": "61693",
                 "favoriteCount": "0",
-                "commentCount": "3614"
+                "commentCount": "3684"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Fh1oZEO496s6KBM9p5wJW71Ko4k",
+            "etag": "pXt5Z7-D3w3FLDqpASbjKllPDb4",
+            "id": "ObSdeMGcZ-k",
+            "snippet": {
+                "publishedAt": "2025-04-27T00:00:06Z",
+                "channelId": "UC_L9_swTsXlf74JyoReXzkQ",
+                "title": "JOSSIE AIR - GATA FICHU \ud83d\ude08 X @ElJordan23  [VIDEO OFFICIAL] BY @PROD.LETTER",
+                "description": "JOSSIE A SPOTIFY : https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5?si=ddnLIQVKTUCnhkWtRtO_0w\n\nJOSSIE A INSTAGRAM: https://www.instagram.com/jossie.air?igsh=djZqaWJpcHQzMDB6&utm_source=qr\n\nDIRECTOR DE VIDEO: https://www.instagram.com/lale_underfilms?igsh=MTIxNWJocW41MnFtMg==\n\nVFX: https://www.instagram.com/daxdisayn?igsh=azNxa2JuMXZhZm1p\n\nBEAT: https://www.instagram.com/prod.extraa?igsh=MXRwcmMwZ2pxeTFsNw== \n\nhttps://www.instagram.com/letter.prod?igsh=Z2ppd3lrbjI0NzN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jossie A",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "JOSSIE AIR - GATA FICHU \ud83d\ude08 X @ElJordan23  [VIDEO OFFICIAL] BY @PROD.LETTER",
+                    "description": "JOSSIE A SPOTIFY : https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5?si=ddnLIQVKTUCnhkWtRtO_0w\n\nJOSSIE A INSTAGRAM: https://www.instagram.com/jossie.air?igsh=djZqaWJpcHQzMDB6&utm_source=qr\n\nDIRECTOR DE VIDEO: https://www.instagram.com/lale_underfilms?igsh=MTIxNWJocW41MnFtMg==\n\nVFX: https://www.instagram.com/daxdisayn?igsh=azNxa2JuMXZhZm1p\n\nBEAT: https://www.instagram.com/prod.extraa?igsh=MXRwcmMwZ2pxeTFsNw== \n\nhttps://www.instagram.com/letter.prod?igsh=Z2ppd3lrbjI0NzN"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "444345",
+                "likeCount": "20419",
+                "favoriteCount": "0",
+                "commentCount": "1073"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kUUJ_Y3ZdEXOV2Z7x9nv_TBgXRg",
+            "id": "XvmHkdoWRNM",
+            "snippet": {
+                "publishedAt": "2025-04-27T20:44:18Z",
+                "channelId": "UCFmMw7yTuLTCuMhpZD5dVsg",
+                "title": "TIRO LIBRE HIST\u00d3RICO DE MASTANTUONO Y SUPERCL\u00c1SICO MILLONARIO EN N\u00da\u00d1EZ | River 2-1 Boca | RESUMEN",
+                "description": "Disfruta el #TorneoApertura 2025 en #DisneyPlus ingresando a este link: http://dis.la/ESPNenDisneyPlus_YT\n\nTorneo Apertura 2025\nFecha 15\nGoles: 25' F. Mastantuono (R); 38' M. Merentiel (B); 44' S. Driussi (R).\n\nNo te pierdas los videos de La Liga 2024/2025 en nuestra playlist: https://bit.ly/3AznMOa\n\n\u00bfYa te suscribiste a nuestro canal?: https://bit.ly/3x2ImCq\n \nPara m\u00e1s informaci\u00f3n, visita http://www.espn.com\n \nNo te olvides de seguirnos en TODAS las redes:\n\n* https://www.instagram.com/espnargentina/\n* https://x.com/ESPNArgentina\n* https://www.facebook.com/ESPNFans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ESPN Fans",
+                "tags": [
+                    "ESPN",
+                    "2025",
+                    "Resumen",
+                    "Goles",
+                    "Torneo Apertura",
+                    "Fecha 15",
+                    "River",
+                    "Boca",
+                    "Gallardo",
+                    "Gago",
+                    "Monumental",
+                    "Mastantuono",
+                    "Golazo",
+                    "Tiro Libre",
+                    "Driussi"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "TIRO LIBRE HIST\u00d3RICO DE MASTANTUONO Y SUPERCL\u00c1SICO MILLONARIO EN N\u00da\u00d1EZ | River 2-1 Boca | RESUMEN",
+                    "description": "Disfruta el #TorneoApertura 2025 en #DisneyPlus ingresando a este link: http://dis.la/ESPNenDisneyPlus_YT\n\nTorneo Apertura 2025\nFecha 15\nGoles: 25' F. Mastantuono (R); 38' M. Merentiel (B); 44' S. Driussi (R).\n\nNo te pierdas los videos de La Liga 2024/2025 en nuestra playlist: https://bit.ly/3AznMOa\n\n\u00bfYa te suscribiste a nuestro canal?: https://bit.ly/3x2ImCq\n \nPara m\u00e1s informaci\u00f3n, visita http://www.espn.com\n \nNo te olvides de seguirnos en TODAS las redes:\n\n* https://www.instagram.com/espnargentina/\n* https://x.com/ESPNArgentina\n* https://www.facebook.com/ESPNFans"
+                }
+            },
+            "statistics": {
+                "viewCount": "1843321",
+                "likeCount": "25174",
+                "favoriteCount": "0",
+                "commentCount": "2592"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "PwAPdzAehuPa296qgKhWzvltEZk",
             "id": "4V9p3aZxgWY",
             "snippet": {
                 "publishedAt": "2025-04-27T22:51:59Z",
@@ -1497,15 +2078,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1133566",
-                "likeCount": "47273",
+                "viewCount": "1160890",
+                "likeCount": "47902",
                 "favoriteCount": "0",
-                "commentCount": "4297"
+                "commentCount": "4332"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ztUb-WI51FXR7DXSezvGBxtd7go",
+            "etag": "VfET97bdjiZJeDy738Uvf4oX2jU",
             "id": "RtRob2bUlSk",
             "snippet": {
                 "publishedAt": "2025-04-23T21:00:06Z",
@@ -1574,67 +2155,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "558417",
-                "likeCount": "36898",
+                "viewCount": "587291",
+                "likeCount": "38490",
                 "favoriteCount": "0",
-                "commentCount": "6960"
+                "commentCount": "7331"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "7TJ2_JcHQnvhcKkjkZNK6m8_Oi4",
-            "id": "ObSdeMGcZ-k",
-            "snippet": {
-                "publishedAt": "2025-04-27T00:00:06Z",
-                "channelId": "UC_L9_swTsXlf74JyoReXzkQ",
-                "title": "JOSSIE AIR - GATA FICHU \ud83d\ude08 X @ElJordan23  [VIDEO OFFICIAL] BY @PROD.LETTER",
-                "description": "JOSSIE A SPOTIFY : https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5?si=ddnLIQVKTUCnhkWtRtO_0w\n\nJOSSIE A INSTAGRAM: https://www.instagram.com/jossie.air?igsh=djZqaWJpcHQzMDB6&utm_source=qr\n\nDIRECTOR DE VIDEO: https://www.instagram.com/lale_underfilms?igsh=MTIxNWJocW41MnFtMg==\n\nVFX: https://www.instagram.com/daxdisayn?igsh=azNxa2JuMXZhZm1p\n\nBEAT: https://www.instagram.com/prod.extraa?igsh=MXRwcmMwZ2pxeTFsNw== \n\nhttps://www.instagram.com/letter.prod?igsh=Z2ppd3lrbjI0NzN",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ObSdeMGcZ-k/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Jossie A",
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "JOSSIE AIR - GATA FICHU \ud83d\ude08 X @ElJordan23  [VIDEO OFFICIAL] BY @PROD.LETTER",
-                    "description": "JOSSIE A SPOTIFY : https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5?si=ddnLIQVKTUCnhkWtRtO_0w\n\nJOSSIE A INSTAGRAM: https://www.instagram.com/jossie.air?igsh=djZqaWJpcHQzMDB6&utm_source=qr\n\nDIRECTOR DE VIDEO: https://www.instagram.com/lale_underfilms?igsh=MTIxNWJocW41MnFtMg==\n\nVFX: https://www.instagram.com/daxdisayn?igsh=azNxa2JuMXZhZm1p\n\nBEAT: https://www.instagram.com/prod.extraa?igsh=MXRwcmMwZ2pxeTFsNw== \n\nhttps://www.instagram.com/letter.prod?igsh=Z2ppd3lrbjI0NzN"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "379001",
-                "likeCount": "18964",
-                "favoriteCount": "0",
-                "commentCount": "1014"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "M5l5Q6ujeudqFhTUAxCoaV5mfcw",
+            "etag": "PzVLw6TyWmbO_91U7APqgGm5Wy8",
             "id": "G0T8xGu2NxY",
             "snippet": {
                 "publishedAt": "2025-04-27T19:02:24Z",
@@ -1686,15 +2215,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1441544",
-                "likeCount": "89731",
+                "viewCount": "1540874",
+                "likeCount": "93990",
                 "favoriteCount": "0",
-                "commentCount": "3550"
+                "commentCount": "3719"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TBoSWzxILHR6bNI6EZ1FGTVP_gA",
+            "etag": "5nzbpnEcebItjbDqAY86eeG7MpQ",
             "id": "N4lCc3RPfms",
             "snippet": {
                 "publishedAt": "2025-04-27T00:43:15Z",
@@ -1786,15 +2315,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "914237",
-                "likeCount": "44330",
+                "viewCount": "945856",
+                "likeCount": "45114",
                 "favoriteCount": "0",
-                "commentCount": "2011"
+                "commentCount": "2048"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ym-Yham5Oei4yqofwVfI1otx88g",
+            "etag": "Ws-wTg3y9U6VbSWdCjvqZP88yjM",
             "id": "NeZ3TWruRfc",
             "snippet": {
                 "publishedAt": "2025-04-26T21:00:06Z",
@@ -1837,83 +2366,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "621998",
-                "likeCount": "92386",
+                "viewCount": "653930",
+                "likeCount": "97228",
                 "favoriteCount": "0",
-                "commentCount": "11428"
+                "commentCount": "11866"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Qtcibyz-0QZzsl4hPNzWC6N4e18",
-            "id": "XvmHkdoWRNM",
-            "snippet": {
-                "publishedAt": "2025-04-27T20:44:18Z",
-                "channelId": "UCFmMw7yTuLTCuMhpZD5dVsg",
-                "title": "TIRO LIBRE HIST\u00d3RICO DE MASTANTUONO Y SUPERCL\u00c1SICO MILLONARIO EN N\u00da\u00d1EZ | River 2-1 Boca | RESUMEN",
-                "description": "Disfruta el #TorneoApertura 2025 en #DisneyPlus ingresando a este link: http://dis.la/ESPNenDisneyPlus_YT\n\nTorneo Apertura 2025\nFecha 15\nGoles: 25' F. Mastantuono (R); 38' M. Merentiel (B); 44' S. Driussi (R).\n\nNo te pierdas los videos de La Liga 2024/2025 en nuestra playlist: https://bit.ly/3AznMOa\n\n\u00bfYa te suscribiste a nuestro canal?: https://bit.ly/3x2ImCq\n \nPara m\u00e1s informaci\u00f3n, visita http://www.espn.com\n \nNo te olvides de seguirnos en TODAS las redes:\n\n* https://www.instagram.com/espnargentina/\n* https://x.com/ESPNArgentina\n* https://www.facebook.com/ESPNFans",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/XvmHkdoWRNM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "ESPN Fans",
-                "tags": [
-                    "ESPN",
-                    "2025",
-                    "Resumen",
-                    "Goles",
-                    "Torneo Apertura",
-                    "Fecha 15",
-                    "River",
-                    "Boca",
-                    "Gallardo",
-                    "Gago",
-                    "Monumental",
-                    "Mastantuono",
-                    "Golazo",
-                    "Tiro Libre",
-                    "Driussi"
-                ],
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "TIRO LIBRE HIST\u00d3RICO DE MASTANTUONO Y SUPERCL\u00c1SICO MILLONARIO EN N\u00da\u00d1EZ | River 2-1 Boca | RESUMEN",
-                    "description": "Disfruta el #TorneoApertura 2025 en #DisneyPlus ingresando a este link: http://dis.la/ESPNenDisneyPlus_YT\n\nTorneo Apertura 2025\nFecha 15\nGoles: 25' F. Mastantuono (R); 38' M. Merentiel (B); 44' S. Driussi (R).\n\nNo te pierdas los videos de La Liga 2024/2025 en nuestra playlist: https://bit.ly/3AznMOa\n\n\u00bfYa te suscribiste a nuestro canal?: https://bit.ly/3x2ImCq\n \nPara m\u00e1s informaci\u00f3n, visita http://www.espn.com\n \nNo te olvides de seguirnos en TODAS las redes:\n\n* https://www.instagram.com/espnargentina/\n* https://x.com/ESPNArgentina\n* https://www.facebook.com/ESPNFans"
-                }
-            },
-            "statistics": {
-                "viewCount": "1804240",
-                "likeCount": "24764",
-                "favoriteCount": "0",
-                "commentCount": "2558"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "cJXQ66qK1bkwVtO_QY5JRM-E-R4",
+            "etag": "As1xwFI5hxCrvy-0ppIW_KiJ9zw",
             "id": "P7bd1rHPReE",
             "snippet": {
                 "publishedAt": "2025-04-27T01:00:33Z",
@@ -1956,15 +2417,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "146342",
-                "likeCount": "7725",
+                "viewCount": "149636",
+                "likeCount": "7850",
                 "favoriteCount": "0",
-                "commentCount": "154"
+                "commentCount": "156"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2f2ygHp3_3e72YlaqsgGxl5SkQg",
+            "etag": "rAsC41SKYwYToTFhF9kir2ObEEY",
             "id": "V5JkPE3A-Wo",
             "snippet": {
                 "publishedAt": "2025-04-26T17:30:16Z",
@@ -2051,15 +2512,15 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "986558",
-                "likeCount": "18647",
+                "viewCount": "1020503",
+                "likeCount": "19125",
                 "favoriteCount": "0",
-                "commentCount": "346"
+                "commentCount": "353"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Wc7za5kLAgk9tby9qJGNK_kXuuY",
+            "etag": "FWsVkCpJTLcTwgHKhE54_nwxNnw",
             "id": "1K38rvp7qVM",
             "snippet": {
                 "publishedAt": "2025-04-26T18:28:47Z",
@@ -2103,15 +2564,85 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "422881",
-                "likeCount": "12532",
+                "viewCount": "448371",
+                "likeCount": "13052",
                 "favoriteCount": "0",
-                "commentCount": "1207"
+                "commentCount": "1244"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "z6yAb32BSY8L9oE7r1AVF7RG8Tc",
+            "etag": "if9BzyDdrALQ_UemrhlZsS5gnjQ",
+            "id": "O-WsQlXaa0E",
+            "snippet": {
+                "publishedAt": "2025-04-25T17:00:02Z",
+                "channelId": "UCmBA_wu8xGg1OfOkfW13Q0Q",
+                "title": "BAD BUNNY - BOKeTE (Video Oficial) | DeB\u00cd TiRAR M\u00e1S FOToS",
+                "description": "BAD BUNNY - BOKeTE (Video Oficial)\nhttp://debitirarmasfotos.com\n\nM\u00e1s de Bad Bunny:\nnadie sabe lo que va a pasar ma\u00f1ana: https://www.youtube.com/watch?v=qWL7Iy7jhKc&list=PLRW7iEDD9RDR3nExwJcID9uzkHI3y53YX\nUN VERANO SIN TI: https://www.youtube.com/watch?v=p38WgakuYDo&list=PLRW7iEDD9RDStpKHAckdbGs3xaCChAL7Z\nEL \u00daLTIMO TOUR DEL MUNDO: https://www.youtube.com/watch?v=f5omY8jVrSM&list=PLRW7iEDD9RDQBBft2zmdpdcznIOyDw_n2\n\nSigue a Bad Bunny:\nSpotify: https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X\nApple Music: https://music.apple.com/us/artist/bad-bunny/1126808565\nInstagram: https://www.instagram.com/badbunnypr\u200b\nTikTok: https://www.tiktok.com/@badbunny\n\n\n#DeB\u00cdTiRARM\u00e1SFOToS\u200b #BOKeTE #BadBunny\n\u00a9 2025 Rimas Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bad Bunny",
+                "tags": [
+                    "Bad Bunny",
+                    "Badbunny",
+                    "Bad Buny",
+                    "Badbuni",
+                    "bad bunny debi tirar mas fotos",
+                    "debi tirar mas fotos bad bunny",
+                    "album mas fotos bad bunny",
+                    "bad bunny mas fotos",
+                    "debi tirar mas fotos",
+                    "bad bunny debi tirar mas fotos album",
+                    "boquete bad bunny",
+                    "bad bunny boquete",
+                    "bokete",
+                    "bad bunny bokete",
+                    "debi tirar mas fotos bokete",
+                    "bokete bad bunny video"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "BAD BUNNY - BOKeTE (Video Oficial) | DeB\u00cd TiRAR M\u00e1S FOToS",
+                    "description": "BAD BUNNY - BOKeTE (Video Oficial)\nhttp://debitirarmasfotos.com\n\nM\u00e1s de Bad Bunny:\nnadie sabe lo que va a pasar ma\u00f1ana: https://www.youtube.com/watch?v=qWL7Iy7jhKc&list=PLRW7iEDD9RDR3nExwJcID9uzkHI3y53YX\nUN VERANO SIN TI: https://www.youtube.com/watch?v=p38WgakuYDo&list=PLRW7iEDD9RDStpKHAckdbGs3xaCChAL7Z\nEL \u00daLTIMO TOUR DEL MUNDO: https://www.youtube.com/watch?v=f5omY8jVrSM&list=PLRW7iEDD9RDQBBft2zmdpdcznIOyDw_n2\n\nSigue a Bad Bunny:\nSpotify: https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X\nApple Music: https://music.apple.com/us/artist/bad-bunny/1126808565\nInstagram: https://www.instagram.com/badbunnypr\u200b\nTikTok: https://www.tiktok.com/@badbunny\n\n\n#DeB\u00cdTiRARM\u00e1SFOToS\u200b #BOKeTE #BadBunny\n\u00a9 2025 Rimas Entertainment"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "6965653",
+                "likeCount": "239800",
+                "favoriteCount": "0",
+                "commentCount": "9909"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wWVoIZWWbAs-pqWChIR2TctMJgM",
             "id": "tsgzVf36P8U",
             "snippet": {
                 "publishedAt": "2025-04-26T23:57:06Z",
@@ -2176,85 +2707,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "713936",
-                "likeCount": "49979",
+                "viewCount": "728786",
+                "likeCount": "50545",
                 "favoriteCount": "0",
-                "commentCount": "1216"
+                "commentCount": "1231"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "LS7boaKRbshB3oAL4oM6xBnC7_4",
-            "id": "O-WsQlXaa0E",
-            "snippet": {
-                "publishedAt": "2025-04-25T17:00:02Z",
-                "channelId": "UCmBA_wu8xGg1OfOkfW13Q0Q",
-                "title": "BAD BUNNY - BOKeTE (Video Oficial) | DeB\u00cd TiRAR M\u00e1S FOToS",
-                "description": "BAD BUNNY - BOKeTE (Video Oficial)\nhttp://debitirarmasfotos.com\n\nM\u00e1s de Bad Bunny:\nnadie sabe lo que va a pasar ma\u00f1ana: https://www.youtube.com/watch?v=qWL7Iy7jhKc&list=PLRW7iEDD9RDR3nExwJcID9uzkHI3y53YX\nUN VERANO SIN TI: https://www.youtube.com/watch?v=p38WgakuYDo&list=PLRW7iEDD9RDStpKHAckdbGs3xaCChAL7Z\nEL \u00daLTIMO TOUR DEL MUNDO: https://www.youtube.com/watch?v=f5omY8jVrSM&list=PLRW7iEDD9RDQBBft2zmdpdcznIOyDw_n2\n\nSigue a Bad Bunny:\nSpotify: https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X\nApple Music: https://music.apple.com/us/artist/bad-bunny/1126808565\nInstagram: https://www.instagram.com/badbunnypr\u200b\nTikTok: https://www.tiktok.com/@badbunny\n\n\n#DeB\u00cdTiRARM\u00e1SFOToS\u200b #BOKeTE #BadBunny\n\u00a9 2025 Rimas Entertainment",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/O-WsQlXaa0E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Bad Bunny",
-                "tags": [
-                    "Bad Bunny",
-                    "Badbunny",
-                    "Bad Buny",
-                    "Badbuni",
-                    "bad bunny debi tirar mas fotos",
-                    "debi tirar mas fotos bad bunny",
-                    "album mas fotos bad bunny",
-                    "bad bunny mas fotos",
-                    "debi tirar mas fotos",
-                    "bad bunny debi tirar mas fotos album",
-                    "boquete bad bunny",
-                    "bad bunny boquete",
-                    "bokete",
-                    "bad bunny bokete",
-                    "debi tirar mas fotos bokete",
-                    "bokete bad bunny video"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "BAD BUNNY - BOKeTE (Video Oficial) | DeB\u00cd TiRAR M\u00e1S FOToS",
-                    "description": "BAD BUNNY - BOKeTE (Video Oficial)\nhttp://debitirarmasfotos.com\n\nM\u00e1s de Bad Bunny:\nnadie sabe lo que va a pasar ma\u00f1ana: https://www.youtube.com/watch?v=qWL7Iy7jhKc&list=PLRW7iEDD9RDR3nExwJcID9uzkHI3y53YX\nUN VERANO SIN TI: https://www.youtube.com/watch?v=p38WgakuYDo&list=PLRW7iEDD9RDStpKHAckdbGs3xaCChAL7Z\nEL \u00daLTIMO TOUR DEL MUNDO: https://www.youtube.com/watch?v=f5omY8jVrSM&list=PLRW7iEDD9RDQBBft2zmdpdcznIOyDw_n2\n\nSigue a Bad Bunny:\nSpotify: https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X\nApple Music: https://music.apple.com/us/artist/bad-bunny/1126808565\nInstagram: https://www.instagram.com/badbunnypr\u200b\nTikTok: https://www.tiktok.com/@badbunny\n\n\n#DeB\u00cdTiRARM\u00e1SFOToS\u200b #BOKeTE #BadBunny\n\u00a9 2025 Rimas Entertainment"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "6366522",
-                "likeCount": "235863",
-                "favoriteCount": "0",
-                "commentCount": "9807"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ovhCNNMFL--PSbWLHtjzTYTXowg",
+            "etag": "ZzJ48aU8uKyQMW7PDfhwFhH0WDM",
             "id": "hgylrljspZI",
             "snippet": {
                 "publishedAt": "2025-04-26T20:33:14Z",
@@ -2314,15 +2775,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "952667",
-                "likeCount": "19404",
+                "viewCount": "1033647",
+                "likeCount": "20800",
                 "favoriteCount": "0",
-                "commentCount": "301"
+                "commentCount": "317"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9RIcSPHacLIv4wbNtSEaiH9KeTY",
+            "etag": "I_e-FHZ9cZMQBbaw4tVqwX-nf1g",
             "id": "ug3I39_SIIg",
             "snippet": {
                 "publishedAt": "2025-04-26T19:22:47Z",
@@ -2393,15 +2854,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1045571",
-                "likeCount": "12045",
+                "viewCount": "1080010",
+                "likeCount": "12335",
                 "favoriteCount": "0",
-                "commentCount": "702"
+                "commentCount": "710"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "WbzLRfjjn_j9LJS1WgqNV2Zp6wY",
+            "etag": "eNrePl0yogzs1iOpHVRl1520EXM",
             "id": "Ao2GsXHMD_4",
             "snippet": {
                 "publishedAt": "2025-04-26T04:00:11Z",
@@ -2478,15 +2939,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "5108725",
-                "likeCount": "588176",
+                "viewCount": "5386773",
+                "likeCount": "597748",
                 "favoriteCount": "0",
-                "commentCount": "25336"
+                "commentCount": "25534"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "beNDoCjsXXEvSu1afY4pUW4xWPQ",
+            "etag": "3F8Eq7-vjxCub_kTHLd6NZVIzqk",
             "id": "L1Ta38LNcUE",
             "snippet": {
                 "publishedAt": "2025-04-25T18:27:45Z",
@@ -2542,15 +3003,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "1515679",
-                "likeCount": "276414",
+                "viewCount": "1577665",
+                "likeCount": "283856",
                 "favoriteCount": "0",
-                "commentCount": "19968"
+                "commentCount": "20318"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sW3u8RqXeblSgNAhjnh3sJUCgIs",
+            "etag": "NepD6WPO3L74FlOft6ad8cPdI9U",
             "id": "EytoKrmbDxE",
             "snippet": {
                 "publishedAt": "2025-04-26T23:05:30Z",
@@ -2610,15 +3071,99 @@
                 }
             },
             "statistics": {
-                "viewCount": "662565",
-                "likeCount": "11400",
+                "viewCount": "668581",
+                "likeCount": "11448",
                 "favoriteCount": "0",
-                "commentCount": "819"
+                "commentCount": "827"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "a_1zzYC3Ef-WG47BJOPUUaQm_Hg",
+            "etag": "9RDiG-Wl8-51fSo8U0_2IMX72lk",
+            "id": "JoTw2opTMnQ",
+            "snippet": {
+                "publishedAt": "2025-04-23T14:55:07Z",
+                "channelId": "UCnhSkJbGJIBODLpsQvuOx3A",
+                "title": "ENTRE TRES - Arelys Henao X @FrancyPopular  X @PaolaJaraPJ   (Video Oficial)",
+                "description": "Suscr\u00edbete aqu\u00ed:\n@PaolaJaraPJ \n@FrancyPopular \n@ArelysHenao \n\u200b\u200b\n\n\nLetra \"Entre Tres Arelys Henao X Francy X Paola Jara\"\n\nArelys \u00bfTe la vas a tomar?\nPor Ustedes\nSalud\u2026\n\nAmigaaa que no se note\nsi te lo encuentras, que andas pensando en \u00e9l\nhazle creer que te encuentras mejor sola, \nque no sufres, que no lloras, aunque es dif\u00edcil de creer\n\nHagamos que piense\nque esas ojeras, son por la fiesta no por noches que te quedas\nllor\u00e1ndole un r\u00edo, sintiendo ese fr\u00edo, que te quema hasta los huesos\npor un coraz\u00f3n jodi\u00f3\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso se supera\u2026\n\nAy Coraz\u00f3n\nAmiga: Y llore lo que tenga que llorar\nPero eso se supera\nAs\u00ed es\n\nA esta meza que no paren de llegar botellas\nque estamos dispuestas a matar las penas\namiga tu bien sabes cuanto vales\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso, \nY eso, se supera\u2026\n\nSalud\nEso se supera\nAy ay ay\n\n\u2728S\u00edgueme en mis redes sociales:\nhttps://www.instagram.com/arelyshenao\nhttps://www.tiktok.com/@arelyshenao\nhttps://www.facebook.com/LaReinadelaMusicaPopular\nhttps://twitter.com/ARELYSHENAO\nSitio Web: www.arelyshenao.com.co\n\n\u2728Follow Paola Jara\nhttps://www.facebook.com/Paolajaramusica/\nhttps://www.instagram.com/paolajarapj/\nhttps://www.tiktok.com/@paolajarapj\nhttps://www.youtube.com/channel/UCyL7UkdG3lAHQPo8wgkrkZw\n\n\u2728Follow Francy\nhttps://www.facebook.com/francypopular\nhttps://www.instagram.com/francypopular/\nhttps://www.tiktok.com/@francypopular\nhttps://www.youtube.com/channel/UCEh1VvUXrvnzPsM9HHNhx5w\n\n\nEscucha Lo Mejor de la M\u00fasica Popular aqu\u00ed:\n\nhttps://youtube.com/playlist?list=PLclgO1I_5VIxeSHLYhGfg2_hG08ASuFCk&si=g_npylutLYZzsB_v\nhttps://www.youtube.com/playlist?list=PLvF0_IhkpZuOzWhUTXLqLmQs2AoHjq7XO\n\nPaola Jara\n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIyYKJZYDD6P_fg-q4ROWnmP&si=C3Hx3Jmnaffv9kvs \n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIzyE9xgs1WBTF0TBTaFNvNh&si=u3xGxLndPGEh2YC_\nFrancy\n\u2728 https://www.youtube.com/playlist?list=PLg81sWDhhBZWEmVdDZy_eym6EHt03sr6F\n\u2728 https://youtube.com/playlist?list=PLg81sWDhhBZUbjpQSMOQFd6qVV_GwL06t&si=WZdrxcp-f-nFVdCS\nArelys Henao\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuNgOUEOxAZCiP3Qi3fuoiu0&si=WPxXqbGpWW4v_wJo\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuP0qvoTdIsVXWoPA8j7hfWp&si=VZOlEUVSTdWfRbqU\n\n\nEscucha toda mi m\u00fasica en tu plataforma favorita: \ud83c\udfa7 https://onerpm.lnk.to/ArelysHenaoAW\n\nCr\u00e9ditos:\nInterpretes: Arelys Henao  @ArelysHenao Francy @Francy Paola Jara @PaolaJara \nAutor y Compositor: Simon Escobar Uribe / Tomas Botero Castrillon / Mateo Cano Calderon / Zaira Oca\u00f1a Bustamante / Luz Arely Henao Ruiz / Francia Elena Hernandez Rios / Paula Andrea Zapata Jaramillo \nProductores Ejecutivos: Hdos Music S.A.S, Francy Producciones S.A.S, PAZ S.A.S\nProductor Musical: Yohan \u00dasuga\nEstudio de Grabaci\u00f3n: @FelinosProducciones    \nProductora Audiovisual:  @EverestFilms  \nDirecci\u00f3n Video: Andr\u00e9s Osorio\n\n#arelyshenao #PaolaJara #FrancyPopular #LaReinaDeLaM\u00fasicaPopular",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ARELYS HENAO \"LA REINA DE LA MUSICA POPULAR\"",
+                "tags": [
+                    "Arelys Henao",
+                    "Lo Pasado Pisado",
+                    "Dices Que No Vuelves",
+                    "Amarga Despedida",
+                    "Tu Forma de Amar",
+                    "Francy",
+                    "Si Se Fue",
+                    "Se Fue",
+                    "Con la Misma Moneda",
+                    "La Gran Se\u00f1ora",
+                    "Que Hablen de M\u00ed",
+                    "Que Sufra",
+                    "Que Chupe y Que Llore",
+                    "Musica populas colombiana",
+                    "Paola Jara",
+                    "La Trigra del Caser\u00edo",
+                    "Como si Nada",
+                    "Muri\u00f3 El Amor",
+                    "La Conquista",
+                    "Jessi Uribe",
+                    "Luis Alfonso",
+                    "Yeison Jim\u00e9nez",
+                    "Jhonny Rivera",
+                    "Dar\u00edo G\u00f3mez",
+                    "La Pareja del A\u00f1o",
+                    "Te Dedico El Silencio",
+                    "las tres",
+                    "entre 3",
+                    "entre tres"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "ENTRE TRES - Arelys Henao X @FrancyPopular  X @PaolaJaraPJ   (Video Oficial)",
+                    "description": "Suscr\u00edbete aqu\u00ed:\n@PaolaJaraPJ \n@FrancyPopular \n@ArelysHenao \n\u200b\u200b\n\n\nLetra \"Entre Tres Arelys Henao X Francy X Paola Jara\"\n\nArelys \u00bfTe la vas a tomar?\nPor Ustedes\nSalud\u2026\n\nAmigaaa que no se note\nsi te lo encuentras, que andas pensando en \u00e9l\nhazle creer que te encuentras mejor sola, \nque no sufres, que no lloras, aunque es dif\u00edcil de creer\n\nHagamos que piense\nque esas ojeras, son por la fiesta no por noches que te quedas\nllor\u00e1ndole un r\u00edo, sintiendo ese fr\u00edo, que te quema hasta los huesos\npor un coraz\u00f3n jodi\u00f3\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso se supera\u2026\n\nAy Coraz\u00f3n\nAmiga: Y llore lo que tenga que llorar\nPero eso se supera\nAs\u00ed es\n\nA esta meza que no paren de llegar botellas\nque estamos dispuestas a matar las penas\namiga tu bien sabes cuanto vales\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso, \nY eso, se supera\u2026\n\nSalud\nEso se supera\nAy ay ay\n\n\u2728S\u00edgueme en mis redes sociales:\nhttps://www.instagram.com/arelyshenao\nhttps://www.tiktok.com/@arelyshenao\nhttps://www.facebook.com/LaReinadelaMusicaPopular\nhttps://twitter.com/ARELYSHENAO\nSitio Web: www.arelyshenao.com.co\n\n\u2728Follow Paola Jara\nhttps://www.facebook.com/Paolajaramusica/\nhttps://www.instagram.com/paolajarapj/\nhttps://www.tiktok.com/@paolajarapj\nhttps://www.youtube.com/channel/UCyL7UkdG3lAHQPo8wgkrkZw\n\n\u2728Follow Francy\nhttps://www.facebook.com/francypopular\nhttps://www.instagram.com/francypopular/\nhttps://www.tiktok.com/@francypopular\nhttps://www.youtube.com/channel/UCEh1VvUXrvnzPsM9HHNhx5w\n\n\nEscucha Lo Mejor de la M\u00fasica Popular aqu\u00ed:\n\nhttps://youtube.com/playlist?list=PLclgO1I_5VIxeSHLYhGfg2_hG08ASuFCk&si=g_npylutLYZzsB_v\nhttps://www.youtube.com/playlist?list=PLvF0_IhkpZuOzWhUTXLqLmQs2AoHjq7XO\n\nPaola Jara\n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIyYKJZYDD6P_fg-q4ROWnmP&si=C3Hx3Jmnaffv9kvs \n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIzyE9xgs1WBTF0TBTaFNvNh&si=u3xGxLndPGEh2YC_\nFrancy\n\u2728 https://www.youtube.com/playlist?list=PLg81sWDhhBZWEmVdDZy_eym6EHt03sr6F\n\u2728 https://youtube.com/playlist?list=PLg81sWDhhBZUbjpQSMOQFd6qVV_GwL06t&si=WZdrxcp-f-nFVdCS\nArelys Henao\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuNgOUEOxAZCiP3Qi3fuoiu0&si=WPxXqbGpWW4v_wJo\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuP0qvoTdIsVXWoPA8j7hfWp&si=VZOlEUVSTdWfRbqU\n\n\nEscucha toda mi m\u00fasica en tu plataforma favorita: \ud83c\udfa7 https://onerpm.lnk.to/ArelysHenaoAW\n\nCr\u00e9ditos:\nInterpretes: Arelys Henao  @ArelysHenao Francy @Francy Paola Jara @PaolaJara \nAutor y Compositor: Simon Escobar Uribe / Tomas Botero Castrillon / Mateo Cano Calderon / Zaira Oca\u00f1a Bustamante / Luz Arely Henao Ruiz / Francia Elena Hernandez Rios / Paula Andrea Zapata Jaramillo \nProductores Ejecutivos: Hdos Music S.A.S, Francy Producciones S.A.S, PAZ S.A.S\nProductor Musical: Yohan \u00dasuga\nEstudio de Grabaci\u00f3n: @FelinosProducciones    \nProductora Audiovisual:  @EverestFilms  \nDirecci\u00f3n Video: Andr\u00e9s Osorio\n\n#arelyshenao #PaolaJara #FrancyPopular #LaReinaDeLaM\u00fasicaPopular"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "1179710",
+                "likeCount": "29669",
+                "favoriteCount": "0",
+                "commentCount": "774"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mPiHOshIJIWoAEhzh3eeoly5F7k",
             "id": "qEz2Kwzix5s",
             "snippet": {
                 "publishedAt": "2025-04-25T17:30:21Z",
@@ -2704,99 +3249,15 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "1359200",
-                "likeCount": "11871",
+                "viewCount": "1403346",
+                "likeCount": "12181",
                 "favoriteCount": "0",
-                "commentCount": "1483"
+                "commentCount": "1510"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "kLBZ4kabPWRLoFD-ZprzDgwunZM",
-            "id": "JoTw2opTMnQ",
-            "snippet": {
-                "publishedAt": "2025-04-23T14:55:07Z",
-                "channelId": "UCnhSkJbGJIBODLpsQvuOx3A",
-                "title": "ENTRE TRES - Arelys Henao X @FrancyPopular  X @PaolaJaraPJ   (Video Oficial)",
-                "description": "Suscr\u00edbete aqu\u00ed:\n@PaolaJaraPJ \n@FrancyPopular \n@ArelysHenao \n\u200b\u200b\n\n\nLetra \"Entre Tres Arelys Henao X Francy X Paola Jara\"\n\nArelys \u00bfTe la vas a tomar?\nPor Ustedes\nSalud\u2026\n\nAmigaaa que no se note\nsi te lo encuentras, que andas pensando en \u00e9l\nhazle creer que te encuentras mejor sola, \nque no sufres, que no lloras, aunque es dif\u00edcil de creer\n\nHagamos que piense\nque esas ojeras, son por la fiesta no por noches que te quedas\nllor\u00e1ndole un r\u00edo, sintiendo ese fr\u00edo, que te quema hasta los huesos\npor un coraz\u00f3n jodi\u00f3\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso se supera\u2026\n\nAy Coraz\u00f3n\nAmiga: Y llore lo que tenga que llorar\nPero eso se supera\nAs\u00ed es\n\nA esta meza que no paren de llegar botellas\nque estamos dispuestas a matar las penas\namiga tu bien sabes cuanto vales\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso, \nY eso, se supera\u2026\n\nSalud\nEso se supera\nAy ay ay\n\n\u2728S\u00edgueme en mis redes sociales:\nhttps://www.instagram.com/arelyshenao\nhttps://www.tiktok.com/@arelyshenao\nhttps://www.facebook.com/LaReinadelaMusicaPopular\nhttps://twitter.com/ARELYSHENAO\nSitio Web: www.arelyshenao.com.co\n\n\u2728Follow Paola Jara\nhttps://www.facebook.com/Paolajaramusica/\nhttps://www.instagram.com/paolajarapj/\nhttps://www.tiktok.com/@paolajarapj\nhttps://www.youtube.com/channel/UCyL7UkdG3lAHQPo8wgkrkZw\n\n\u2728Follow Francy\nhttps://www.facebook.com/francypopular\nhttps://www.instagram.com/francypopular/\nhttps://www.tiktok.com/@francypopular\nhttps://www.youtube.com/channel/UCEh1VvUXrvnzPsM9HHNhx5w\n\n\nEscucha Lo Mejor de la M\u00fasica Popular aqu\u00ed:\n\nhttps://youtube.com/playlist?list=PLclgO1I_5VIxeSHLYhGfg2_hG08ASuFCk&si=g_npylutLYZzsB_v\nhttps://www.youtube.com/playlist?list=PLvF0_IhkpZuOzWhUTXLqLmQs2AoHjq7XO\n\nPaola Jara\n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIyYKJZYDD6P_fg-q4ROWnmP&si=C3Hx3Jmnaffv9kvs \n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIzyE9xgs1WBTF0TBTaFNvNh&si=u3xGxLndPGEh2YC_\nFrancy\n\u2728 https://www.youtube.com/playlist?list=PLg81sWDhhBZWEmVdDZy_eym6EHt03sr6F\n\u2728 https://youtube.com/playlist?list=PLg81sWDhhBZUbjpQSMOQFd6qVV_GwL06t&si=WZdrxcp-f-nFVdCS\nArelys Henao\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuNgOUEOxAZCiP3Qi3fuoiu0&si=WPxXqbGpWW4v_wJo\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuP0qvoTdIsVXWoPA8j7hfWp&si=VZOlEUVSTdWfRbqU\n\n\nEscucha toda mi m\u00fasica en tu plataforma favorita: \ud83c\udfa7 https://onerpm.lnk.to/ArelysHenaoAW\n\nCr\u00e9ditos:\nInterpretes: Arelys Henao  @ArelysHenao Francy @Francy Paola Jara @PaolaJara \nAutor y Compositor: Simon Escobar Uribe / Tomas Botero Castrillon / Mateo Cano Calderon / Zaira Oca\u00f1a Bustamante / Luz Arely Henao Ruiz / Francia Elena Hernandez Rios / Paula Andrea Zapata Jaramillo \nProductores Ejecutivos: Hdos Music S.A.S, Francy Producciones S.A.S, PAZ S.A.S\nProductor Musical: Yohan \u00dasuga\nEstudio de Grabaci\u00f3n: @FelinosProducciones    \nProductora Audiovisual:  @EverestFilms  \nDirecci\u00f3n Video: Andr\u00e9s Osorio\n\n#arelyshenao #PaolaJara #FrancyPopular #LaReinaDeLaM\u00fasicaPopular",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/JoTw2opTMnQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "ARELYS HENAO \"LA REINA DE LA MUSICA POPULAR\"",
-                "tags": [
-                    "Arelys Henao",
-                    "Lo Pasado Pisado",
-                    "Dices Que No Vuelves",
-                    "Amarga Despedida",
-                    "Tu Forma de Amar",
-                    "Francy",
-                    "Si Se Fue",
-                    "Se Fue",
-                    "Con la Misma Moneda",
-                    "La Gran Se\u00f1ora",
-                    "Que Hablen de M\u00ed",
-                    "Que Sufra",
-                    "Que Chupe y Que Llore",
-                    "Musica populas colombiana",
-                    "Paola Jara",
-                    "La Trigra del Caser\u00edo",
-                    "Como si Nada",
-                    "Muri\u00f3 El Amor",
-                    "La Conquista",
-                    "Jessi Uribe",
-                    "Luis Alfonso",
-                    "Yeison Jim\u00e9nez",
-                    "Jhonny Rivera",
-                    "Dar\u00edo G\u00f3mez",
-                    "La Pareja del A\u00f1o",
-                    "Te Dedico El Silencio",
-                    "las tres",
-                    "entre 3",
-                    "entre tres"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
-                "localized": {
-                    "title": "ENTRE TRES - Arelys Henao X @FrancyPopular  X @PaolaJaraPJ   (Video Oficial)",
-                    "description": "Suscr\u00edbete aqu\u00ed:\n@PaolaJaraPJ \n@FrancyPopular \n@ArelysHenao \n\u200b\u200b\n\n\nLetra \"Entre Tres Arelys Henao X Francy X Paola Jara\"\n\nArelys \u00bfTe la vas a tomar?\nPor Ustedes\nSalud\u2026\n\nAmigaaa que no se note\nsi te lo encuentras, que andas pensando en \u00e9l\nhazle creer que te encuentras mejor sola, \nque no sufres, que no lloras, aunque es dif\u00edcil de creer\n\nHagamos que piense\nque esas ojeras, son por la fiesta no por noches que te quedas\nllor\u00e1ndole un r\u00edo, sintiendo ese fr\u00edo, que te quema hasta los huesos\npor un coraz\u00f3n jodi\u00f3\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso se supera\u2026\n\nAy Coraz\u00f3n\nAmiga: Y llore lo que tenga que llorar\nPero eso se supera\nAs\u00ed es\n\nA esta meza que no paren de llegar botellas\nque estamos dispuestas a matar las penas\namiga tu bien sabes cuanto vales\n\nCoro:\nTranquila, entre tres eso m\u00e1s f\u00e1cil se supera\nlas amigas est\u00e1n pa' curar las penas\nhoy me visto de tu piel a tu dolor, no soy ajena\n\nTranquila, que yo te acompa\u00f1o en tu borrachera\nte presto el hombro pa' que llores cuando quieras\nYo soy tu amiga y yo ya pase por eso\u2026\nY eso, \nY eso, se supera\u2026\n\nSalud\nEso se supera\nAy ay ay\n\n\u2728S\u00edgueme en mis redes sociales:\nhttps://www.instagram.com/arelyshenao\nhttps://www.tiktok.com/@arelyshenao\nhttps://www.facebook.com/LaReinadelaMusicaPopular\nhttps://twitter.com/ARELYSHENAO\nSitio Web: www.arelyshenao.com.co\n\n\u2728Follow Paola Jara\nhttps://www.facebook.com/Paolajaramusica/\nhttps://www.instagram.com/paolajarapj/\nhttps://www.tiktok.com/@paolajarapj\nhttps://www.youtube.com/channel/UCyL7UkdG3lAHQPo8wgkrkZw\n\n\u2728Follow Francy\nhttps://www.facebook.com/francypopular\nhttps://www.instagram.com/francypopular/\nhttps://www.tiktok.com/@francypopular\nhttps://www.youtube.com/channel/UCEh1VvUXrvnzPsM9HHNhx5w\n\n\nEscucha Lo Mejor de la M\u00fasica Popular aqu\u00ed:\n\nhttps://youtube.com/playlist?list=PLclgO1I_5VIxeSHLYhGfg2_hG08ASuFCk&si=g_npylutLYZzsB_v\nhttps://www.youtube.com/playlist?list=PLvF0_IhkpZuOzWhUTXLqLmQs2AoHjq7XO\n\nPaola Jara\n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIyYKJZYDD6P_fg-q4ROWnmP&si=C3Hx3Jmnaffv9kvs \n\u2728 https://youtube.com/playlist?list=PLclgO1I_5VIzyE9xgs1WBTF0TBTaFNvNh&si=u3xGxLndPGEh2YC_\nFrancy\n\u2728 https://www.youtube.com/playlist?list=PLg81sWDhhBZWEmVdDZy_eym6EHt03sr6F\n\u2728 https://youtube.com/playlist?list=PLg81sWDhhBZUbjpQSMOQFd6qVV_GwL06t&si=WZdrxcp-f-nFVdCS\nArelys Henao\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuNgOUEOxAZCiP3Qi3fuoiu0&si=WPxXqbGpWW4v_wJo\n\u2728 https://youtube.com/playlist?list=PLvF0_IhkpZuP0qvoTdIsVXWoPA8j7hfWp&si=VZOlEUVSTdWfRbqU\n\n\nEscucha toda mi m\u00fasica en tu plataforma favorita: \ud83c\udfa7 https://onerpm.lnk.to/ArelysHenaoAW\n\nCr\u00e9ditos:\nInterpretes: Arelys Henao  @ArelysHenao Francy @Francy Paola Jara @PaolaJara \nAutor y Compositor: Simon Escobar Uribe / Tomas Botero Castrillon / Mateo Cano Calderon / Zaira Oca\u00f1a Bustamante / Luz Arely Henao Ruiz / Francia Elena Hernandez Rios / Paula Andrea Zapata Jaramillo \nProductores Ejecutivos: Hdos Music S.A.S, Francy Producciones S.A.S, PAZ S.A.S\nProductor Musical: Yohan \u00dasuga\nEstudio de Grabaci\u00f3n: @FelinosProducciones    \nProductora Audiovisual:  @EverestFilms  \nDirecci\u00f3n Video: Andr\u00e9s Osorio\n\n#arelyshenao #PaolaJara #FrancyPopular #LaReinaDeLaM\u00fasicaPopular"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "1096409",
-                "likeCount": "28883",
-                "favoriteCount": "0",
-                "commentCount": "765"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "uFppVJpYAaL1TYD8LCJF4jF4-SQ",
+            "etag": "pJME0vOCyMaAOJzSq7HQ3trQZBM",
             "id": "K9O-7wsI8c0",
             "snippet": {
                 "publishedAt": "2025-04-25T00:06:00Z",
@@ -2858,67 +3319,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "2374316",
-                "likeCount": "281067",
+                "viewCount": "2467001",
+                "likeCount": "285235",
                 "favoriteCount": "0",
-                "commentCount": "16823"
+                "commentCount": "17034"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "boqmXWi4wWUdg23wHkkxVlaoGAU",
-            "id": "bDdvKX5zaaU",
-            "snippet": {
-                "publishedAt": "2025-04-29T00:02:00Z",
-                "channelId": "UCacwJGq88LR1AWj5Gzvl5Ow",
-                "title": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)",
-                "description": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)\n\nhttps://orcd.co/cultoii\n\n#TROPICANA #CULTOII #NEOPISTEA \n\nNeo Pistea\nhttps://www.instagram.com/neopistea/\nhttps://www.instagram.com/_culto__/\n\nCallejero Fino\nhttps://www.instagram.com/callejerofino/?hl=es\n\nProd. Musical\nCLUBHATS: https://www.instagram.com/clubhats/?hl=es\nONIRIA: https://www.instagram.com/o.n.i.r.i.a/?hl=es-la\n\nMix\nTezzio\nhttps://www.instagram.com/teezio/\n\nMastering \nCarlos Laurenz\nhttps://www.instagram.com/carloslaurenzmastering/\n\nDirecci\u00f3n: Cruz Larrosa\nProducci\u00f3n: Bunker \nJefa de Producci\u00f3n: Giovanna Garcia\nDirecci\u00f3n de Fotograf\u00eda: Pedro Adamovsky\nDirecci\u00f3n de Arte: Ana Massera, Juan Wolf\nVestuario: Damasia Arias\nMontaje: Angrisexx, Cruz Larrosa\nColor Grading: Daniel Carrizo\nB-Roll: QES, Angrisexx, Azul Renzi, Santiago Tiberi\n\nhttps://neopistea.com/\n\n(C) (P) 2024 Sony Music Entertainment Uruguay SA, licenciado a DALE PLAY Records",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Neo Pistea",
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)",
-                    "description": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)\n\nhttps://orcd.co/cultoii\n\n#TROPICANA #CULTOII #NEOPISTEA \n\nNeo Pistea\nhttps://www.instagram.com/neopistea/\nhttps://www.instagram.com/_culto__/\n\nCallejero Fino\nhttps://www.instagram.com/callejerofino/?hl=es\n\nProd. Musical\nCLUBHATS: https://www.instagram.com/clubhats/?hl=es\nONIRIA: https://www.instagram.com/o.n.i.r.i.a/?hl=es-la\n\nMix\nTezzio\nhttps://www.instagram.com/teezio/\n\nMastering \nCarlos Laurenz\nhttps://www.instagram.com/carloslaurenzmastering/\n\nDirecci\u00f3n: Cruz Larrosa\nProducci\u00f3n: Bunker \nJefa de Producci\u00f3n: Giovanna Garcia\nDirecci\u00f3n de Fotograf\u00eda: Pedro Adamovsky\nDirecci\u00f3n de Arte: Ana Massera, Juan Wolf\nVestuario: Damasia Arias\nMontaje: Angrisexx, Cruz Larrosa\nColor Grading: Daniel Carrizo\nB-Roll: QES, Angrisexx, Azul Renzi, Santiago Tiberi\n\nhttps://neopistea.com/\n\n(C) (P) 2024 Sony Music Entertainment Uruguay SA, licenciado a DALE PLAY Records"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "105604",
-                "likeCount": "10780",
-                "favoriteCount": "0",
-                "commentCount": "557"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "RB1FbxgV7JLQOH4iTmJUSTW_vQA",
+            "etag": "15WmMDYIExWpxP9cBTzmHf3_fCs",
             "id": "LEhTlLnOVDU",
             "snippet": {
                 "publishedAt": "2025-04-25T00:00:31Z",
@@ -2966,484 +3375,62 @@
                 }
             },
             "statistics": {
-                "viewCount": "3478848",
-                "likeCount": "190812",
+                "viewCount": "3919116",
+                "likeCount": "203790",
                 "favoriteCount": "0",
-                "commentCount": "6788"
+                "commentCount": "6954"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "0Z7ACqn7Uxj636VwERj2uOM5uoY",
-            "id": "w85hK1z31ZU",
+            "etag": "UtM723ptXdG4HMyyq0HsT2dTodI",
+            "id": "bDdvKX5zaaU",
             "snippet": {
-                "publishedAt": "2025-04-25T02:00:06Z",
-                "channelId": "UCq4uL-aOqHnIzioax10cq7A",
-                "title": "Liz Loyo - As\u00ed Fue (Video Oficial)",
-                "description": "#lizloyo #asifue \n\nEscucha As\u00ed Fue en tu plataforma de streaming favorita: https://distrokid.com/hyperfollow/lizloyo/as-fue-3\n\n\ud83d\udea9 No te pierdas de nada sigui\u00e9ndome en redes sociales: \nInstagram: https://www.instagram.com/lizloyomusic/\nTikTok: https://www.tiktok.com/@liz_loyo\nFacebook: https://www.facebook.com/lizbet.sanchez.3114\n\nAutor: Alberto Aguilera Valadez\n\nUna producci\u00f3n de Tacos Films\n\n(c) 2025 La Chiquis del Mariachi\n\n#LizLoyo #mariachi #chiquisdelmariachi",
+                "publishedAt": "2025-04-29T00:02:00Z",
+                "channelId": "UCacwJGq88LR1AWj5Gzvl5Ow",
+                "title": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)",
+                "description": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)\n\nhttps://orcd.co/cultoii\n\n#TROPICANA #CULTOII #NEOPISTEA \n\nNeo Pistea\nhttps://www.instagram.com/neopistea/\nhttps://www.instagram.com/_culto__/\n\nCallejero Fino\nhttps://www.instagram.com/callejerofino/?hl=es\n\nProd. Musical\nCLUBHATS: https://www.instagram.com/clubhats/?hl=es\nONIRIA: https://www.instagram.com/o.n.i.r.i.a/?hl=es-la\n\nMix\nTezzio\nhttps://www.instagram.com/teezio/\n\nMastering \nCarlos Laurenz\nhttps://www.instagram.com/carloslaurenzmastering/\n\nDirecci\u00f3n: Cruz Larrosa\nProducci\u00f3n: Bunker \nJefa de Producci\u00f3n: Giovanna Garcia\nDirecci\u00f3n de Fotograf\u00eda: Pedro Adamovsky\nDirecci\u00f3n de Arte: Ana Massera, Juan Wolf\nVestuario: Damasia Arias\nMontaje: Angrisexx, Cruz Larrosa\nColor Grading: Daniel Carrizo\nB-Roll: QES, Angrisexx, Azul Renzi, Santiago Tiberi\n\nhttps://neopistea.com/\n\n(C) (P) 2024 Sony Music Entertainment Uruguay SA, licenciado a DALE PLAY Records",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bDdvKX5zaaU/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "Liz Loyo",
-                "tags": [
-                    "Liz Loyo Asi Fue",
-                    "Asi Fue Juan Gabriel",
-                    "Liz Loyo Videos",
-                    "liz loyo no te aferres",
-                    "No Te Aferres",
-                    "Mariachi",
-                    "Ixtlahuac\u00e1n del R\u00edo",
-                    "Cadereyta"
-                ],
+                "channelTitle": "Neo Pistea",
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "Liz Loyo - As\u00ed Fue (Video Oficial)",
-                    "description": "#lizloyo #asifue \n\nEscucha As\u00ed Fue en tu plataforma de streaming favorita: https://distrokid.com/hyperfollow/lizloyo/as-fue-3\n\n\ud83d\udea9 No te pierdas de nada sigui\u00e9ndome en redes sociales: \nInstagram: https://www.instagram.com/lizloyomusic/\nTikTok: https://www.tiktok.com/@liz_loyo\nFacebook: https://www.facebook.com/lizbet.sanchez.3114\n\nAutor: Alberto Aguilera Valadez\n\nUna producci\u00f3n de Tacos Films\n\n(c) 2025 La Chiquis del Mariachi\n\n#LizLoyo #mariachi #chiquisdelmariachi"
-                }
-            },
-            "statistics": {
-                "viewCount": "866050",
-                "likeCount": "52949",
-                "favoriteCount": "0",
-                "commentCount": "2121"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Q2WdwOiu1W0Y2GZiunhmWpdbauI",
-            "id": "ycLFqJ_xssk",
-            "snippet": {
-                "publishedAt": "2025-04-25T16:00:07Z",
-                "channelId": "UCGAwMlmn9HCnmV0lRAvNwCg",
-                "title": "DORAYAKI (Videoclip Oficial) - Karina, Hugo23, Osquitar - Con Letra",
-                "description": "Os presento nuestro nuevo videoclip DORAYAKI (Video Oficial) , es una cancion muy especial para mi, acompa\u00f1ada de Hugo23 y Osquitar \nGracias por estar con nosotros todo este tiempo, pronto viene mucha m\u00fasica.\nOs amo...\nMBR\n\nDORAYAKI (Official Video) - Karina, Hugo23, Osquitar \n\nTIENDA OFICIAL:\nhttps://karinaymarina.es/store/\n\n#music #videoclip #musicvideo",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ycLFqJ_xssk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ycLFqJ_xssk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ycLFqJ_xssk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ycLFqJ_xssk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ycLFqJ_xssk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Karina y Marina",
-                "tags": [
-                    "dorayaki karina",
-                    "nueva cancion karina",
-                    "nueva cancion dorayaki karina",
-                    "karina dorayaki",
-                    "bombon karina",
-                    "bombon karina con letra",
-                    "bombon karina letra",
-                    "karina y marina",
-                    "bombon hugo23",
-                    "bombon",
-                    "beso karina y hugo",
-                    "cancion karina y hugo",
-                    "cancion vecinos",
-                    "cancion vecinos karina",
-                    "chica mala",
-                    "chica mala karina",
-                    "musica",
-                    "space",
-                    "music",
-                    "reggaeton",
-                    "mi cancion",
-                    "videoclip oficial",
-                    "musica latina",
-                    "music video",
-                    "porfa karina",
-                    "latin music",
-                    "karol g",
-                    "rosalia",
-                    "tini",
-                    "hugo23",
-                    "beso karina y chica"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "DORAYAKI (Videoclip Oficial) - Karina, Hugo23, Osquitar - Con Letra",
-                    "description": "Os presento nuestro nuevo videoclip DORAYAKI (Video Oficial) , es una cancion muy especial para mi, acompa\u00f1ada de Hugo23 y Osquitar \nGracias por estar con nosotros todo este tiempo, pronto viene mucha m\u00fasica.\nOs amo...\nMBR\n\nDORAYAKI (Official Video) - Karina, Hugo23, Osquitar \n\nTIENDA OFICIAL:\nhttps://karinaymarina.es/store/\n\n#music #videoclip #musicvideo"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "2422845",
-                "likeCount": "48488",
-                "favoriteCount": "0",
-                "commentCount": "12952"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "SKAVQ_iPFCgOa8G6oFfHbkguYHc",
-            "id": "Lf566pMNCOw",
-            "snippet": {
-                "publishedAt": "2025-04-25T01:00:07Z",
-                "channelId": "UCb164jMdHd94O34bASFbI3Q",
-                "title": "AMISTA \ud83d\udc94 (VIDEO OFICIAL) | BLESSD \u274c OVY ON THE DRUMS",
-                "description": "\ud83d\udc94 AMISTA  |  BLESSD \u274c @OvyOnTheDrums \n\nMira mis m\u00e1s recientes videos\nTE CANTO BAJITO \u25b6\ufe0f\u25b6\ufe0f https://www.youtube.com/watch?v=4wcbJGoDvqM\nULTRA COMPLICADO REMIX \u25b6\ufe0f\u25b6\ufe0f https://www.youtube.com/watch?v=eeBQrWAVSV0\n\nSUBSCR\u00cdBETE  para ver mis nuevos videos aqu\u00ed \n\u25b6\ufe0f https://Blessd.lnk.to/BlessdYoutube\n\nS\u00edgueme en mis redes sociales:  \n\u25b6\ufe0f Instagram https://Blessd.lnk.to/Instagram\n\u25b6\ufe0f Facebook https://Blessd.lnk.to/Facebook\n\nLETRA\n\nAmista\n\nVoy a ahogarme  con la realidad si no te digo esto,todav\u00eda te extra\u00f1o,todav\u00eda te pienso,reina no te estoy hablando yo,son mis sentimientos,s\u00e9 que tuve mis fallos ya he aprendido de ellos y a veces quiero pensar que t\u00fa tampoco a m\u00ed me has dejado de pensar lo que veo en tus redes es lo contrario,ver tus perfiles  es un mal necesario.\n\nY si me vieras quiz\u00e1s algo de ti de pronto a mi quisiera regresar reina yo no pierdo la esperanza de que alg\u00fan d\u00eda volvamos,ojal\u00e1 sintieras esto que estoy sintiendo,ojal\u00e1 y me vieras as\u00ed bebiendo para que te des cuenta que por ti estoy muriendo  pero si no quieres volver entiendo.\n\nEstoy tomando \u2026 para matar este guayabo amoroso de tanto hablarte ma creo que es acoso,t\u00fa fuiste la m\u00e1s linda aunque perd\u00ed lo m\u00e1s valioso quiero volverte a ver as\u00ed suene ambicioso y s\u00e9 que t\u00fa perd\u00f3n no merezco,pienso en lo que hice y hasta yo me aborrezco si en tu vida  m\u00e1s no aparezco quiero que sepas que por todo te agradezco.\n\nTe pienso mucho ni\u00f1a, extra\u00f1o esos besitos con sabor a caipiri\u00f1a,me muero de celos pensando que otro el ojo te gui\u00f1a ojal\u00e1 y no me olvides si con el t\u00fa te encari\u00f1as.\n\nAyer que regres\u00e9 a mi pueblo alguien me dijo que ya te casaste,m\u00edrame y dime si ya me olvidaste beb\u00e9 no te deseo el mal pero ojal\u00e1 sintieras esto que estoy sintiendo,ojal\u00e1 y me vieras as\u00ed bebiendo para que te des cuenta que por ti estoy muriendo pero si no quieres volver entiendo.\n\n#Latin \n#AMISTA \n#Urban \n#Reggaet\u00f3n \n#Trap  \n#Blessd \n#OVYONTHEDRUMS\n\n\n\u00a9 2025 Todos Los Derechos Reservados",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Lf566pMNCOw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Lf566pMNCOw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Lf566pMNCOw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Lf566pMNCOw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Lf566pMNCOw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "BLESSD EL BENDITO \ud83d\udc99",
-                "tags": [
-                    "blessd",
-                    "blessed",
-                    "hecho en medellin",
-                    "el bendito",
-                    "barrio antioquia",
-                    "reggaeton",
-                    "reggaeton medellin",
-                    "urbano",
-                    "Anuel",
-                    "AnuelAA",
-                    "RyanCastro",
-                    "Darell",
-                    "OVY ON THE DRUMS"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "AMISTA \ud83d\udc94 (VIDEO OFICIAL) | BLESSD \u274c OVY ON THE DRUMS",
-                    "description": "\ud83d\udc94 AMISTA  |  BLESSD \u274c @OvyOnTheDrums \n\nMira mis m\u00e1s recientes videos\nTE CANTO BAJITO \u25b6\ufe0f\u25b6\ufe0f https://www.youtube.com/watch?v=4wcbJGoDvqM\nULTRA COMPLICADO REMIX \u25b6\ufe0f\u25b6\ufe0f https://www.youtube.com/watch?v=eeBQrWAVSV0\n\nSUBSCR\u00cdBETE  para ver mis nuevos videos aqu\u00ed \n\u25b6\ufe0f https://Blessd.lnk.to/BlessdYoutube\n\nS\u00edgueme en mis redes sociales:  \n\u25b6\ufe0f Instagram https://Blessd.lnk.to/Instagram\n\u25b6\ufe0f Facebook https://Blessd.lnk.to/Facebook\n\nLETRA\n\nAmista\n\nVoy a ahogarme  con la realidad si no te digo esto,todav\u00eda te extra\u00f1o,todav\u00eda te pienso,reina no te estoy hablando yo,son mis sentimientos,s\u00e9 que tuve mis fallos ya he aprendido de ellos y a veces quiero pensar que t\u00fa tampoco a m\u00ed me has dejado de pensar lo que veo en tus redes es lo contrario,ver tus perfiles  es un mal necesario.\n\nY si me vieras quiz\u00e1s algo de ti de pronto a mi quisiera regresar reina yo no pierdo la esperanza de que alg\u00fan d\u00eda volvamos,ojal\u00e1 sintieras esto que estoy sintiendo,ojal\u00e1 y me vieras as\u00ed bebiendo para que te des cuenta que por ti estoy muriendo  pero si no quieres volver entiendo.\n\nEstoy tomando \u2026 para matar este guayabo amoroso de tanto hablarte ma creo que es acoso,t\u00fa fuiste la m\u00e1s linda aunque perd\u00ed lo m\u00e1s valioso quiero volverte a ver as\u00ed suene ambicioso y s\u00e9 que t\u00fa perd\u00f3n no merezco,pienso en lo que hice y hasta yo me aborrezco si en tu vida  m\u00e1s no aparezco quiero que sepas que por todo te agradezco.\n\nTe pienso mucho ni\u00f1a, extra\u00f1o esos besitos con sabor a caipiri\u00f1a,me muero de celos pensando que otro el ojo te gui\u00f1a ojal\u00e1 y no me olvides si con el t\u00fa te encari\u00f1as.\n\nAyer que regres\u00e9 a mi pueblo alguien me dijo que ya te casaste,m\u00edrame y dime si ya me olvidaste beb\u00e9 no te deseo el mal pero ojal\u00e1 sintieras esto que estoy sintiendo,ojal\u00e1 y me vieras as\u00ed bebiendo para que te des cuenta que por ti estoy muriendo pero si no quieres volver entiendo.\n\n#Latin \n#AMISTA \n#Urban \n#Reggaet\u00f3n \n#Trap  \n#Blessd \n#OVYONTHEDRUMS\n\n\n\u00a9 2025 Todos Los Derechos Reservados"
+                    "title": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)",
+                    "description": "Neo Pistea, Callejero Fino - TROPICANA (Visualizer)\n\nhttps://orcd.co/cultoii\n\n#TROPICANA #CULTOII #NEOPISTEA \n\nNeo Pistea\nhttps://www.instagram.com/neopistea/\nhttps://www.instagram.com/_culto__/\n\nCallejero Fino\nhttps://www.instagram.com/callejerofino/?hl=es\n\nProd. Musical\nCLUBHATS: https://www.instagram.com/clubhats/?hl=es\nONIRIA: https://www.instagram.com/o.n.i.r.i.a/?hl=es-la\n\nMix\nTezzio\nhttps://www.instagram.com/teezio/\n\nMastering \nCarlos Laurenz\nhttps://www.instagram.com/carloslaurenzmastering/\n\nDirecci\u00f3n: Cruz Larrosa\nProducci\u00f3n: Bunker \nJefa de Producci\u00f3n: Giovanna Garcia\nDirecci\u00f3n de Fotograf\u00eda: Pedro Adamovsky\nDirecci\u00f3n de Arte: Ana Massera, Juan Wolf\nVestuario: Damasia Arias\nMontaje: Angrisexx, Cruz Larrosa\nColor Grading: Daniel Carrizo\nB-Roll: QES, Angrisexx, Azul Renzi, Santiago Tiberi\n\nhttps://neopistea.com/\n\n(C) (P) 2024 Sony Music Entertainment Uruguay SA, licenciado a DALE PLAY Records"
                 },
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "8834341",
-                "likeCount": "238950",
+                "viewCount": "128625",
+                "likeCount": "12088",
                 "favoriteCount": "0",
-                "commentCount": "11456"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "3IChUC3uMtrjDAAZuM36DlZfXic",
-            "id": "D5aSTdAy2zM",
-            "snippet": {
-                "publishedAt": "2025-04-25T00:00:06Z",
-                "channelId": "UCMKeI-yvqauoK9qKmJKOBwQ",
-                "title": "Yeri Mua, Snow Tha Product - Modo Antidepresivo (Video Oficial)",
-                "description": "Yeri Mua, Snow Tha Product - Modo Antidepresivo | Video Oficial\n\nEsc\u00fachala y gu\u00e1rdala en plataformas\n\u203a https://yerimuaa.lnk.to/ModoAntidepresivo\n\nEscucha los \u00e9xitos de Yeri Mua: https://SonyMexico.lnk.to/YeriMuaPlExitos\n\nSigue a Yeri Mua en\n\u203a TikTok: https://www.tiktok.com/@yerimuaa\n\u203a Instagram: https://www.instagram.com/yerimua/\n\u203a Facebook: https://www.facebook.com/yerimua/\n\nSigue a Snow Tha Product en\n\u203a TikTok: https://www.tiktok.com/@snowthaproduct\n\u203a Instagram: https://www.instagram.com/snowthaproduct/\n\u203a Facebook: https://www.facebook.com/SnowThaProduct\n\nLetra / Lyrics\n\nModo antidepresivo con la depre no combino\nMi exnovio pa\u2019 la mierda, yo ya cambi\u00e9 mi destino\n\nMo-mo-mo-modo antidepresivo-oh-oh-oh-oh\nMi exnovio mi-mi-mierda \nMi-mi destino-ino \nMo-mo-mo-modo antidepresivo-oh-oh-oh-oh\nMi exnovio mi-mierda \nMi-mi destino-ino \n\nYeah\nHoy no quiero nada de drama a m\u00ed me vale lo que pas\u00f3\nHoy yo quiero noche de chavas cuando salgo entro en raz\u00f3n\nYa no estoy down\nI\u2019m up \nP\u00e1same info\nWhatsup\nVamos a Miami \nA un club\nYo no hago fila (uh \u2013 uh)\n\nHoy yo quiero fun, hoy yo quiero vibe\nComo se dice all\u00e1 en LA, tonight bitch we outside \n\nEl carro frontback, side to side \nI know you want to catch a vibe\nSnow tha product, Yeri Mua\nAnd I got the table pour the shots\n\nAnd the bad bitches (ok)\nQue las que coronan no lloran por un wey \nQuiero un tequilita, lim\u00f3n and to get paid\nEntro al club y todos like hey\n\nDance, glam, cameras flash \nLipstick on mascara lashes\nTira al boyfriend para el trash\nEs de chavas, get cash\n\nModo antidepresivo con la depre no combino\nMi exnovio pa\u2019 la mierda, yo ya cambi\u00e9 mi destino\nMo-mo-mo-modo antidepresivo-oh-oh-oh-oh\nMi exnovio mi-mierda \nMi-mi destino-ino \n\nEn la Mercedes ruleteando con mis Real G 4 life\nMis pesta\u00f1a est\u00e1n m\u00e1s largas que la v**ga de ese man \nAll right, that\u2019s fine (a la m\u00e1s perra le puede pasar)\nPero estoy hasta la madre de tanto pinche pat\u00e1n\n\nPerdona el tiempo\nYa no lo pierdo baby (voy bien tendo)\n\nDe bellaquera con mi baby, flow violento \nAqu\u00ed no entran chacales, papi lo siento\n\nQuiero glam\nCameras flash\nAll right, that\u00b4s fine \nTira al boyfriend para el trash\nEs de chavas, get cash\n(Hey)\nAll right, that\u2019s fine\nCameras, flash\n\n#YeriMua #SnowThaProduct #ModoAntidepresivo\n\n(C) 2025 Sony Music Entertainment M\u00e9xico, S.A. de C.V.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/D5aSTdAy2zM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/D5aSTdAy2zM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/D5aSTdAy2zM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/D5aSTdAy2zM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/D5aSTdAy2zM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YeriMuaVEVO",
-                "tags": [
-                    "latin",
-                    "latin music",
-                    "musica en espa\u00f1ol",
-                    "mexico",
-                    "video",
-                    "video oficial",
-                    "video con letra",
-                    "lyric",
-                    "lyrics video",
-                    "video letra",
-                    "letra de la canci\u00f3n",
-                    "yeri mua",
-                    "snow tha product",
-                    "snow the product",
-                    "noche de chavas",
-                    "flow mexa",
-                    "mujeres mexas",
-                    "mujeres mexicanas",
-                    "reggaeton mexa",
-                    "reggaeton",
-                    "rap",
-                    "rap en espa\u00f1ol",
-                    "la patrona",
-                    "tu patrona yeri mua",
-                    "traka",
-                    "la yeri mua",
-                    "canciones de cantantes mexicanas",
-                    "de chava",
-                    "chavita bien",
-                    "de ruka",
-                    "de ruca",
-                    "yeri",
-                    "yeri tu patrona",
-                    "mua"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Yeri Mua, Snow Tha Product - Modo Antidepresivo (Video Oficial)",
-                    "description": "Yeri Mua, Snow Tha Product - Modo Antidepresivo | Video Oficial\n\nEsc\u00fachala y gu\u00e1rdala en plataformas\n\u203a https://yerimuaa.lnk.to/ModoAntidepresivo\n\nEscucha los \u00e9xitos de Yeri Mua: https://SonyMexico.lnk.to/YeriMuaPlExitos\n\nSigue a Yeri Mua en\n\u203a TikTok: https://www.tiktok.com/@yerimuaa\n\u203a Instagram: https://www.instagram.com/yerimua/\n\u203a Facebook: https://www.facebook.com/yerimua/\n\nSigue a Snow Tha Product en\n\u203a TikTok: https://www.tiktok.com/@snowthaproduct\n\u203a Instagram: https://www.instagram.com/snowthaproduct/\n\u203a Facebook: https://www.facebook.com/SnowThaProduct\n\nLetra / Lyrics\n\nModo antidepresivo con la depre no combino\nMi exnovio pa\u2019 la mierda, yo ya cambi\u00e9 mi destino\n\nMo-mo-mo-modo antidepresivo-oh-oh-oh-oh\nMi exnovio mi-mi-mierda \nMi-mi destino-ino \nMo-mo-mo-modo antidepresivo-oh-oh-oh-oh\nMi exnovio mi-mierda \nMi-mi destino-ino \n\nYeah\nHoy no quiero nada de drama a m\u00ed me vale lo que pas\u00f3\nHoy yo quiero noche de chavas cuando salgo entro en raz\u00f3n\nYa no estoy down\nI\u2019m up \nP\u00e1same info\nWhatsup\nVamos a Miami \nA un club\nYo no hago fila (uh \u2013 uh)\n\nHoy yo quiero fun, hoy yo quiero vibe\nComo se dice all\u00e1 en LA, tonight bitch we outside \n\nEl carro frontback, side to side \nI know you want to catch a vibe\nSnow tha product, Yeri Mua\nAnd I got the table pour the shots\n\nAnd the bad bitches (ok)\nQue las que coronan no lloran por un wey \nQuiero un tequilita, lim\u00f3n and to get paid\nEntro al club y todos like hey\n\nDance, glam, cameras flash \nLipstick on mascara lashes\nTira al boyfriend para el trash\nEs de chavas, get cash\n\nModo antidepresivo con la depre no combino\nMi exnovio pa\u2019 la mierda, yo ya cambi\u00e9 mi destino\nMo-mo-mo-modo antidepresivo-oh-oh-oh-oh\nMi exnovio mi-mierda \nMi-mi destino-ino \n\nEn la Mercedes ruleteando con mis Real G 4 life\nMis pesta\u00f1a est\u00e1n m\u00e1s largas que la v**ga de ese man \nAll right, that\u2019s fine (a la m\u00e1s perra le puede pasar)\nPero estoy hasta la madre de tanto pinche pat\u00e1n\n\nPerdona el tiempo\nYa no lo pierdo baby (voy bien tendo)\n\nDe bellaquera con mi baby, flow violento \nAqu\u00ed no entran chacales, papi lo siento\n\nQuiero glam\nCameras flash\nAll right, that\u00b4s fine \nTira al boyfriend para el trash\nEs de chavas, get cash\n(Hey)\nAll right, that\u2019s fine\nCameras, flash\n\n#YeriMua #SnowThaProduct #ModoAntidepresivo\n\n(C) 2025 Sony Music Entertainment M\u00e9xico, S.A. de C.V."
-                }
-            },
-            "statistics": {
-                "viewCount": "775866",
-                "likeCount": "54041",
-                "favoriteCount": "0",
-                "commentCount": "3029"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "XAmr0Spnvksco8F7ymXugQE8vZs",
-            "id": "6BCWqxUV3RU",
-            "snippet": {
-                "publishedAt": "2025-04-25T22:00:15Z",
-                "channelId": "UCw7Bz6EHxlnOoBUBlJZCWCw",
-                "title": "The Monkey, El Macaco Asesino| #TeLoResumo",
-                "description": "Twitch | https://www.twitch.tv/teloresumo\nInstagram | https://www.instagram.com/teloresumo/\nTwitter | https://twitter.com/teloresumo\nFacebook | https://www.facebook.com/teloresumo/\nY metele una suscribida al canal\nY si te sobra el tiempo compartime el video",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6BCWqxUV3RU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6BCWqxUV3RU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6BCWqxUV3RU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/6BCWqxUV3RU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/6BCWqxUV3RU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Te lo resumo",
-                "tags": [
-                    "resumenes de series pel\u00edculas",
-                    "pel\u00edculas resumidas",
-                    "series resumidas",
-                    "analisis de cine",
-                    "cine",
-                    "critica de cine"
-                ],
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "The Monkey, El Macaco Asesino| #TeLoResumo",
-                    "description": "Twitch | https://www.twitch.tv/teloresumo\nInstagram | https://www.instagram.com/teloresumo/\nTwitter | https://twitter.com/teloresumo\nFacebook | https://www.facebook.com/teloresumo/\nY metele una suscribida al canal\nY si te sobra el tiempo compartime el video"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "877118",
-                "likeCount": "68423",
-                "favoriteCount": "0",
-                "commentCount": "2766"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "nXroCgHfNja95TZ5RLFIalYEzS8",
-            "id": "FQ2q0Q9frKE",
-            "snippet": {
-                "publishedAt": "2025-04-25T20:30:07Z",
-                "channelId": "UCzfyYtgvkx5mLy8nlLlayYg",
-                "title": "HELLAVERSE UPDATE",
-                "description": "GUESS WHAT?!! Helluva is comin' to Prime BUT it's also still going to be here too!! We get to make the ENTIRE show, with BIGGER $everything$, while still owning it, while still making it how we always have! It's a pretty big deal you guys!  Indie animation is rising and it's all thanks to you all who are enjoying our shows! Thanks for supporting us and getting us here and -OH YEAH! Crossovers anyone?? GET READY!\n\nThank you to the amazing Spindle crew for making this animated goodness for our announcement!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "Vivziepop",
-                "tags": [
-                    "Vivziepop",
-                    "Zoophobia"
-                ],
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "HELLAVERSE UPDATE",
-                    "description": "GUESS WHAT?!! Helluva is comin' to Prime BUT it's also still going to be here too!! We get to make the ENTIRE show, with BIGGER $everything$, while still owning it, while still making it how we always have! It's a pretty big deal you guys!  Indie animation is rising and it's all thanks to you all who are enjoying our shows! Thanks for supporting us and getting us here and -OH YEAH! Crossovers anyone?? GET READY!\n\nThank you to the amazing Spindle crew for making this animated goodness for our announcement!"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "2944993",
-                "likeCount": "441545",
-                "favoriteCount": "0",
-                "commentCount": "35708"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "OuRi_N_yd3m8-VGQykiVmrOfYjA",
-            "id": "NwVVRkpC5qg",
-            "snippet": {
-                "publishedAt": "2025-04-24T20:59:05Z",
-                "channelId": "UClnKzwo9CPkYix6V9jK4JTQ",
-                "title": "LE HACEMOS UN REGALO DE DESPEDIDA A LOS VECINOS | MUSAS",
-                "description": "Nos despedimos de la casa de la monta\u00f1a con el coraz\u00f3n lleno y regalitos para nuestros vecinos. Armamos canastas de regalo con productos locales, cuidado personal y conservas. Les ense\u00f1amos c\u00f3mo hacerlas para agradecer a personas especiales en su vida \ud83d\udc9b\ud83e\uddfa\ud83c\udfd4\ufe0f\n\nSuscr\u00edbete aqu\u00ed : https://www.youtube.com/@PPMussas?sub_confirmation=1\n\nNUESTROS CANALES:\nVlogs y viajes: http://www.youtube.com/lospolinesios\nM\u00fasica: http://www.youtube.com/platicapolinesa\nRetos y bromas: http://www.youtube.com/ppextras\nVideojuegos: http://www.youtube.com/ppjuxiis\n\nNUESTROS INSTAGRAMS:\nhttp://www.instagram.com/PlaticaPolinesi\nhttp://www.instagram.com/PPTeamKaren\nhttp://www.instagram.com/PPTeamLesslie\nhttp://www.instagram.com/PPTeamRafa\n\nFacebook\nhttp://www.facebook.com/PlaticaPolinesia\nhttp://www.facebook.com/TeamRaffa\nhttp://www.facebook.com/TeamKaren\nhttp://www.facebook.com/TeamLesslie\n\n#Musas #lospolinesios #lessliepolinesia #karenpolinesia #bebepolinesia #alquimia #alquimiapolinesia #RegalosConAmor #CanastasDeRegalo #DespedidaEmotiva #DIYRegalos #ProductosLocales #CuidadoPersonal #AgradecimientoEspecial #HechoConAmor #RegalosSostenibles",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NwVVRkpC5qg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NwVVRkpC5qg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NwVVRkpC5qg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NwVVRkpC5qg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/NwVVRkpC5qg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Musas",
-                "tags": [
-                    "Musas",
-                    "Karen Polinesia",
-                    "Lesslie Polinesia",
-                    "Los Polinesios",
-                    "Polinesios",
-                    "Charla de Hermanas",
-                    "Platica Polinesia"
-                ],
-                "categoryId": "26",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
-                "localized": {
-                    "title": "LE HACEMOS UN REGALO DE DESPEDIDA A LOS VECINOS | MUSAS",
-                    "description": "Nos despedimos de la casa de la monta\u00f1a con el coraz\u00f3n lleno y regalitos para nuestros vecinos. Armamos canastas de regalo con productos locales, cuidado personal y conservas. Les ense\u00f1amos c\u00f3mo hacerlas para agradecer a personas especiales en su vida \ud83d\udc9b\ud83e\uddfa\ud83c\udfd4\ufe0f\n\nSuscr\u00edbete aqu\u00ed : https://www.youtube.com/@PPMussas?sub_confirmation=1\n\nNUESTROS CANALES:\nVlogs y viajes: http://www.youtube.com/lospolinesios\nM\u00fasica: http://www.youtube.com/platicapolinesa\nRetos y bromas: http://www.youtube.com/ppextras\nVideojuegos: http://www.youtube.com/ppjuxiis\n\nNUESTROS INSTAGRAMS:\nhttp://www.instagram.com/PlaticaPolinesi\nhttp://www.instagram.com/PPTeamKaren\nhttp://www.instagram.com/PPTeamLesslie\nhttp://www.instagram.com/PPTeamRafa\n\nFacebook\nhttp://www.facebook.com/PlaticaPolinesia\nhttp://www.facebook.com/TeamRaffa\nhttp://www.facebook.com/TeamKaren\nhttp://www.facebook.com/TeamLesslie\n\n#Musas #lospolinesios #lessliepolinesia #karenpolinesia #bebepolinesia #alquimia #alquimiapolinesia #RegalosConAmor #CanastasDeRegalo #DespedidaEmotiva #DIYRegalos #ProductosLocales #CuidadoPersonal #AgradecimientoEspecial #HechoConAmor #RegalosSostenibles"
-                },
-                "defaultAudioLanguage": "es-MX"
-            },
-            "statistics": {
-                "viewCount": "864707",
-                "likeCount": "35020",
-                "favoriteCount": "0",
-                "commentCount": "537"
+                "commentCount": "614"
             }
         }
     ],
