@@ -1,10 +1,284 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "AKSowkY2WLd9IcTONkooRZpmyeU",
+    "etag": "ZvHrOJ1Lr3EwbGrWWbn-EcCxZMQ",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "U8qK18xknRIu6Spi_d0-NqB70bw",
+            "etag": "affOqm8ChZAwPDi9Vz4Nm0y3PKE",
+            "id": "MJR3YbsJ5oU",
+            "snippet": {
+                "publishedAt": "2025-04-29T17:03:14Z",
+                "channelId": "UCECJDeK0MNapZbpaOzxrUPA",
+                "title": "AS\u00cd ES CUBA: un pa\u00eds atrapado en el pasado | \u00bfC\u00f3mo vive la gente? \ud83c\udde8\ud83c\uddfa",
+                "description": "Llegamos a Cuba, un pa\u00eds que durante d\u00e9cadas ha dado mucho de qu\u00e9 hablar. En este primer reportaje, analizamos aspectos generales y las grandes dificultades con las que los cubanos deben enfrentarse en su vida cotidiana. \n\nPartes del video:\n\n00:00 INTRO\n00:47 \u00bfD\u00f3nde estamos?\n01:39 Primeras impresiones\n02:50 Entrevista a locales\n04:07 Calles y autom\u00f3viles antiguos\n04:49 Autos sovieticos\n05:17 Autos actuales\n05:38 Bicis el\u00e9ctricas\n05:50 Transporte local\n06:40 Letreros politicos\n07:30 Edificios descuidados\n11:15 Centro no turistico\n12:05 Entrevista a locales\n14:45 No hay Coca Cola\n14:54 As\u00ed ven pel\u00edculas nuevas\n15:50 As\u00ed es un cine cubano\n17:03 As\u00ed ve\u00edan Youtube\n18:48 Filas en bancos\n20:31 Bodegas de abastecimiento\n23:26 As\u00ed funciona el dinero\n26:05 Centro hist\u00f3rico y poblaci\u00f3n\n26:55 Todo esta sin luz\n27:30 Entrevista a locales\n28:20 Plantas generadoras\n19:03 NO HAY LUZ\n30:54 As\u00ed obtienen gasolina\n34:07 \u00bfpor qu\u00e9 pasa todo esto?\n37:04 No funcionan estas apps\n37:30 No funciona Iphone\n39:07 Talleres para iPhone\n39:55 Tabaco y ca\u00f1a de az\u00facar\n40:20 La triste realidad de emprender\n43:32 Tiendas de importaci\u00f3n\n45:08 Conclusi\u00f3n y despedida\n\n\u00a1SUSCR\u00cdBETE!\n\n- S\u00edgueme en Instagram @LuisitoComunica http://www.instagram.com/LuisitoComunica\n- S\u00edgueme en Facebook http://www.facebook.com/LuisitoComunica\n- Twitter https://www.twitter.com/LuisitoComunica",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MJR3YbsJ5oU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luisito Comunica",
+                "tags": [
+                    "luisitocomunica",
+                    "luisitocomunicaa",
+                    "luisito comunica",
+                    "luisito comunicaa",
+                    "luisito",
+                    "comunica",
+                    "comunicaa",
+                    "Cuba",
+                    "Cubano",
+                    "Habana",
+                    "La habana",
+                    "Reportaje",
+                    "Documental",
+                    "La realidad",
+                    "Realidad",
+                    "Internet",
+                    "D\u00f3lar",
+                    "Moneda",
+                    "Peso cubano",
+                    "Dinero cubano",
+                    "Econom\u00eda",
+                    "Luisito comunica Cuba",
+                    "Luisito Cuba",
+                    "Blogger mexicano",
+                    "Vlogger mexicano",
+                    "YouTuber Mexicano",
+                    "En Cuba",
+                    "Cubanos",
+                    "Gasolina",
+                    "Precios",
+                    "Empresas",
+                    "Estilo de vida"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
+                "localized": {
+                    "title": "AS\u00cd ES CUBA: un pa\u00eds atrapado en el pasado | \u00bfC\u00f3mo vive la gente? \ud83c\udde8\ud83c\uddfa",
+                    "description": "Llegamos a Cuba, un pa\u00eds que durante d\u00e9cadas ha dado mucho de qu\u00e9 hablar. En este primer reportaje, analizamos aspectos generales y las grandes dificultades con las que los cubanos deben enfrentarse en su vida cotidiana. \n\nPartes del video:\n\n00:00 INTRO\n00:47 \u00bfD\u00f3nde estamos?\n01:39 Primeras impresiones\n02:50 Entrevista a locales\n04:07 Calles y autom\u00f3viles antiguos\n04:49 Autos sovieticos\n05:17 Autos actuales\n05:38 Bicis el\u00e9ctricas\n05:50 Transporte local\n06:40 Letreros politicos\n07:30 Edificios descuidados\n11:15 Centro no turistico\n12:05 Entrevista a locales\n14:45 No hay Coca Cola\n14:54 As\u00ed ven pel\u00edculas nuevas\n15:50 As\u00ed es un cine cubano\n17:03 As\u00ed ve\u00edan Youtube\n18:48 Filas en bancos\n20:31 Bodegas de abastecimiento\n23:26 As\u00ed funciona el dinero\n26:05 Centro hist\u00f3rico y poblaci\u00f3n\n26:55 Todo esta sin luz\n27:30 Entrevista a locales\n28:20 Plantas generadoras\n19:03 NO HAY LUZ\n30:54 As\u00ed obtienen gasolina\n34:07 \u00bfpor qu\u00e9 pasa todo esto?\n37:04 No funcionan estas apps\n37:30 No funciona Iphone\n39:07 Talleres para iPhone\n39:55 Tabaco y ca\u00f1a de az\u00facar\n40:20 La triste realidad de emprender\n43:32 Tiendas de importaci\u00f3n\n45:08 Conclusi\u00f3n y despedida\n\n\u00a1SUSCR\u00cdBETE!\n\n- S\u00edgueme en Instagram @LuisitoComunica http://www.instagram.com/LuisitoComunica\n- S\u00edgueme en Facebook http://www.facebook.com/LuisitoComunica\n- Twitter https://www.twitter.com/LuisitoComunica"
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "4284525",
+                "likeCount": "166313",
+                "favoriteCount": "0",
+                "commentCount": "16863"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oz1lghTZkLhVG81WWx4wvUZWcKw",
+            "id": "OvI0fHAxmnQ",
+            "snippet": {
+                "publishedAt": "2025-04-29T18:02:50Z",
+                "channelId": "UCCEmjNPpJYhGDgaEqeeA4HA",
+                "title": "Probando EL MEJOR CAF\u00c9 DEL MUNDO en Colombia\u00a0-\u00a0TheGrefg",
+                "description": "El mejor caf\u00e9 del mundo est\u00e1 en Colombia\nSUSCR\u00cdBETE y si quieres, hazte miembro del canal https://www.youtube.com/channel/UCCEmjNPpJYhGDgaEqeeA4HA/join\nSigue mis Directos en https://www.twitch.tv/thegrefg\nInstagram https://www.instagram.com/thegrefg\nTik Tok https://www.tiktok.com/@thegrefg?lang=es\nX https://x.com/TheGrefg\nDiscord http://discord.gg/thegrefg\nCanal de WhatsApp https://whatsapp.com/channel/0029Va26zJa2v1InCd6kil3g\n\u00daltimo v\u00eddeo de mi equipo Heretics https://youtu.be/uBjL38F9JuM\n\nCosas que uso:\n\nMi Libro https://www.planetadelibros.com/libro-los-secretos-de-youtube/279938\nRemotto Battery https://es.remottobattery.com/\nMi Mando Oficial https://xcontrollers.es/\nMis Cascos https://astro.family/grefgEMEA\n\nBusiness Contact: contact@thegrefg.com\n\n---\nV\u00eddeo creado y subido por TheGrefg.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OvI0fHAxmnQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TheGrefg",
+                "tags": [
+                    "probando",
+                    "el mejor caf\u00e9",
+                    "del mundo",
+                    "colombia",
+                    "thegrefg",
+                    "plex",
+                    "roro"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Probando EL MEJOR CAF\u00c9 DEL MUNDO en Colombia\u00a0-\u00a0TheGrefg",
+                    "description": "El mejor caf\u00e9 del mundo est\u00e1 en Colombia\nSUSCR\u00cdBETE y si quieres, hazte miembro del canal https://www.youtube.com/channel/UCCEmjNPpJYhGDgaEqeeA4HA/join\nSigue mis Directos en https://www.twitch.tv/thegrefg\nInstagram https://www.instagram.com/thegrefg\nTik Tok https://www.tiktok.com/@thegrefg?lang=es\nX https://x.com/TheGrefg\nDiscord http://discord.gg/thegrefg\nCanal de WhatsApp https://whatsapp.com/channel/0029Va26zJa2v1InCd6kil3g\n\u00daltimo v\u00eddeo de mi equipo Heretics https://youtu.be/uBjL38F9JuM\n\nCosas que uso:\n\nMi Libro https://www.planetadelibros.com/libro-los-secretos-de-youtube/279938\nRemotto Battery https://es.remottobattery.com/\nMi Mando Oficial https://xcontrollers.es/\nMis Cascos https://astro.family/grefgEMEA\n\nBusiness Contact: contact@thegrefg.com\n\n---\nV\u00eddeo creado y subido por TheGrefg."
+                },
+                "defaultAudioLanguage": "es"
+            },
+            "statistics": {
+                "viewCount": "775085",
+                "likeCount": "47258",
+                "favoriteCount": "0",
+                "commentCount": "1256"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_yf0ojBO9q9aQx7I26uEaayRPW8",
+            "id": "MFse8Gg4yvs",
+            "snippet": {
+                "publishedAt": "2025-04-30T02:37:52Z",
+                "channelId": "UCSCAJJ1RJ4rfRTVW4gjYTpQ",
+                "title": "'LA DOBLE CARA ERES T\u00da', Marlon en el congelado a la Jesuu | La casa de los famosos Colombia 2025",
+                "description": "Marlon entr\u00f3 para subir la presi\u00f3n en #LaCasaDeLosFamososCol\ud83d\ude31, \u00e9l aclar\u00f3 que la Jesuu es una mujer doble cara\ud83d\udc94, advirti\u00f3 a Emiro por su cercan\u00eda con Camilo y dej\u00f3 en claro su posici\u00f3n en la amistad con Altafulla\ud83d\udd25.                                                                                                                              \n\n \u00a1No te pierdas ni un segundo del 24/ 7 y el after de #LaCasaDeLosFamososCol2! \ud83c\udfe0\u2728 Descarga la app Canal RCN y disfruta del contenido \u00fanico.\n\n\nDescarga nuestra app desde canalrcn.com, tu celular o tambi\u00e9n desde tu televisor \u27a1\ufe0f https://linktr.ee/canalrcn\n\nS\u00edguenos en nuestras redes sociales: \nCanal de WhatsApp: https://bit.ly/3PWzR5m\nFacebook: https://www.facebook.com/CanalRCN/\nInstagram: https://www.instagram.com/canalrcn/\nTiktok: https://www.tiktok.com/@canalrcn\nTwitter:  https://www.twitter.com/CanalRCN\n\n'LA DOBLE CARA ERES T\u00da', Marlon en el congelado a la Jesuu | La casa de los famosos Colombia 2025",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MFse8Gg4yvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MFse8Gg4yvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MFse8Gg4yvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MFse8Gg4yvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MFse8Gg4yvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canal RCN",
+                "tags": [
+                    "Canal RCN",
+                    "la casa de los famosos",
+                    "la casa de los famosos colombia",
+                    "la casa de los famosos colombia 2025",
+                    "la casa de los famosos 2025",
+                    "participantes la casa de los famosos colombia 2",
+                    "realities colombia",
+                    "la casa de los famosos participantes",
+                    "en vivo la casa de los famosos colombia",
+                    "cap\u00edtulos de la casa de los famosos colombia",
+                    "'LA DOBLE CARA ERES T\u00da'",
+                    "Marlon en el congelado a la Jesuu | La casa de los famosos Colombia 2025"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-419",
+                "localized": {
+                    "title": "'LA DOBLE CARA ERES T\u00da', Marlon en el congelado a la Jesuu | La casa de los famosos Colombia 2025",
+                    "description": "Marlon entr\u00f3 para subir la presi\u00f3n en #LaCasaDeLosFamososCol\ud83d\ude31, \u00e9l aclar\u00f3 que la Jesuu es una mujer doble cara\ud83d\udc94, advirti\u00f3 a Emiro por su cercan\u00eda con Camilo y dej\u00f3 en claro su posici\u00f3n en la amistad con Altafulla\ud83d\udd25.                                                                                                                              \n\n \u00a1No te pierdas ni un segundo del 24/ 7 y el after de #LaCasaDeLosFamososCol2! \ud83c\udfe0\u2728 Descarga la app Canal RCN y disfruta del contenido \u00fanico.\n\n\nDescarga nuestra app desde canalrcn.com, tu celular o tambi\u00e9n desde tu televisor \u27a1\ufe0f https://linktr.ee/canalrcn\n\nS\u00edguenos en nuestras redes sociales: \nCanal de WhatsApp: https://bit.ly/3PWzR5m\nFacebook: https://www.facebook.com/CanalRCN/\nInstagram: https://www.instagram.com/canalrcn/\nTiktok: https://www.tiktok.com/@canalrcn\nTwitter:  https://www.twitter.com/CanalRCN\n\n'LA DOBLE CARA ERES T\u00da', Marlon en el congelado a la Jesuu | La casa de los famosos Colombia 2025"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "200120",
+                "likeCount": "1995",
+                "favoriteCount": "0",
+                "commentCount": "765"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "P24vfUCp9Bt_jBDVRZJEwPV7IQM",
+            "id": "R2-yomhYAj4",
+            "snippet": {
+                "publishedAt": "2025-04-30T03:58:07Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV",
+                "description": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV\n\nStream \u201cGnarly\u201d Out Now: https://KATSEYE.lnk.to/GnarlyID\n\n*Follow KATSEYE*\nYouTube: https://www.youtube.com/@katseyeworld\nInstagram: https://www.instagram.com/katseyeworld/\nTikTok: https://www.tiktok.com/@katseyeworld\nX:  https://www.twitter.com/katseyeworld\nWeverse: https://weverse.io/katseye/feed\nOfficial Website: https://katseye.world/\nNewsletter: https://KATSEYE.lnk.to/SignUpID\n\nCredits:\nDirector: Cody Critcheloe\nCreative Director: Humberto Leon\nVisual Director: Jo\u00e3o Moraes\n\nExecutive Creator: Sungdeuk Son\nHead of Creative Production: Jay Ihn\nVisual Creative: Andrew Ibea, Tiffany Suh, Sieun Jung, Tyler Murrah\nPerformance Direction: Grant Gilmore, Sohey Sugihara\nContributing Choreography: Sienna Lalau\n\nDirector of Photography: Sunghun Hong\nProduction Designer: Yesol Kim\nCostumer: Heejun Jang\nHair: Gabe Sin, Suhyeon Jeon, Semin Park\nMakeup: Jeonghwan Park\nNail: Seunghwi Yu\n\nEdited by Jinhyuck Jang, Dakota Giglio (Church Edit)\n3D CGI by Kwangwon Lee, Sangwon Park, Vinyl Creative\n2D CGI by Yeowon Jeong, Myeongjae Song, Ngoc Pham\nVFX by Kent Hill\nColor by Jiyun Yeom (Lucid Color)\n\nProduction by Ambience\n-Executive Producer: Downy Jung\n-Producers: Minye Cho, Sangah Jeon\n\n[PRESENTED BY HYBE X GEFFEN]\n\n#KATSEYE #KATSEYE_Gnarly",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R2-yomhYAj4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE",
+                    "HYBE LABELS",
+                    "\ud558\uc774\ube0c",
+                    "\ud558\uc774\ube0c\ub808\uc774\ube14\uc988"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV",
+                    "description": "KATSEYE (\ucea3\uce20\uc544\uc774) \"Gnarly\" Official MV\n\nStream \u201cGnarly\u201d Out Now: https://KATSEYE.lnk.to/GnarlyID\n\n*Follow KATSEYE*\nYouTube: https://www.youtube.com/@katseyeworld\nInstagram: https://www.instagram.com/katseyeworld/\nTikTok: https://www.tiktok.com/@katseyeworld\nX:  https://www.twitter.com/katseyeworld\nWeverse: https://weverse.io/katseye/feed\nOfficial Website: https://katseye.world/\nNewsletter: https://KATSEYE.lnk.to/SignUpID\n\nCredits:\nDirector: Cody Critcheloe\nCreative Director: Humberto Leon\nVisual Director: Jo\u00e3o Moraes\n\nExecutive Creator: Sungdeuk Son\nHead of Creative Production: Jay Ihn\nVisual Creative: Andrew Ibea, Tiffany Suh, Sieun Jung, Tyler Murrah\nPerformance Direction: Grant Gilmore, Sohey Sugihara\nContributing Choreography: Sienna Lalau\n\nDirector of Photography: Sunghun Hong\nProduction Designer: Yesol Kim\nCostumer: Heejun Jang\nHair: Gabe Sin, Suhyeon Jeon, Semin Park\nMakeup: Jeonghwan Park\nNail: Seunghwi Yu\n\nEdited by Jinhyuck Jang, Dakota Giglio (Church Edit)\n3D CGI by Kwangwon Lee, Sangwon Park, Vinyl Creative\n2D CGI by Yeowon Jeong, Myeongjae Song, Ngoc Pham\nVFX by Kent Hill\nColor by Jiyun Yeom (Lucid Color)\n\nProduction by Ambience\n-Executive Producer: Downy Jung\n-Producers: Minye Cho, Sangah Jeon\n\n[PRESENTED BY HYBE X GEFFEN]\n\n#KATSEYE #KATSEYE_Gnarly"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "statistics": {
+                "viewCount": "2633752",
+                "likeCount": "228789",
+                "favoriteCount": "0",
+                "commentCount": "42681"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "znrXlrLNSNq-wsl8E6_a4sqlMig",
             "id": "K0vJ-phCYfQ",
             "snippet": {
                 "publishedAt": "2025-04-28T00:39:45Z",
@@ -64,15 +338,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "629553",
-                "likeCount": "40358",
+                "viewCount": "659739",
+                "likeCount": "41621",
                 "favoriteCount": "0",
-                "commentCount": "3036"
+                "commentCount": "3085"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2B1l7gSskPw5F3Ljx-LO45u7CmQ",
+            "etag": "LjkqoRm0pj2IpIPXyA3EPP0gMzQ",
             "id": "Duq2ZhSVgUA",
             "snippet": {
                 "publishedAt": "2025-04-28T21:00:22Z",
@@ -144,15 +418,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "945069",
-                "likeCount": "36884",
+                "viewCount": "1065730",
+                "likeCount": "40421",
                 "favoriteCount": "0",
-                "commentCount": "664"
+                "commentCount": "743"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "K1qvQEdgmu8oo1Y-ENMr1QBavpA",
+            "etag": "zt8fsAbNko9e1d8HnUbS2pr4_1o",
             "id": "f9pKIVn7z00",
             "snippet": {
                 "publishedAt": "2025-04-27T17:34:16Z",
@@ -205,15 +479,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "2291025",
-                "likeCount": "35722",
+                "viewCount": "2350533",
+                "likeCount": "36204",
                 "favoriteCount": "0",
-                "commentCount": "1386"
+                "commentCount": "1394"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "M5l5Q6ujeudqFhTUAxCoaV5mfcw",
+            "etag": "PzVLw6TyWmbO_91U7APqgGm5Wy8",
             "id": "G0T8xGu2NxY",
             "snippet": {
                 "publishedAt": "2025-04-27T19:02:24Z",
@@ -265,15 +539,244 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1441544",
-                "likeCount": "89731",
+                "viewCount": "1540874",
+                "likeCount": "93990",
                 "favoriteCount": "0",
-                "commentCount": "3550"
+                "commentCount": "3719"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "IqatHWHApVEqDBeHb8qAmL5pyO4",
+            "etag": "v_XZX0X8JwrxwFTrpJHZy5opiDc",
+            "id": "5YH-DNOoAcs",
+            "snippet": {
+                "publishedAt": "2025-04-29T20:56:13Z",
+                "channelId": "UC08mnbiC4FykqpHqbEWgFcg",
+                "title": "PSG FESTEJA el 1-0 ante ARSENAL en LONDRES con golazo de Demb\u00e9l\u00e9 | Champions League",
+                "description": "PSG gana 1-0 al Arsenal en Londres para sacar ventaja en la ida de las semifinales de la UEFA Champions League. Ousmane Demb\u00e9l\u00e9 se encarg\u00f3 del \u00fanico gol del partido a los tres minutos del arranque.\n#psg #arsenal #gol #championsleague | ESPN Deportes",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5YH-DNOoAcs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5YH-DNOoAcs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5YH-DNOoAcs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5YH-DNOoAcs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5YH-DNOoAcs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ESPN Deportes",
+                "tags": [
+                    "champions league",
+                    "uefa champions league",
+                    "ucl",
+                    "psg vs arsenal",
+                    "arsenal",
+                    "arsenal football club",
+                    "arsenal fc",
+                    "psg",
+                    "mikel arteta",
+                    "bukayo saka",
+                    "gabriel martinelli",
+                    "psg arsenal",
+                    "paris saint-germain",
+                    "paris",
+                    "stade rennais",
+                    "gianluigi donnarumma",
+                    "demb\u00e9l\u00e9",
+                    "arsenal psg",
+                    "arsenal vs psg",
+                    "gol",
+                    "gol psg",
+                    "gol arsenal",
+                    "luis enrique",
+                    "arteta"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PSG FESTEJA el 1-0 ante ARSENAL en LONDRES con golazo de Demb\u00e9l\u00e9 | Champions League",
+                    "description": "PSG gana 1-0 al Arsenal en Londres para sacar ventaja en la ida de las semifinales de la UEFA Champions League. Ousmane Demb\u00e9l\u00e9 se encarg\u00f3 del \u00fanico gol del partido a los tres minutos del arranque.\n#psg #arsenal #gol #championsleague | ESPN Deportes"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "2073812",
+                "likeCount": "26806",
+                "favoriteCount": "0",
+                "commentCount": "1819"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_0rCPXx9RSPUFYMa3Sd0QOomJx0",
+            "id": "QLi0x5quEF0",
+            "snippet": {
+                "publishedAt": "2025-04-29T22:00:35Z",
+                "channelId": "UCuGn3ioftOo6jvHE1YK4Bfw",
+                "title": "Prob\u00e9 32 Caf\u00e9s y Encontr\u00e9 el MEJOR",
+                "description": "En este video El Guzii prueba las bebidas m\u00e1s populares de Starbucks y las compara con las nuevas franquicias de caf\u00e9. \u00bfHabr\u00e1 mejor caf\u00e9 que Starbucks?\n#ElGuzii #coffee \n\nFrappuccino hecho en casa https://youtu.be/_RnWyVfVD6U?si=vU0uQBUXH-LmaHlS\nTacos el Vaquero https://youtu.be/aCfNEVOvuEs?si=keY48fOmZVVgsUxX\n\nS\u00edgueme en TIKTOK:\nhttps://vm.tiktok.com/ZS5sAVaP/ \n\n*** Mi equipo de cocina: ***\n- Olla de presi\u00f3n InstantPot: https://amzn.to/3h9PtyI \n- Sart\u00e9n de Acero: https://amzn.to/3gatGW8 \n- Cuchillo 1 (Chef Knife): https://amzn.to/2YaYS1o\n- Cuchillo 2 (Slicing Knife): https://amzn.to/3g6o7s0\n- Cuchillo 3 (Utility Knife): https://amzn.to/3kWERFB\n- Cuchillo 4 (Bread Knife): https://amzn.to/2Ei47oN\n- Cortador de Harina y Masa: https://amzn.to/2EqewPR\n- Adaptador para Moler Carne: https://amzn.to/3cmUEtn \n\n*** Mi equipo de grabaci\u00f3n ***\n- C\u00e1mara de Video: https://amzn.to/3ji7taT \n- C\u00e1mara para Foto: https://amzn.to/2EpZ1HI \n- Lente 1 (Video): https://amzn.to/3aYz3GU \n- Lente 2 (Foto): https://amzn.to/2QqicDG \n- Tarjeta SD (Video): https://amzn.to/2YBokNI\n- Grabadora (Audio): https://amzn.to/32iWWVK \n- Tarjeta SD (Audio): https://amzn.to/3b82BSV \n- Microfono Inalambrico (Audio): https://amzn.to/2Expy5x \n- Microfono para c\u00e1mara (Audio): https://amzn.to/2YypYQo \n\n***************************************************\nFACEBOOK - http://www.facebook.com/ElGuziiOfficial\nINSTAGRAM - http://www.instagram.com/elguzii \nTIKTOK - https://vm.tiktok.com/ZS5sAVaP/ \nWEBSITE - http://www.elguzii.com \n\n***************************************************\n\u00bfGUSTAS ENVIARME ALGO? \n\nEl Guzii\n591 Telegraph Canyon Road No. 562\nChula Vista, CA 91910\n\n***************************************************",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QLi0x5quEF0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "El Guzii",
+                "tags": [
+                    "El Guzii",
+                    "Guzzi",
+                    "Guzy",
+                    "Guzii Style",
+                    "Recetas Divertidas",
+                    "Jairo Macizo",
+                    "Cocina Lab",
+                    "Sabores del Alma",
+                    "Cocina",
+                    "Miskiri Miskiri",
+                    "fuego alto",
+                    "mini size me",
+                    "caf\u00e9",
+                    "coffee",
+                    "quien hace el mejor caf\u00e9",
+                    "probando",
+                    "prob\u00e9 32 caf\u00e9s",
+                    "encontr\u00e9 el mejor caf\u00e9",
+                    "starbucks",
+                    "taco bell",
+                    "live m\u00e1s caf\u00e9",
+                    "jack in the box",
+                    "dunkin donuts",
+                    "oxxo",
+                    "caffenio",
+                    "7 eleven",
+                    "americano",
+                    "mexicano",
+                    "frapp\u00e9",
+                    "frappuccino",
+                    "latte",
+                    "iced coffee",
+                    "refresher",
+                    "fresa",
+                    "dragon fruit",
+                    "limonada",
+                    "t\u00f3nico",
+                    "espresso",
+                    "caf\u00e9 mexicano",
+                    "drive thru"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "es-MX",
+                "localized": {
+                    "title": "Prob\u00e9 32 Caf\u00e9s y Encontr\u00e9 el MEJOR",
+                    "description": "En este video El Guzii prueba las bebidas m\u00e1s populares de Starbucks y las compara con las nuevas franquicias de caf\u00e9. \u00bfHabr\u00e1 mejor caf\u00e9 que Starbucks?\n#ElGuzii #coffee \n\nFrappuccino hecho en casa https://youtu.be/_RnWyVfVD6U?si=vU0uQBUXH-LmaHlS\nTacos el Vaquero https://youtu.be/aCfNEVOvuEs?si=keY48fOmZVVgsUxX\n\nS\u00edgueme en TIKTOK:\nhttps://vm.tiktok.com/ZS5sAVaP/ \n\n*** Mi equipo de cocina: ***\n- Olla de presi\u00f3n InstantPot: https://amzn.to/3h9PtyI \n- Sart\u00e9n de Acero: https://amzn.to/3gatGW8 \n- Cuchillo 1 (Chef Knife): https://amzn.to/2YaYS1o\n- Cuchillo 2 (Slicing Knife): https://amzn.to/3g6o7s0\n- Cuchillo 3 (Utility Knife): https://amzn.to/3kWERFB\n- Cuchillo 4 (Bread Knife): https://amzn.to/2Ei47oN\n- Cortador de Harina y Masa: https://amzn.to/2EqewPR\n- Adaptador para Moler Carne: https://amzn.to/3cmUEtn \n\n*** Mi equipo de grabaci\u00f3n ***\n- C\u00e1mara de Video: https://amzn.to/3ji7taT \n- C\u00e1mara para Foto: https://amzn.to/2EpZ1HI \n- Lente 1 (Video): https://amzn.to/3aYz3GU \n- Lente 2 (Foto): https://amzn.to/2QqicDG \n- Tarjeta SD (Video): https://amzn.to/2YBokNI\n- Grabadora (Audio): https://amzn.to/32iWWVK \n- Tarjeta SD (Audio): https://amzn.to/3b82BSV \n- Microfono Inalambrico (Audio): https://amzn.to/2Expy5x \n- Microfono para c\u00e1mara (Audio): https://amzn.to/2YypYQo \n\n***************************************************\nFACEBOOK - http://www.facebook.com/ElGuziiOfficial\nINSTAGRAM - http://www.instagram.com/elguzii \nTIKTOK - https://vm.tiktok.com/ZS5sAVaP/ \nWEBSITE - http://www.elguzii.com \n\n***************************************************\n\u00bfGUSTAS ENVIARME ALGO? \n\nEl Guzii\n591 Telegraph Canyon Road No. 562\nChula Vista, CA 91910\n\n***************************************************"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "239018",
+                "likeCount": "7346",
+                "favoriteCount": "0",
+                "commentCount": "319"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YgE4JyO4etA3rnYYrmP66BWrKfE",
+            "id": "KY9OUC92l0s",
+            "snippet": {
+                "publishedAt": "2025-04-29T04:30:06Z",
+                "channelId": "UCss4A6ORYRHFngPiwG6Veaw",
+                "title": "ACZINO VS JONY BELTR\u00c1N (EXHIBICI\u00d3N) - SANGRE X SANGRE Vol. 3",
+                "description": "ACZINO VS JONY BELTR\u00c1N\nCAMP LEAGUE SANGRE X SANGRE \ud83e\ude78\n\nFACEBOOK https://www.facebook.com/campleaguemx\n\nINSTAGRAM https://www.instagram.com/campleaguemx\n\nINSTAGRAM CEO https://www.instagram.com/patronrdz\n\nProducci\u00f3n Audiovisual por Supremacy Music:\nhttps://www.supremacy.studio/music\n\nDirecci\u00f3n:\n\u2022 Zayi Olvera y Dany Orozco\n\nOperadores de c\u00e1mara:\n\u2022 Dany Orozco\n\u2022 Zayi Olvera\n\u2022 Edgar Osaji\n\u2022 Claudia Sol\u00eds\n\u2022 Dante Fern\u00e1ndez\n\u2022 Marco Franco\n\u2022 Josu\u00e9 Sotelo\n\u2022 Omar Gonz\u00e1lez\n\u2022 Caro con C\n\nEdici\u00f3n y Correcci\u00f3n de color:\n\u2022 Zayi Olvera\n\nFotograf\u00eda miniatura:\n\u2022 @alanzamoraart\n\nDJ:\n\u2022 Mr. Noise\n\nIngeniero de audio:\n\u2022 Luis Orozco\n\nMix y Master:\n\u2022 Agustin Enciso",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CAMP LEAGUE",
+                "tags": [
+                    "ACZINO",
+                    "JONY BELTR\u00c1N",
+                    "sangre x sangre"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "ACZINO VS JONY BELTR\u00c1N (EXHIBICI\u00d3N) - SANGRE X SANGRE Vol. 3",
+                    "description": "ACZINO VS JONY BELTR\u00c1N\nCAMP LEAGUE SANGRE X SANGRE \ud83e\ude78\n\nFACEBOOK https://www.facebook.com/campleaguemx\n\nINSTAGRAM https://www.instagram.com/campleaguemx\n\nINSTAGRAM CEO https://www.instagram.com/patronrdz\n\nProducci\u00f3n Audiovisual por Supremacy Music:\nhttps://www.supremacy.studio/music\n\nDirecci\u00f3n:\n\u2022 Zayi Olvera y Dany Orozco\n\nOperadores de c\u00e1mara:\n\u2022 Dany Orozco\n\u2022 Zayi Olvera\n\u2022 Edgar Osaji\n\u2022 Claudia Sol\u00eds\n\u2022 Dante Fern\u00e1ndez\n\u2022 Marco Franco\n\u2022 Josu\u00e9 Sotelo\n\u2022 Omar Gonz\u00e1lez\n\u2022 Caro con C\n\nEdici\u00f3n y Correcci\u00f3n de color:\n\u2022 Zayi Olvera\n\nFotograf\u00eda miniatura:\n\u2022 @alanzamoraart\n\nDJ:\n\u2022 Mr. Noise\n\nIngeniero de audio:\n\u2022 Luis Orozco\n\nMix y Master:\n\u2022 Agustin Enciso"
+                }
+            },
+            "statistics": {
+                "viewCount": "470022",
+                "likeCount": "22687",
+                "favoriteCount": "0",
+                "commentCount": "1657"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MxBsollMdqGLOe4XcDI1CLHh-Jg",
             "id": "lO6uS-wnznY",
             "snippet": {
                 "publishedAt": "2025-04-28T21:35:04Z",
@@ -353,15 +856,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "623015",
-                "likeCount": "77639",
+                "viewCount": "726938",
+                "likeCount": "87405",
                 "favoriteCount": "0",
-                "commentCount": "4595"
+                "commentCount": "4905"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ErkrYi6235OnvWwp57gzrqtV0xY",
+            "etag": "2IIT0c_3zRhEJwyaoyvhgVqa1Ro",
             "id": "oYHdKBfTwbE",
             "snippet": {
                 "publishedAt": "2025-04-26T23:09:42Z",
@@ -462,71 +965,83 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "17378478",
-                "likeCount": "380683",
+                "viewCount": "17661962",
+                "likeCount": "382263",
                 "favoriteCount": "0",
-                "commentCount": "16166"
+                "commentCount": "16190"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "uhaYjUcxsqQyj0_iEH7683zWSe8",
-            "id": "KY9OUC92l0s",
+            "etag": "LSsN3AsEiLf8dlO6Knt0m83iGf4",
+            "id": "EHjdrqvicN4",
             "snippet": {
-                "publishedAt": "2025-04-29T04:30:06Z",
-                "channelId": "UCss4A6ORYRHFngPiwG6Veaw",
-                "title": "ACZINO VS JONY BELTR\u00c1N (EXHIBICI\u00d3N) - SANGRE X SANGRE Vol. 3",
-                "description": "ACZINO VS JONY BELTR\u00c1N\nCAMP LEAGUE SANGRE X SANGRE \ud83e\ude78\n\nFACEBOOK https://www.facebook.com/campleaguemx\n\nINSTAGRAM https://www.instagram.com/campleaguemx\n\nINSTAGRAM CEO https://www.instagram.com/patronrdz\n\nProducci\u00f3n Audiovisual por Supremacy Music:\nhttps://www.supremacy.studio/music\n\nDirecci\u00f3n:\n\u2022 Zayi Olvera y Dany Orozco\n\nOperadores de c\u00e1mara:\n\u2022 Dany Orozco\n\u2022 Zayi Olvera\n\u2022 Edgar Osaji\n\u2022 Claudia Sol\u00eds\n\u2022 Dante Fern\u00e1ndez\n\u2022 Marco Franco\n\u2022 Josu\u00e9 Sotelo\n\u2022 Omar Gonz\u00e1lez\n\u2022 Caro con C\n\nEdici\u00f3n y Correcci\u00f3n de color:\n\u2022 Zayi Olvera\n\nFotograf\u00eda miniatura:\n\u2022 @alanzamoraart\n\nDJ:\n\u2022 Mr. Noise\n\nIngeniero de audio:\n\u2022 Luis Orozco\n\nMix y Master:\n\u2022 Agustin Enciso",
+                "publishedAt": "2025-04-27T23:00:06Z",
+                "channelId": "UCM8F3UFEs95v8nil07Qd80Q",
+                "title": "Cazzu - \u00d3diame (Video Oficial)",
+                "description": "Cazzu - \u00d3diame (Video Oficial)\n\nEscuch\u00e1 Latinaje ac\u00e1 https://orcd.co/latinaje\n\nRedes Sociales: \nhttps://www.instagram.com/cazzu/\nhttps://twitter.com/cazzuoficial\nhttps://www.facebook.com/Cazzuuuuuu\nhttps://vm.tiktok.com/ZML3jyC1d/",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/KY9OUC92l0s/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "CAMP LEAGUE",
+                "channelTitle": "CAZZU Canal Oficial",
                 "tags": [
-                    "ACZINO",
-                    "JONY BELTR\u00c1N",
-                    "sangre x sangre"
+                    "cazzu",
+                    "nena trampa",
+                    "nena trampa cazzu",
+                    "album cazzu nena trampa",
+                    "cazzu nena trampa",
+                    "album nena trampa",
+                    "cazzu album 2022",
+                    "argentina nena trampa",
+                    "cazzu argentina",
+                    "nena trampa cazzu video",
+                    "cazzu video album nena trampa",
+                    "nena trampa 2022",
+                    "2022 nena trampa"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
+                "defaultLanguage": "es",
                 "localized": {
-                    "title": "ACZINO VS JONY BELTR\u00c1N (EXHIBICI\u00d3N) - SANGRE X SANGRE Vol. 3",
-                    "description": "ACZINO VS JONY BELTR\u00c1N\nCAMP LEAGUE SANGRE X SANGRE \ud83e\ude78\n\nFACEBOOK https://www.facebook.com/campleaguemx\n\nINSTAGRAM https://www.instagram.com/campleaguemx\n\nINSTAGRAM CEO https://www.instagram.com/patronrdz\n\nProducci\u00f3n Audiovisual por Supremacy Music:\nhttps://www.supremacy.studio/music\n\nDirecci\u00f3n:\n\u2022 Zayi Olvera y Dany Orozco\n\nOperadores de c\u00e1mara:\n\u2022 Dany Orozco\n\u2022 Zayi Olvera\n\u2022 Edgar Osaji\n\u2022 Claudia Sol\u00eds\n\u2022 Dante Fern\u00e1ndez\n\u2022 Marco Franco\n\u2022 Josu\u00e9 Sotelo\n\u2022 Omar Gonz\u00e1lez\n\u2022 Caro con C\n\nEdici\u00f3n y Correcci\u00f3n de color:\n\u2022 Zayi Olvera\n\nFotograf\u00eda miniatura:\n\u2022 @alanzamoraart\n\nDJ:\n\u2022 Mr. Noise\n\nIngeniero de audio:\n\u2022 Luis Orozco\n\nMix y Master:\n\u2022 Agustin Enciso"
-                }
+                    "title": "Cazzu - \u00d3diame (Video Oficial)",
+                    "description": "Cazzu - \u00d3diame (Video Oficial)\n\nEscuch\u00e1 Latinaje ac\u00e1 https://orcd.co/latinaje\n\nRedes Sociales: \nhttps://www.instagram.com/cazzu/\nhttps://twitter.com/cazzuoficial\nhttps://www.facebook.com/Cazzuuuuuu\nhttps://vm.tiktok.com/ZML3jyC1d/"
+                },
+                "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "398850",
-                "likeCount": "20055",
+                "viewCount": "1647848",
+                "likeCount": "166369",
                 "favoriteCount": "0",
-                "commentCount": "1493"
+                "commentCount": "15315"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "N9UsGHd9VftAllCok_z6ekrf5Vw",
+            "etag": "hAdmEIFylk2OWhMWtm5KhiluYKU",
             "id": "5B7vYdOYIjY",
             "snippet": {
                 "publishedAt": "2025-04-29T07:45:01Z",
@@ -603,187 +1118,67 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "1453920",
-                "likeCount": "23356",
+                "viewCount": "1604747",
+                "likeCount": "24413",
                 "favoriteCount": "0",
-                "commentCount": "4657"
+                "commentCount": "4887"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "21DrmsadS7KoG6Tpi2m06oNtqgU",
-            "id": "EHjdrqvicN4",
+            "etag": "4zvvbRfk-pTyOq99lc-ZoN6gH2k",
+            "id": "BxiH0UIyVPk",
             "snippet": {
-                "publishedAt": "2025-04-27T23:00:06Z",
-                "channelId": "UCM8F3UFEs95v8nil07Qd80Q",
-                "title": "Cazzu - \u00d3diame (Video Oficial)",
-                "description": "Cazzu - \u00d3diame (Video Oficial)\n\nEscuch\u00e1 Latinaje ac\u00e1 https://orcd.co/latinaje\n\nRedes Sociales: \nhttps://www.instagram.com/cazzu/\nhttps://twitter.com/cazzuoficial\nhttps://www.facebook.com/Cazzuuuuuu\nhttps://vm.tiktok.com/ZML3jyC1d/",
+                "publishedAt": "2025-04-29T22:16:07Z",
+                "channelId": "UChOAQwIwOg3VktymoWSnh1Q",
+                "title": "ESTE RETO NADIE LO HA CONSEGUIDO \ud83c\udf2e **$500 Si LOGRO CONSEGUIRLO \ud83d\udd25",
+                "description": "RETO DE TACOS!\ud83e\udd75\ud83c\udf2e\n\nHoy he venido a un negocio conocido por sus Deliciosos Tacos, pero tambi\u00e9n por su Retos de Comida tan Extremo que nadie logra superar, hoy he venido a intentar su Reto de Comer 35 Tacos en solamente 20 Minutos, el Premio por acabar con el son $500 Pesos en efectivo, hasta ahora nadie lo ha logrado, pero hoy vengo con Mucha Hambre y Dispuesto a intentar su Reto...\u00bfLo lograr\u00e9?\ud83d\udc40\ud83c\udf2e\ud83d\udd25\n\nSi ustedes quieren Conocer este negocio y Probar sus Deliciosos Tacos , yo les comparto la Direcci\u00f3n de este establecimiento\ud83d\udc40\ud83c\udf2e: Boulevard 4 Vientos, entrada San Marcos, EDOMEX.\n#food #tendencia \n\nLos invito a seguirme en\ud83d\udc47\ud83c\udffb\ud83d\udc40\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\u2764\ufe0f:\n\nFACEBOOK AleMinero \ud83c\udf2e\ud83d\udd25\ud83e\udd18\ud83c\udffb\u2764\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f: https://www.facebook.com/profile.php?id=100070720866007\n\nINSTAGRAM AleMinero\ud83d\udd25\ud83c\uddf2\ud83c\uddfd\ud83e\udd18\ud83c\udffb\ud83c\udf56\ud83d\udcaa\ud83c\udffb\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f:  https://www.instagram.com/alexis_minero2001/\n\nTIK TOK AleMinero\u2764\ufe0f\ud83c\udf56\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25: https://vm.tiktok.com/ZMLVLTwkr/ \nGracias por ver m\u00ed v\u00eddeo!!!\ud83c\uddf2\ud83c\uddfd\u263a\ufe0f\u2764\ufe0f\ud83c\udf2e\ud83d\udcaa\ud83c\udffb\ud83c\udf54\ud83d\udd25\n\nNo olvides que si conoces alg\u00fan establecimiento de comida que tenga reto, puedes dejarlo en la caja de comentarios y aparecer\u00e1 en un futuro video \ud83c\uddf2\ud83c\uddfd\u2764\ufe0f\ud83c\udf2e Si les gustan mis retos no olviden dejar su Like, compartir y suscr\u00edbirse para que suba m\u00e1s v\u00eddeos, un fuerte abrazo, saludos\u270c\ud83c\udffb\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/EHjdrqvicN4/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BxiH0UIyVPk/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "CAZZU Canal Oficial",
-                "tags": [
-                    "cazzu",
-                    "nena trampa",
-                    "nena trampa cazzu",
-                    "album cazzu nena trampa",
-                    "cazzu nena trampa",
-                    "album nena trampa",
-                    "cazzu album 2022",
-                    "argentina nena trampa",
-                    "cazzu argentina",
-                    "nena trampa cazzu video",
-                    "cazzu video album nena trampa",
-                    "nena trampa 2022",
-                    "2022 nena trampa"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es",
-                "localized": {
-                    "title": "Cazzu - \u00d3diame (Video Oficial)",
-                    "description": "Cazzu - \u00d3diame (Video Oficial)\n\nEscuch\u00e1 Latinaje ac\u00e1 https://orcd.co/latinaje\n\nRedes Sociales: \nhttps://www.instagram.com/cazzu/\nhttps://twitter.com/cazzuoficial\nhttps://www.facebook.com/Cazzuuuuuu\nhttps://vm.tiktok.com/ZML3jyC1d/"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "1488854",
-                "likeCount": "156713",
-                "favoriteCount": "0",
-                "commentCount": "14696"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "UbTI4_xnHdElLh6oPXTEotBtVzI",
-            "id": "uyiG6uw-6pA",
-            "snippet": {
-                "publishedAt": "2025-04-26T16:00:00Z",
-                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-                "title": "Would You Risk Drowning for $500,000?",
-                "description": "These were crazy dangerous so everything was performed under professional supervision\nJack Link\u2019s Jerky can fuel anything. Scan the code or visit the link to buy Jack Link\u2019s DUOS now: https://bit.ly/4ipfWae\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n\u2554\u2550\u2566\u2557\u2554\u2566\u2557\u2554\u2550\u2566\u2550\u2566\u2566\u2566\u2566\u2557\u2554\u2550\u2557\n\u2551\u255a\u2563\u2551\u2551\u2551\u255a\u2563\u255a\u2563\u2554\u2563\u2554\u2563\u2551\u255a\u2563\u2550\u2563 \n\u2560\u2557\u2551\u255a\u255d\u2551\u2551\u2560\u2557\u2551\u255a\u2563\u2551\u2551\u2551\u2551\u2551\u2550\u2563\n\u255a\u2550\u2569\u2550\u2550\u2569\u2550\u2569\u2550\u2569\u2550\u2569\u255d\u255a\u2569\u2550\u2569\u2550\u255d\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n\u2022 Facebook - https://www.facebook.com/MrBeast/\n\u2022 Twitter - https://twitter.com/MrBeast\n\u2022  Instagram - https://www.instagram.com/mrbeast\n\u2022  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MrBeast",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Would You Risk Drowning for $500,000?",
-                    "description": "These were crazy dangerous so everything was performed under professional supervision\nJack Link\u2019s Jerky can fuel anything. Scan the code or visit the link to buy Jack Link\u2019s DUOS now: https://bit.ly/4ipfWae\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n\u2554\u2550\u2566\u2557\u2554\u2566\u2557\u2554\u2550\u2566\u2550\u2566\u2566\u2566\u2566\u2557\u2554\u2550\u2557\n\u2551\u255a\u2563\u2551\u2551\u2551\u255a\u2563\u255a\u2563\u2554\u2563\u2554\u2563\u2551\u255a\u2563\u2550\u2563 \n\u2560\u2557\u2551\u255a\u255d\u2551\u2551\u2560\u2557\u2551\u255a\u2563\u2551\u2551\u2551\u2551\u2551\u2550\u2563\n\u255a\u2550\u2569\u2550\u2550\u2569\u2550\u2569\u2550\u2569\u2550\u2569\u255d\u255a\u2569\u2550\u2569\u2550\u255d\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n\u2022 Facebook - https://www.facebook.com/MrBeast/\n\u2022 Twitter - https://twitter.com/MrBeast\n\u2022  Instagram - https://www.instagram.com/mrbeast\n\u2022  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "70428815",
-                "likeCount": "2005130",
-                "favoriteCount": "0",
-                "commentCount": "30222"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "VcCzSgRkUhro1cB1Q2iEiFMhGf0",
-            "id": "RABPC24-QYc",
-            "snippet": {
-                "publishedAt": "2025-04-27T13:15:55Z",
-                "channelId": "UC0nvWiBrtyoZ0iBmYGRjJ6g",
-                "title": "EL BARCELONA VUELVE A DERROTAR AL MADRID! OPINION Y REACCION AL BARCA CAMPEON COPA DEL REY (2025)",
-                "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Davoo Xeneize Plus",
+                "channelTitle": "AleMinero",
                 "categoryId": "22",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "EL BARCELONA VUELVE A DERROTAR AL MADRID! OPINION Y REACCION AL BARCA CAMPEON COPA DEL REY (2025)",
-                    "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize"
-                }
+                    "title": "ESTE RETO NADIE LO HA CONSEGUIDO \ud83c\udf2e **$500 Si LOGRO CONSEGUIRLO \ud83d\udd25",
+                    "description": "RETO DE TACOS!\ud83e\udd75\ud83c\udf2e\n\nHoy he venido a un negocio conocido por sus Deliciosos Tacos, pero tambi\u00e9n por su Retos de Comida tan Extremo que nadie logra superar, hoy he venido a intentar su Reto de Comer 35 Tacos en solamente 20 Minutos, el Premio por acabar con el son $500 Pesos en efectivo, hasta ahora nadie lo ha logrado, pero hoy vengo con Mucha Hambre y Dispuesto a intentar su Reto...\u00bfLo lograr\u00e9?\ud83d\udc40\ud83c\udf2e\ud83d\udd25\n\nSi ustedes quieren Conocer este negocio y Probar sus Deliciosos Tacos , yo les comparto la Direcci\u00f3n de este establecimiento\ud83d\udc40\ud83c\udf2e: Boulevard 4 Vientos, entrada San Marcos, EDOMEX.\n#food #tendencia \n\nLos invito a seguirme en\ud83d\udc47\ud83c\udffb\ud83d\udc40\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\u2764\ufe0f:\n\nFACEBOOK AleMinero \ud83c\udf2e\ud83d\udd25\ud83e\udd18\ud83c\udffb\u2764\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f: https://www.facebook.com/profile.php?id=100070720866007\n\nINSTAGRAM AleMinero\ud83d\udd25\ud83c\uddf2\ud83c\uddfd\ud83e\udd18\ud83c\udffb\ud83c\udf56\ud83d\udcaa\ud83c\udffb\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f:  https://www.instagram.com/alexis_minero2001/\n\nTIK TOK AleMinero\u2764\ufe0f\ud83c\udf56\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25: https://vm.tiktok.com/ZMLVLTwkr/ \nGracias por ver m\u00ed v\u00eddeo!!!\ud83c\uddf2\ud83c\uddfd\u263a\ufe0f\u2764\ufe0f\ud83c\udf2e\ud83d\udcaa\ud83c\udffb\ud83c\udf54\ud83d\udd25\n\nNo olvides que si conoces alg\u00fan establecimiento de comida que tenga reto, puedes dejarlo en la caja de comentarios y aparecer\u00e1 en un futuro video \ud83c\uddf2\ud83c\uddfd\u2764\ufe0f\ud83c\udf2e Si les gustan mis retos no olviden dejar su Like, compartir y suscr\u00edbirse para que suba m\u00e1s v\u00eddeos, un fuerte abrazo, saludos\u270c\ud83c\udffb\ud83c\uddf2\ud83c\uddfd\ud83c\udf2e\ud83d\udd25"
+                },
+                "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "1490391",
-                "likeCount": "74947",
+                "viewCount": "418458",
+                "likeCount": "10016",
                 "favoriteCount": "0",
-                "commentCount": "3130"
+                "commentCount": "407"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "SKAVQ_iPFCgOa8G6oFfHbkguYHc",
+            "etag": "Wzb2bbZkD_gQDHnikwR4we5jIjU",
             "id": "Lf566pMNCOw",
             "snippet": {
                 "publishedAt": "2025-04-25T01:00:07Z",
@@ -842,15 +1237,119 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "8834341",
-                "likeCount": "238950",
+                "viewCount": "9768707",
+                "likeCount": "244120",
                 "favoriteCount": "0",
-                "commentCount": "11456"
+                "commentCount": "11556"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Iq8zgMhaqn6HSV1tJkefo3G5JSs",
+            "etag": "87nSjAlPCZxhX7Y711193AxDhH8",
+            "id": "uyiG6uw-6pA",
+            "snippet": {
+                "publishedAt": "2025-04-26T16:00:00Z",
+                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+                "title": "Would You Risk Drowning for $500,000?",
+                "description": "These were crazy dangerous so everything was performed under professional supervision\nJack Link\u2019s Jerky can fuel anything. Scan the code or visit the link to buy Jack Link\u2019s DUOS now: https://bit.ly/4ipfWae\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n\u2554\u2550\u2566\u2557\u2554\u2566\u2557\u2554\u2550\u2566\u2550\u2566\u2566\u2566\u2566\u2557\u2554\u2550\u2557\n\u2551\u255a\u2563\u2551\u2551\u2551\u255a\u2563\u255a\u2563\u2554\u2563\u2554\u2563\u2551\u255a\u2563\u2550\u2563 \n\u2560\u2557\u2551\u255a\u255d\u2551\u2551\u2560\u2557\u2551\u255a\u2563\u2551\u2551\u2551\u2551\u2551\u2550\u2563\n\u255a\u2550\u2569\u2550\u2550\u2569\u2550\u2569\u2550\u2569\u2550\u2569\u255d\u255a\u2569\u2550\u2569\u2550\u255d\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n\u2022 Facebook - https://www.facebook.com/MrBeast/\n\u2022 Twitter - https://twitter.com/MrBeast\n\u2022  Instagram - https://www.instagram.com/mrbeast\n\u2022  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uyiG6uw-6pA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MrBeast",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Would You Risk Drowning for $500,000?",
+                    "description": "These were crazy dangerous so everything was performed under professional supervision\nJack Link\u2019s Jerky can fuel anything. Scan the code or visit the link to buy Jack Link\u2019s DUOS now: https://bit.ly/4ipfWae\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n\u2554\u2550\u2566\u2557\u2554\u2566\u2557\u2554\u2550\u2566\u2550\u2566\u2566\u2566\u2566\u2557\u2554\u2550\u2557\n\u2551\u255a\u2563\u2551\u2551\u2551\u255a\u2563\u255a\u2563\u2554\u2563\u2554\u2563\u2551\u255a\u2563\u2550\u2563 \n\u2560\u2557\u2551\u255a\u255d\u2551\u2551\u2560\u2557\u2551\u255a\u2563\u2551\u2551\u2551\u2551\u2551\u2550\u2563\n\u255a\u2550\u2569\u2550\u2550\u2569\u2550\u2569\u2550\u2569\u2550\u2569\u255d\u255a\u2569\u2550\u2569\u2550\u255d\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n\u2022 Facebook - https://www.facebook.com/MrBeast/\n\u2022 Twitter - https://twitter.com/MrBeast\n\u2022  Instagram - https://www.instagram.com/mrbeast\n\u2022  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "74321116",
+                "likeCount": "2069204",
+                "favoriteCount": "0",
+                "commentCount": "30950"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "i4_MbtwrcrExW3ZMzeyt75HIArg",
+            "id": "RABPC24-QYc",
+            "snippet": {
+                "publishedAt": "2025-04-27T13:15:55Z",
+                "channelId": "UC0nvWiBrtyoZ0iBmYGRjJ6g",
+                "title": "EL BARCELONA VUELVE A DERROTAR AL MADRID! OPINION Y REACCION AL BARCA CAMPEON COPA DEL REY (2025)",
+                "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RABPC24-QYc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Davoo Xeneize Plus",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "EL BARCELONA VUELVE A DERROTAR AL MADRID! OPINION Y REACCION AL BARCA CAMPEON COPA DEL REY (2025)",
+                    "description": "Todo el contenido es tomado de mi canal de KICK.\n\nKICK: https://kick.com/davooxeneize\nINSTAGRAM: https://www.instagram.com/davoobj\nTWITTER: https://twitter.com/davooxeneizejrr\nTIKTOK: https://www.tiktok.com/@davooxeneize"
+                }
+            },
+            "statistics": {
+                "viewCount": "1508217",
+                "likeCount": "75400",
+                "favoriteCount": "0",
+                "commentCount": "3138"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jyrgFCy-SjspykXP52uyC3TPiHU",
             "id": "1Mm4FMgDsH8",
             "snippet": {
                 "publishedAt": "2025-04-28T04:00:06Z",
@@ -917,15 +1416,134 @@
                 "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "2036836",
-                "likeCount": "31026",
+                "viewCount": "2402013",
+                "likeCount": "39043",
                 "favoriteCount": "0",
-                "commentCount": "2811"
+                "commentCount": "3008"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "OA_S3uNtFrCLkPKzpMMYWu62MLY",
+            "etag": "xaqF3PjYI4KM1yVkrIrga0hNghs",
+            "id": "3CU7oaxfON8",
+            "snippet": {
+                "publishedAt": "2025-04-30T03:09:40Z",
+                "channelId": "UC8olsAcO3ymIER6tnoFjw7w",
+                "title": "Kary Torres Oficial est\u00e1 en vivo Kary Pao y Wendy Nayeli",
+                "description": "Gracias por su apoyo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3CU7oaxfON8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kary Torres Oficial",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Kary Torres Oficial est\u00e1 en vivo Kary Pao y Wendy Nayeli",
+                    "description": "Gracias por su apoyo"
+                }
+            },
+            "statistics": {
+                "viewCount": "171371",
+                "likeCount": "15445",
+                "favoriteCount": "0",
+                "commentCount": "271"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ZzJ48aU8uKyQMW7PDfhwFhH0WDM",
+            "id": "hgylrljspZI",
+            "snippet": {
+                "publishedAt": "2025-04-26T20:33:14Z",
+                "channelId": "UCJGf4nZii5gIslhQTpisiPg",
+                "title": "EL PEOR OUTFIT PIERDE SU PAREJA \ud83d\udc94 | ft. We Got Kicks, Etervido",
+                "description": "SEGUNDA PARTE: https://youtu.be/xX50gDObVac\nPondremos a prueba a 20 parejas seg\u00fan su estilo de outfit, una colaboraci\u00f3n muy POCO esperada con we got kicks directamente desde estados unidos, y etervido. \n\na qu\u00e9 invitado les gustar\u00eda que traiga?\n\nRegistrate aqu\u00ed para aparecer en un v\u00eddeo \ud83d\udc47\nhttps://lebriah.com\n\nSIGUENOS\nJORGE: https://www.instagram.com/wegotkicks.pr\nBriah:  https://www.instagram.com/lebriah_/\n\nCasters: \nBAXUZ: https://www.instagram.com/baxuzpr\nETERVIDO: https://www.instagram.com/etervidos\n\n\n\ncontacto: contact@lebriah.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hgylrljspZI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hgylrljspZI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hgylrljspZI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hgylrljspZI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hgylrljspZI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "lebriah",
+                "tags": [
+                    "tiktok",
+                    "lebriah",
+                    "video gracioso",
+                    "clips",
+                    "cita a ciegas",
+                    "etervido",
+                    "we got kicks",
+                    "competencia de outfiots",
+                    "quien tiene el mejor outfit",
+                    "BLIND DATES BY LEBRIAH",
+                    "blind dates etervido",
+                    "we got KICKS",
+                    "WE GOT KICKS OUTFITS MEDELLIN",
+                    "PONGO A PRUEBA A 20 PAREJAS SEGUN SUS OUTFITS"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "EL PEOR OUTFIT PIERDE SU PAREJA \ud83d\udc94 | ft. We Got Kicks, Etervido",
+                    "description": "SEGUNDA PARTE: https://youtu.be/xX50gDObVac\nPondremos a prueba a 20 parejas seg\u00fan su estilo de outfit, una colaboraci\u00f3n muy POCO esperada con we got kicks directamente desde estados unidos, y etervido. \n\na qu\u00e9 invitado les gustar\u00eda que traiga?\n\nRegistrate aqu\u00ed para aparecer en un v\u00eddeo \ud83d\udc47\nhttps://lebriah.com\n\nSIGUENOS\nJORGE: https://www.instagram.com/wegotkicks.pr\nBriah:  https://www.instagram.com/lebriah_/\n\nCasters: \nBAXUZ: https://www.instagram.com/baxuzpr\nETERVIDO: https://www.instagram.com/etervidos\n\n\n\ncontacto: contact@lebriah.com"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "statistics": {
+                "viewCount": "1033647",
+                "likeCount": "20800",
+                "favoriteCount": "0",
+                "commentCount": "317"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HpsmHq6Ly87hn4D7Z6E-g8N7AHU",
             "id": "n4ixZgEAVVA",
             "snippet": {
                 "publishedAt": "2025-04-28T22:30:08Z",
@@ -993,83 +1611,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "644327",
-                "likeCount": "36533",
+                "viewCount": "678420",
+                "likeCount": "37742",
                 "favoriteCount": "0",
-                "commentCount": "2124"
+                "commentCount": "2020"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ovhCNNMFL--PSbWLHtjzTYTXowg",
-            "id": "hgylrljspZI",
-            "snippet": {
-                "publishedAt": "2025-04-26T20:33:14Z",
-                "channelId": "UCJGf4nZii5gIslhQTpisiPg",
-                "title": "EL PEOR OUTFIT PIERDE SU PAREJA \ud83d\udc94 | ft. We Got Kicks, Etervido",
-                "description": "SEGUNDA PARTE: https://youtu.be/xX50gDObVac\nPondremos a prueba a 20 parejas seg\u00fan su estilo de outfit, una colaboraci\u00f3n muy POCO esperada con we got kicks directamente desde estados unidos, y etervido. \n\na qu\u00e9 invitado les gustar\u00eda que traiga?\n\nRegistrate aqu\u00ed para aparecer en un v\u00eddeo \ud83d\udc47\nhttps://lebriah.com\n\nSIGUENOS\nJORGE: https://www.instagram.com/wegotkicks.pr\nBriah:  https://www.instagram.com/lebriah_/\n\nCasters: \nBAXUZ: https://www.instagram.com/baxuzpr\nETERVIDO: https://www.instagram.com/etervidos\n\n\n\ncontacto: contact@lebriah.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hgylrljspZI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hgylrljspZI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hgylrljspZI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/hgylrljspZI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/hgylrljspZI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "lebriah",
-                "tags": [
-                    "tiktok",
-                    "lebriah",
-                    "video gracioso",
-                    "clips",
-                    "cita a ciegas",
-                    "etervido",
-                    "we got kicks",
-                    "competencia de outfiots",
-                    "quien tiene el mejor outfit",
-                    "BLIND DATES BY LEBRIAH",
-                    "blind dates etervido",
-                    "we got KICKS",
-                    "WE GOT KICKS OUTFITS MEDELLIN",
-                    "PONGO A PRUEBA A 20 PAREJAS SEGUN SUS OUTFITS"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "EL PEOR OUTFIT PIERDE SU PAREJA \ud83d\udc94 | ft. We Got Kicks, Etervido",
-                    "description": "SEGUNDA PARTE: https://youtu.be/xX50gDObVac\nPondremos a prueba a 20 parejas seg\u00fan su estilo de outfit, una colaboraci\u00f3n muy POCO esperada con we got kicks directamente desde estados unidos, y etervido. \n\na qu\u00e9 invitado les gustar\u00eda que traiga?\n\nRegistrate aqu\u00ed para aparecer en un v\u00eddeo \ud83d\udc47\nhttps://lebriah.com\n\nSIGUENOS\nJORGE: https://www.instagram.com/wegotkicks.pr\nBriah:  https://www.instagram.com/lebriah_/\n\nCasters: \nBAXUZ: https://www.instagram.com/baxuzpr\nETERVIDO: https://www.instagram.com/etervidos\n\n\n\ncontacto: contact@lebriah.com"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "952667",
-                "likeCount": "19404",
-                "favoriteCount": "0",
-                "commentCount": "301"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "ssCsVeaNp0F2T6H27oPx-pfcSKY",
+            "etag": "EcAYY_DscDOjoU-vwDQzuVEte7s",
             "id": "zwkdZNn0c1Y",
             "snippet": {
                 "publishedAt": "2025-04-27T21:01:01Z",
@@ -1134,15 +1684,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "912371",
-                "likeCount": "60391",
+                "viewCount": "944687",
+                "likeCount": "61693",
                 "favoriteCount": "0",
-                "commentCount": "3614"
+                "commentCount": "3684"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ocqY0hwUDLBSA-1wgZSZ4eHSxJk",
+            "etag": "bmX4M3pS5suW7S03kh4AgCbjp8A",
             "id": "0b0lFD3PNp4",
             "snippet": {
                 "publishedAt": "2025-04-26T18:00:01Z",
@@ -1185,15 +1735,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "211416",
-                "likeCount": "8454",
+                "viewCount": "218690",
+                "likeCount": "8655",
                 "favoriteCount": "0",
-                "commentCount": "264"
+                "commentCount": "265"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Fh1oZEO496s6KBM9p5wJW71Ko4k",
+            "etag": "PwAPdzAehuPa296qgKhWzvltEZk",
             "id": "4V9p3aZxgWY",
             "snippet": {
                 "publishedAt": "2025-04-27T22:51:59Z",
@@ -1237,15 +1787,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "1133566",
-                "likeCount": "47273",
+                "viewCount": "1160890",
+                "likeCount": "47902",
                 "favoriteCount": "0",
-                "commentCount": "4297"
+                "commentCount": "4332"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "u4ZEuR-0Vb7MCZ7Noe4pkv6Ww8g",
+            "etag": "4o77TX0GfgF6II__gdA_Kh2DCgs",
             "id": "P5o2wD2C_A4",
             "snippet": {
                 "publishedAt": "2025-04-26T18:00:17Z",
@@ -1307,15 +1857,15 @@
                 "defaultAudioLanguage": "es-MX"
             },
             "statistics": {
-                "viewCount": "1497873",
-                "likeCount": "12190",
+                "viewCount": "1585006",
+                "likeCount": "12827",
                 "favoriteCount": "0",
-                "commentCount": "1101"
+                "commentCount": "1157"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Dl7l6xoyG-FrMxGLKiljqheEmz8",
+            "etag": "etcUXlH7Y_3JBtvbCGBcH8TXBQc",
             "id": "rPhEOwgR6ak",
             "snippet": {
                 "publishedAt": "2025-04-26T01:00:06Z",
@@ -1358,15 +1908,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "166935",
-                "likeCount": "30024",
+                "viewCount": "185342",
+                "likeCount": "32367",
                 "favoriteCount": "0",
-                "commentCount": "966"
+                "commentCount": "994"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "3MdzYrnfbvYAyTBZTaWAYOG5G5k",
+            "etag": "JpNdkWhDvxuyyZAHxxIZxHgN0Vg",
             "id": "tTDEKLnLzV8",
             "snippet": {
                 "publishedAt": "2025-04-26T11:26:59Z",
@@ -1429,15 +1979,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1291202",
-                "likeCount": "16683",
+                "viewCount": "1300405",
+                "likeCount": "16712",
                 "favoriteCount": "0",
-                "commentCount": "1148"
+                "commentCount": "1152"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "efYhFdU33mkoNQZyirtLL7YFRGg",
+            "etag": "pPI5JUDFQEvd9u_5CVF8V9D6riU",
             "id": "5w-XjMGfR_I",
             "snippet": {
                 "publishedAt": "2025-04-28T13:00:06Z",
@@ -1481,15 +2031,15 @@
                 "defaultAudioLanguage": "en"
             },
             "statistics": {
-                "viewCount": "716779",
-                "likeCount": "55009",
+                "viewCount": "799959",
+                "likeCount": "57159",
                 "favoriteCount": "0",
-                "commentCount": "3391"
+                "commentCount": "3525"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ztUb-WI51FXR7DXSezvGBxtd7go",
+            "etag": "VfET97bdjiZJeDy738Uvf4oX2jU",
             "id": "RtRob2bUlSk",
             "snippet": {
                 "publishedAt": "2025-04-23T21:00:06Z",
@@ -1558,15 +2108,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "558417",
-                "likeCount": "36898",
+                "viewCount": "587291",
+                "likeCount": "38490",
                 "favoriteCount": "0",
-                "commentCount": "6960"
+                "commentCount": "7331"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "2f2ygHp3_3e72YlaqsgGxl5SkQg",
+            "etag": "rAsC41SKYwYToTFhF9kir2ObEEY",
             "id": "V5JkPE3A-Wo",
             "snippet": {
                 "publishedAt": "2025-04-26T17:30:16Z",
@@ -1653,15 +2203,71 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "986558",
-                "likeCount": "18647",
+                "viewCount": "1020503",
+                "likeCount": "19125",
                 "favoriteCount": "0",
-                "commentCount": "346"
+                "commentCount": "353"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "TBoSWzxILHR6bNI6EZ1FGTVP_gA",
+            "etag": "eWlptdzETKQcNuMwExNp4tKQT1E",
+            "id": "z2XuBkOOhhw",
+            "snippet": {
+                "publishedAt": "2025-04-25T00:02:00Z",
+                "channelId": "UC3vpYFFzqIzsXbMgneDTSeQ",
+                "title": "AMISTA",
+                "description": "Provided to YouTube by WEA Latina\n\nAMISTA \u00b7 Blessd \u00b7 Ovy On The Drums\n\nAMISTA\n\n\u2117 2025 Cigol Music Group, A Division of Globalatino Music Partners, Under exclusive license to Warner Music Latina Inc.\n\nVocals: Blessd\nMastering Engineer: Mosty\nMixing Engineer: Mosty\nBeats: Ovy On The Drums\nUnknown: Ovy On The Drums\nProducer: Ovy On The Drums\nComposer: Cristian Andr\u00e9s Salazar\nComposer: Daniel Echavarria Oviedo\nComposer: Kevyn Mauricio Cruz Moreno\nComposer: Stiven Mesa Londo\u00f1o\nComposer: Wilfran Castillo\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Blessd - Topic",
+                "tags": [
+                    "Blessd",
+                    "Ovy On The Drums",
+                    "AMISTA"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "AMISTA",
+                    "description": "Provided to YouTube by WEA Latina\n\nAMISTA \u00b7 Blessd \u00b7 Ovy On The Drums\n\nAMISTA\n\n\u2117 2025 Cigol Music Group, A Division of Globalatino Music Partners, Under exclusive license to Warner Music Latina Inc.\n\nVocals: Blessd\nMastering Engineer: Mosty\nMixing Engineer: Mosty\nBeats: Ovy On The Drums\nUnknown: Ovy On The Drums\nProducer: Ovy On The Drums\nComposer: Cristian Andr\u00e9s Salazar\nComposer: Daniel Echavarria Oviedo\nComposer: Kevyn Mauricio Cruz Moreno\nComposer: Stiven Mesa Londo\u00f1o\nComposer: Wilfran Castillo\n\nAuto-generated by YouTube."
+                }
+            },
+            "statistics": {
+                "viewCount": "1949856",
+                "likeCount": "33088",
+                "favoriteCount": "0",
+                "commentCount": "228"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5nzbpnEcebItjbDqAY86eeG7MpQ",
             "id": "N4lCc3RPfms",
             "snippet": {
                 "publishedAt": "2025-04-27T00:43:15Z",
@@ -1753,71 +2359,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "914237",
-                "likeCount": "44330",
+                "viewCount": "945856",
+                "likeCount": "45114",
                 "favoriteCount": "0",
-                "commentCount": "2011"
+                "commentCount": "2048"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "4gJQ1mW3trGz_GCmKYquEQx0VW8",
-            "id": "z2XuBkOOhhw",
-            "snippet": {
-                "publishedAt": "2025-04-25T00:02:00Z",
-                "channelId": "UC3vpYFFzqIzsXbMgneDTSeQ",
-                "title": "AMISTA",
-                "description": "Provided to YouTube by WEA Latina\n\nAMISTA \u00b7 Blessd \u00b7 Ovy On The Drums\n\nAMISTA\n\n\u2117 2025 Cigol Music Group, A Division of Globalatino Music Partners, Under exclusive license to Warner Music Latina Inc.\n\nVocals: Blessd\nMastering Engineer: Mosty\nMixing Engineer: Mosty\nBeats: Ovy On The Drums\nUnknown: Ovy On The Drums\nProducer: Ovy On The Drums\nComposer: Cristian Andr\u00e9s Salazar\nComposer: Daniel Echavarria Oviedo\nComposer: Kevyn Mauricio Cruz Moreno\nComposer: Stiven Mesa Londo\u00f1o\nComposer: Wilfran Castillo\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/z2XuBkOOhhw/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Blessd - Topic",
-                "tags": [
-                    "Blessd",
-                    "Ovy On The Drums",
-                    "AMISTA"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "AMISTA",
-                    "description": "Provided to YouTube by WEA Latina\n\nAMISTA \u00b7 Blessd \u00b7 Ovy On The Drums\n\nAMISTA\n\n\u2117 2025 Cigol Music Group, A Division of Globalatino Music Partners, Under exclusive license to Warner Music Latina Inc.\n\nVocals: Blessd\nMastering Engineer: Mosty\nMixing Engineer: Mosty\nBeats: Ovy On The Drums\nUnknown: Ovy On The Drums\nProducer: Ovy On The Drums\nComposer: Cristian Andr\u00e9s Salazar\nComposer: Daniel Echavarria Oviedo\nComposer: Kevyn Mauricio Cruz Moreno\nComposer: Stiven Mesa Londo\u00f1o\nComposer: Wilfran Castillo\n\nAuto-generated by YouTube."
-                }
-            },
-            "statistics": {
-                "viewCount": "1764909",
-                "likeCount": "30942",
-                "favoriteCount": "0",
-                "commentCount": "224"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "LS7boaKRbshB3oAL4oM6xBnC7_4",
+            "etag": "if9BzyDdrALQ_UemrhlZsS5gnjQ",
             "id": "O-WsQlXaa0E",
             "snippet": {
                 "publishedAt": "2025-04-25T17:00:02Z",
@@ -1879,15 +2429,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "6366522",
-                "likeCount": "235863",
+                "viewCount": "6965653",
+                "likeCount": "239800",
                 "favoriteCount": "0",
-                "commentCount": "9807"
+                "commentCount": "9909"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "sW3u8RqXeblSgNAhjnh3sJUCgIs",
+            "etag": "NepD6WPO3L74FlOft6ad8cPdI9U",
             "id": "EytoKrmbDxE",
             "snippet": {
                 "publishedAt": "2025-04-26T23:05:30Z",
@@ -1947,15 +2497,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "662565",
-                "likeCount": "11400",
+                "viewCount": "668581",
+                "likeCount": "11448",
                 "favoriteCount": "0",
-                "commentCount": "819"
+                "commentCount": "827"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Qtcibyz-0QZzsl4hPNzWC6N4e18",
+            "etag": "kUUJ_Y3ZdEXOV2Z7x9nv_TBgXRg",
             "id": "XvmHkdoWRNM",
             "snippet": {
                 "publishedAt": "2025-04-27T20:44:18Z",
@@ -2015,15 +2565,66 @@
                 }
             },
             "statistics": {
-                "viewCount": "1804240",
-                "likeCount": "24764",
+                "viewCount": "1843321",
+                "likeCount": "25174",
                 "favoriteCount": "0",
-                "commentCount": "2558"
+                "commentCount": "2592"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "9RIcSPHacLIv4wbNtSEaiH9KeTY",
+            "etag": "Ws-wTg3y9U6VbSWdCjvqZP88yjM",
+            "id": "NeZ3TWruRfc",
+            "snippet": {
+                "publishedAt": "2025-04-26T21:00:06Z",
+                "channelId": "UCI96hlCwx8rJR0idr2sJCVQ",
+                "title": "vivir con depresi\u00f3n.",
+                "description": "esta es la historia animada mas personal de magma.mp4, de hecho de todos mis canales themagmaboi. voy a contarles mi experiencia con la depresi\u00f3n. todo lo contado aqu\u00ed son experiencias reales que comparto con intenci\u00f3n de que entretengan y tal vez ayuden.\ndesde lo m\u00e1s profundo de mi coraz\u00f3n: gracias y cu\u00eddense mucho!:)\n\nDIRECTOS https://twitch.tv/themagmaboi\ntwitter https://twitter.com/TheMagmaBoi\ninstagram https://www.instagram.com/themagmaboi/\n\nVideos Largos (NUEVO): @themagmaplus \nCanal secreto: @ElMagmaBoi \nMinecraft: @TheMagmaBoi \nMemes: @Magmitaa \nReacciones: @themagmarec \n\nAgradecimientos especiales a @threadsarts_yt con su animacion, @fallosinsonido por los vfx, a @YouTubeLatam por darme un espacio para compartir mis experiencias, y a ti por estar aqu\u00ed y ser parte de esto que hago con tanto cari\u00f1o y pasi\u00f3n.\n\ncomenta otra historia que te gustar\u00eda ver para recibir un coraz\u00f3n ;)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "magma.mp4",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "vivir con depresi\u00f3n.",
+                    "description": "esta es la historia animada mas personal de magma.mp4, de hecho de todos mis canales themagmaboi. voy a contarles mi experiencia con la depresi\u00f3n. todo lo contado aqu\u00ed son experiencias reales que comparto con intenci\u00f3n de que entretengan y tal vez ayuden.\ndesde lo m\u00e1s profundo de mi coraz\u00f3n: gracias y cu\u00eddense mucho!:)\n\nDIRECTOS https://twitch.tv/themagmaboi\ntwitter https://twitter.com/TheMagmaBoi\ninstagram https://www.instagram.com/themagmaboi/\n\nVideos Largos (NUEVO): @themagmaplus \nCanal secreto: @ElMagmaBoi \nMinecraft: @TheMagmaBoi \nMemes: @Magmitaa \nReacciones: @themagmarec \n\nAgradecimientos especiales a @threadsarts_yt con su animacion, @fallosinsonido por los vfx, a @YouTubeLatam por darme un espacio para compartir mis experiencias, y a ti por estar aqu\u00ed y ser parte de esto que hago con tanto cari\u00f1o y pasi\u00f3n.\n\ncomenta otra historia que te gustar\u00eda ver para recibir un coraz\u00f3n ;)"
+                }
+            },
+            "statistics": {
+                "viewCount": "653930",
+                "likeCount": "97228",
+                "favoriteCount": "0",
+                "commentCount": "11866"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "I_e-FHZ9cZMQBbaw4tVqwX-nf1g",
             "id": "ug3I39_SIIg",
             "snippet": {
                 "publishedAt": "2025-04-26T19:22:47Z",
@@ -2094,66 +2695,74 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "1045571",
-                "likeCount": "12045",
+                "viewCount": "1080010",
+                "likeCount": "12335",
                 "favoriteCount": "0",
-                "commentCount": "702"
+                "commentCount": "710"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ym-Yham5Oei4yqofwVfI1otx88g",
-            "id": "NeZ3TWruRfc",
+            "etag": "0wNFdTPZxLyM5leJyNkCHHSTzfw",
+            "id": "NiAHVOBF0Ng",
             "snippet": {
-                "publishedAt": "2025-04-26T21:00:06Z",
-                "channelId": "UCI96hlCwx8rJR0idr2sJCVQ",
-                "title": "vivir con depresi\u00f3n.",
-                "description": "esta es la historia animada mas personal de magma.mp4, de hecho de todos mis canales themagmaboi. voy a contarles mi experiencia con la depresi\u00f3n. todo lo contado aqu\u00ed son experiencias reales que comparto con intenci\u00f3n de que entretengan y tal vez ayuden.\ndesde lo m\u00e1s profundo de mi coraz\u00f3n: gracias y cu\u00eddense mucho!:)\n\nDIRECTOS https://twitch.tv/themagmaboi\ntwitter https://twitter.com/TheMagmaBoi\ninstagram https://www.instagram.com/themagmaboi/\n\nVideos Largos (NUEVO): @themagmaplus \nCanal secreto: @ElMagmaBoi \nMinecraft: @TheMagmaBoi \nMemes: @Magmitaa \nReacciones: @themagmarec \n\nAgradecimientos especiales a @threadsarts_yt con su animacion, @fallosinsonido por los vfx, a @YouTubeLatam por darme un espacio para compartir mis experiencias, y a ti por estar aqu\u00ed y ser parte de esto que hago con tanto cari\u00f1o y pasi\u00f3n.\n\ncomenta otra historia que te gustar\u00eda ver para recibir un coraz\u00f3n ;)",
+                "publishedAt": "2025-04-25T16:00:06Z",
+                "channelId": "UCYUGG6IiGdKynMf19D-jW4w",
+                "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
+                "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/NeZ3TWruRfc/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "magma.mp4",
-                "categoryId": "1",
+                "channelTitle": "Chaki Bley",
+                "tags": [
+                    "Chaki Bley",
+                    "GunzGangMusic",
+                    "BlazeMusic.Net",
+                    "Una Chica Good",
+                    "AT Films",
+                    "Yomal El Maestro"
+                ],
+                "categoryId": "10",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "vivir con depresi\u00f3n.",
-                    "description": "esta es la historia animada mas personal de magma.mp4, de hecho de todos mis canales themagmaboi. voy a contarles mi experiencia con la depresi\u00f3n. todo lo contado aqu\u00ed son experiencias reales que comparto con intenci\u00f3n de que entretengan y tal vez ayuden.\ndesde lo m\u00e1s profundo de mi coraz\u00f3n: gracias y cu\u00eddense mucho!:)\n\nDIRECTOS https://twitch.tv/themagmaboi\ntwitter https://twitter.com/TheMagmaBoi\ninstagram https://www.instagram.com/themagmaboi/\n\nVideos Largos (NUEVO): @themagmaplus \nCanal secreto: @ElMagmaBoi \nMinecraft: @TheMagmaBoi \nMemes: @Magmitaa \nReacciones: @themagmarec \n\nAgradecimientos especiales a @threadsarts_yt con su animacion, @fallosinsonido por los vfx, a @YouTubeLatam por darme un espacio para compartir mis experiencias, y a ti por estar aqu\u00ed y ser parte de esto que hago con tanto cari\u00f1o y pasi\u00f3n.\n\ncomenta otra historia que te gustar\u00eda ver para recibir un coraz\u00f3n ;)"
+                    "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
+                    "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet"
                 }
             },
             "statistics": {
-                "viewCount": "621998",
-                "likeCount": "92386",
+                "viewCount": "982886",
+                "likeCount": "29942",
                 "favoriteCount": "0",
-                "commentCount": "11428"
+                "commentCount": "1246"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "z6yAb32BSY8L9oE7r1AVF7RG8Tc",
+            "etag": "wWVoIZWWbAs-pqWChIR2TctMJgM",
             "id": "tsgzVf36P8U",
             "snippet": {
                 "publishedAt": "2025-04-26T23:57:06Z",
@@ -2218,74 +2827,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "713936",
-                "likeCount": "49979",
+                "viewCount": "728786",
+                "likeCount": "50545",
                 "favoriteCount": "0",
-                "commentCount": "1216"
+                "commentCount": "1231"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "toifQBQrjlpn1iQrdVSWtb3ZaG4",
-            "id": "NiAHVOBF0Ng",
-            "snippet": {
-                "publishedAt": "2025-04-25T16:00:06Z",
-                "channelId": "UCYUGG6IiGdKynMf19D-jW4w",
-                "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
-                "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/NiAHVOBF0Ng/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Chaki Bley",
-                "tags": [
-                    "Chaki Bley",
-                    "GunzGangMusic",
-                    "BlazeMusic.Net",
-                    "Una Chica Good",
-                    "AT Films",
-                    "Yomal El Maestro"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "CHAKI BLEY - UNA CHICA GOOD (VIDEO OFICIAL) By AT FILMS",
-                    "description": "Una Chica Good By Chaki Bley\nDisponible Ya: https://vyd.co/UnaChicaGood \nProd By Yomal El Maestro / Directed By AT Films\n\nFollow La Cuentas Oficiales: \nhttps://lnk.to/ChakiBley\n\nCopyright (C) 2025 GunzGangMusic (Distributed By BlazeMusicNet).\n\nTodas Las Copias Subida Sin Autorizacion Seran Borradas Y Penalizada Por La Justicia De Copyright\n\nPart of BlazeMusic.Net, the hottest destination for Urban Music.\nwww.BlazeMusic.Net\n\nVisita: https://BlazeMusic.net\n\n#ChakiBley #UnaChicaGood #GunzGangMusic #BlazeMusicNet"
-                }
-            },
-            "statistics": {
-                "viewCount": "827171",
-                "likeCount": "26973",
-                "favoriteCount": "0",
-                "commentCount": "1177"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "Q2WdwOiu1W0Y2GZiunhmWpdbauI",
+            "etag": "FJkzMb4IkcL4QBDa0edarMSGRRM",
             "id": "ycLFqJ_xssk",
             "snippet": {
                 "publishedAt": "2025-04-25T16:00:07Z",
@@ -2363,15 +2913,15 @@
                 "defaultAudioLanguage": "es"
             },
             "statistics": {
-                "viewCount": "2422845",
-                "likeCount": "48488",
+                "viewCount": "2603462",
+                "likeCount": "49990",
                 "favoriteCount": "0",
-                "commentCount": "12952"
+                "commentCount": "13326"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "yptrtlKkiArlmuOnaE8540a_tBg",
+            "etag": "44eefWn5ydtt4jS1PL-taGf2AIc",
             "id": "hU5akDv_cyU",
             "snippet": {
                 "publishedAt": "2025-04-27T18:05:57Z",
@@ -2432,15 +2982,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "659675",
-                "likeCount": "5755",
+                "viewCount": "661915",
+                "likeCount": "5767",
                 "favoriteCount": "0",
-                "commentCount": "352"
+                "commentCount": "354"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "RB1FbxgV7JLQOH4iTmJUSTW_vQA",
+            "etag": "EaqofihV3o5Kb3GaoCCybDZyeiw",
             "id": "LEhTlLnOVDU",
             "snippet": {
                 "publishedAt": "2025-04-25T00:00:31Z",
@@ -2488,15 +3038,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "3478848",
-                "likeCount": "190812",
+                "viewCount": "3917696",
+                "likeCount": "203790",
                 "favoriteCount": "0",
-                "commentCount": "6788"
+                "commentCount": "6954"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "a_1zzYC3Ef-WG47BJOPUUaQm_Hg",
+            "etag": "mPiHOshIJIWoAEhzh3eeoly5F7k",
             "id": "qEz2Kwzix5s",
             "snippet": {
                 "publishedAt": "2025-04-25T17:30:21Z",
@@ -2582,82 +3132,15 @@
                 "defaultAudioLanguage": "es-ES"
             },
             "statistics": {
-                "viewCount": "1359200",
-                "likeCount": "11871",
+                "viewCount": "1403346",
+                "likeCount": "12181",
                 "favoriteCount": "0",
-                "commentCount": "1483"
+                "commentCount": "1510"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YYNIMAwNUT6YbfzmIQAcYYWFK7g",
-            "id": "zE5xBY0Syyg",
-            "snippet": {
-                "publishedAt": "2025-04-25T03:29:05Z",
-                "channelId": "UCSCAJJ1RJ4rfRTVW4gjYTpQ",
-                "title": "'Usted me saca a m\u00ed o yo la saco a usted', La Jesuu a Yina | La casa de los famosos Colombia 2025",
-                "description": "La Jesuu entr\u00f3 pisando fuerte en #LaCasaDeLosFamososCol\ud83d\ude28, ella expres\u00f3 sus desacuerdos con Yina\ud83d\udd25y las dos protagonizaron un ic\u00f3nico momento en la competencia\ud83e\udd76.\n\n\ud83d\udc40\u2728 Cada momento es \u00fanico y exclusivo en #LaCasaDeLosFamososCol2 \u00a1con\u00e9ctate al 24/7 a trav\u00e9s de la app de Canal RCN! \ud83d\ude24\ud83d\udcf2\ud83d\udd25\ud83d\udc9c\nDescarga nuestra app desde canalrcn.com, tu celular o tambi\u00e9n desde tu televisor \u27a1\ufe0f https://linktr.ee/canalrcn\n\nS\u00edguenos en nuestras redes sociales: \nCanal de WhatsApp: https://bit.ly/3PWzR5m\nFacebook: https://www.facebook.com/CanalRCN/\nInstagram: https://www.instagram.com/canalrcn/\nTiktok: https://www.tiktok.com/@canalrcn\nTwitter:  https://www.twitter.com/CanalRCN\n\n'Usted me saca a m\u00ed o yo la saco a usted', La Jesuu a Yina | La casa de los famosos Colombia 2025",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zE5xBY0Syyg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zE5xBY0Syyg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zE5xBY0Syyg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/zE5xBY0Syyg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/zE5xBY0Syyg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Canal RCN",
-                "tags": [
-                    "Canal RCN",
-                    "la casa de los famosos",
-                    "la casa de los famosos colombia",
-                    "la casa de los famosos colombia 2025",
-                    "la casa de los famosos 2025",
-                    "participantes la casa de los famosos colombia 2",
-                    "realities colombia",
-                    "la casa de los famosos participantes",
-                    "en vivo la casa de los famosos colombia",
-                    "cap\u00edtulos de la casa de los famosos colombia",
-                    "'Usted me saca a m\u00ed o yo la saco a usted'",
-                    "La Jesuu a Yina | La casa de los famosos Colombia 2025"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "es-419",
-                "localized": {
-                    "title": "'Usted me saca a m\u00ed o yo la saco a usted', La Jesuu a Yina | La casa de los famosos Colombia 2025",
-                    "description": "La Jesuu entr\u00f3 pisando fuerte en #LaCasaDeLosFamososCol\ud83d\ude28, ella expres\u00f3 sus desacuerdos con Yina\ud83d\udd25y las dos protagonizaron un ic\u00f3nico momento en la competencia\ud83e\udd76.\n\n\ud83d\udc40\u2728 Cada momento es \u00fanico y exclusivo en #LaCasaDeLosFamososCol2 \u00a1con\u00e9ctate al 24/7 a trav\u00e9s de la app de Canal RCN! \ud83d\ude24\ud83d\udcf2\ud83d\udd25\ud83d\udc9c\nDescarga nuestra app desde canalrcn.com, tu celular o tambi\u00e9n desde tu televisor \u27a1\ufe0f https://linktr.ee/canalrcn\n\nS\u00edguenos en nuestras redes sociales: \nCanal de WhatsApp: https://bit.ly/3PWzR5m\nFacebook: https://www.facebook.com/CanalRCN/\nInstagram: https://www.instagram.com/canalrcn/\nTiktok: https://www.tiktok.com/@canalrcn\nTwitter:  https://www.twitter.com/CanalRCN\n\n'Usted me saca a m\u00ed o yo la saco a usted', La Jesuu a Yina | La casa de los famosos Colombia 2025"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "374255",
-                "likeCount": "2823",
-                "favoriteCount": "0",
-                "commentCount": "1026"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "lbRPMbJY0k7yMj-Ufcel3w7A774",
+            "etag": "FWsVkCpJTLcTwgHKhE54_nwxNnw",
             "id": "1K38rvp7qVM",
             "snippet": {
                 "publishedAt": "2025-04-26T18:28:47Z",
@@ -2701,15 +3184,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "422866",
-                "likeCount": "12532",
+                "viewCount": "448371",
+                "likeCount": "13052",
                 "favoriteCount": "0",
-                "commentCount": "1207"
+                "commentCount": "1244"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "FGTORplDDeKNzEjrli60K2XXOoE",
+            "etag": "JwPnbHA6MNJWNaJLCRYaILaZD4w",
             "id": "nURjtARV8xw",
             "snippet": {
                 "publishedAt": "2025-04-26T17:42:15Z",
@@ -2778,15 +3261,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "255553",
-                "likeCount": "3257",
+                "viewCount": "257457",
+                "likeCount": "3272",
                 "favoriteCount": "0",
-                "commentCount": "450"
+                "commentCount": "452"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "WbzLRfjjn_j9LJS1WgqNV2Zp6wY",
+            "etag": "eNrePl0yogzs1iOpHVRl1520EXM",
             "id": "Ao2GsXHMD_4",
             "snippet": {
                 "publishedAt": "2025-04-26T04:00:11Z",
@@ -2863,15 +3346,15 @@
                 }
             },
             "statistics": {
-                "viewCount": "5108725",
-                "likeCount": "588176",
+                "viewCount": "5386773",
+                "likeCount": "597748",
                 "favoriteCount": "0",
-                "commentCount": "25336"
+                "commentCount": "25534"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "6sOBEcgedjH0UtzEachP6q9_SQ4",
+            "etag": "20qW2TXr8ssZv3gEVaXVmj_8p1A",
             "id": "oK-8OHeMc4o",
             "snippet": {
                 "publishedAt": "2025-04-25T00:00:07Z",
@@ -2915,147 +3398,15 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "1283960",
-                "likeCount": "77829",
+                "viewCount": "1376121",
+                "likeCount": "79338",
                 "favoriteCount": "0",
-                "commentCount": "4253"
+                "commentCount": "4288"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "S6cPgSt6zi_PUJlivY0MxugdIoE",
-            "id": "9weontk8CEE",
-            "snippet": {
-                "publishedAt": "2025-04-27T20:01:11Z",
-                "channelId": "UCB_P3w2BPH2ZMIO2JmxY6_w",
-                "title": "As\u00ed Celebramos El CUMPLEA\u00d1OS de ARTURO",
-                "description": "AMIGOS  GRACIAS POR VER ESTE VIDEO ME GUSTARIA QUE LE DIERAN LIKE Y LO COMPARTIERAN FUERA DE GRAN AYUDA\n\n\u26a1\ufe0fS\u00edgueme en mis redes sociales\u26a1\ufe0f \n\nInstagram: https://www.instagram.com/cesarpantoja.n\n\nTiktok: https://www.tiktok.com/@cesarpantoja.n\u200b\n\nTwitter: https://twitter.com/Cesarpantojaa\n\n\ud83d\udce9CONTACTO: cpmarcas@gmail.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9weontk8CEE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9weontk8CEE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9weontk8CEE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/9weontk8CEE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/9weontk8CEE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Cesar Pantoja",
-                "tags": [
-                    "CESAR",
-                    "PANTOJA",
-                    "CESAR PANTOJA",
-                    "VIDEOS",
-                    "ENTRETENIMIENTO",
-                    "RISA",
-                    "GAME",
-                    "GAMERS",
-                    "GAMER",
-                    "DIVERTIDO",
-                    "RISAS",
-                    "HUMOR",
-                    "BROMAS",
-                    "RETOS",
-                    "TAGS"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "As\u00ed Celebramos El CUMPLEA\u00d1OS de ARTURO",
-                    "description": "AMIGOS  GRACIAS POR VER ESTE VIDEO ME GUSTARIA QUE LE DIERAN LIKE Y LO COMPARTIERAN FUERA DE GRAN AYUDA\n\n\u26a1\ufe0fS\u00edgueme en mis redes sociales\u26a1\ufe0f \n\nInstagram: https://www.instagram.com/cesarpantoja.n\n\nTiktok: https://www.tiktok.com/@cesarpantoja.n\u200b\n\nTwitter: https://twitter.com/Cesarpantojaa\n\n\ud83d\udce9CONTACTO: cpmarcas@gmail.com"
-                }
-            },
-            "statistics": {
-                "viewCount": "858308",
-                "likeCount": "24256",
-                "favoriteCount": "0",
-                "commentCount": "586"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "0ZyV8IQMiDJZsN6jDDS5XzdAgfU",
-            "id": "nV3Fn2Y_SgU",
-            "snippet": {
-                "publishedAt": "2025-04-25T20:53:06Z",
-                "channelId": "UCLB3FgLIasAtHEvlxLMludg",
-                "title": "SOLO V\u00cdDEO: Estas son las \u00faltimas im\u00e1genes del f\u00e9retro abierto del papa Francisco",
-                "description": "Estas son las \u00faltimas im\u00e1genes del papa Francisco.\n#\u00faltimas #im\u00e1genes #f\u00e9retro #abierto #papa #francisco #vaticano #despedida\nDescarga SAINT app aqu\u00ed: https://apps.apple.com/es/app/saint-catholic-lifestyle/id6670555256?l=en-GB\n\nRome Reports es una Agencia internacional de noticias, especializada en la actividad del Papa y del Vaticano, que cubre a su vez debates de actualidad sobre temas sociales, culturales y religiosos. \n\n\ud83d\udd14 Suscr\u00edbete a nuestro canal, y activa las notificaciones: https://www.youtube.com/user/romereportsESP\n\n\ud83d\udc65 S\u00edguenos en nuestras redes sociales: \nInstagram: https://www.instagram.com/romereportsESP/ \nTwitter: https://twitter.com/romereportsesp \nFacebook: https://www.facebook.com/RomeReportsESP \nTelegram: https://t.me/Rome_Reports_Espanol\n\n\ud83d\udcbb  Y tambi\u00e9n puedes visitar nuestra web: www.romereports.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/nV3Fn2Y_SgU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/nV3Fn2Y_SgU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/nV3Fn2Y_SgU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/nV3Fn2Y_SgU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/nV3Fn2Y_SgU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "ROME REPORTS en Espa\u00f1ol",
-                "tags": [
-                    "Francisco",
-                    "Papa",
-                    "Vaticano",
-                    "Jorge Bergoglio",
-                    "San Pedro",
-                    "ROME REPORTS",
-                    "Roma",
-                    "Iglesia cat\u00f3lica",
-                    "Santa Sede",
-                    "Baticano"
-                ],
-                "categoryId": "25",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "SOLO V\u00cdDEO: Estas son las \u00faltimas im\u00e1genes del f\u00e9retro abierto del papa Francisco",
-                    "description": "Estas son las \u00faltimas im\u00e1genes del papa Francisco.\n#\u00faltimas #im\u00e1genes #f\u00e9retro #abierto #papa #francisco #vaticano #despedida\nDescarga SAINT app aqu\u00ed: https://apps.apple.com/es/app/saint-catholic-lifestyle/id6670555256?l=en-GB\n\nRome Reports es una Agencia internacional de noticias, especializada en la actividad del Papa y del Vaticano, que cubre a su vez debates de actualidad sobre temas sociales, culturales y religiosos. \n\n\ud83d\udd14 Suscr\u00edbete a nuestro canal, y activa las notificaciones: https://www.youtube.com/user/romereportsESP\n\n\ud83d\udc65 S\u00edguenos en nuestras redes sociales: \nInstagram: https://www.instagram.com/romereportsESP/ \nTwitter: https://twitter.com/romereportsesp \nFacebook: https://www.facebook.com/RomeReportsESP \nTelegram: https://t.me/Rome_Reports_Espanol\n\n\ud83d\udcbb  Y tambi\u00e9n puedes visitar nuestra web: www.romereports.com"
-                },
-                "defaultAudioLanguage": "es"
-            },
-            "statistics": {
-                "viewCount": "1417445",
-                "likeCount": "18059",
-                "favoriteCount": "0",
-                "commentCount": "1431"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "XAmr0Spnvksco8F7ymXugQE8vZs",
+            "etag": "y8d3J-iCDNiGywejBATwEORTkEE",
             "id": "6BCWqxUV3RU",
             "snippet": {
                 "publishedAt": "2025-04-25T22:00:15Z",
@@ -3107,309 +3458,10 @@
                 "defaultAudioLanguage": "es-419"
             },
             "statistics": {
-                "viewCount": "877118",
-                "likeCount": "68423",
+                "viewCount": "892965",
+                "likeCount": "69397",
                 "favoriteCount": "0",
-                "commentCount": "2766"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "beNDoCjsXXEvSu1afY4pUW4xWPQ",
-            "id": "L1Ta38LNcUE",
-            "snippet": {
-                "publishedAt": "2025-04-25T18:27:45Z",
-                "channelId": "UCsCQIvK0LGpb3dBRo2RXAfA",
-                "title": "Desconexi\u00f3n Emocional - MissaSinfonia",
-                "description": "Sigamos en contacto!\nhttps://www.missasinfonia.com\nSpotify:\nhttps://open.spotify.com/intl-es/artist/7Ip8SqItaKjJtgtKUNCShb\ninstagram:\nhttp://instagram.com/missasinfonia\nTwitch:\nhttps://www.twitch.tv/missasinfonia\nX:\nhttp://www.x.com/MissaSinfonia\n\nLetra:\n\nTengo d\u00edas sin dormir\nPaso noches sin decir\nLo harto que estoy\nDe ti\n\nNi un segundo estoy en paz\nGrito fuerte en soledad\nY nadie me escucha\nNadie me ayuda\n\n(Coro)\nNo hay nadie que entienda\nMas que yo\nQue estoy cansado, desvelado.\n\nSintiendo que todo \nse acab\u00f3 \nPero esto es solo el principio.\n\n(Verso)\nDesconexi\u00f3n emocional\nSolo por querer lograr ser alguien\nLograr ser alguien\n\nEntre paredes de cristal\nTengo rocas que lanzar al aire,\nQue algo cambie.\n\n(Coro)\nNo hay nadie te entienda m\u00e1s que yo\nQue estoy cansado, desvelado\nSintiendo que todo se acab\u00f3\nPero esto es solo el principio\n\n(Puente)\nTengo miedo de continuar\nSi paro no s\u00e9 qu\u00e9 suceder\u00e1\n\nTodo podr\u00eda terminar \nUna oportunidad\n\n(Coro)\nNo hay nadie te entienda m\u00e1s que yo\nQue estoy cansado, desvelado\nSintiendo que todo se acab\u00f3\nPero esto es solo el principio\n\n(Coro)\nNo hay nadie te entienda m\u00e1s que yo\nQue estoy cansado, desvelado\nSintiendo que todo se acab\u00f3\nPero esto es solo el principio\n\n\nVideo producido por Enrique Rosas y dirigido por Alfonso Ramirez en Oncemil producciones.\n\nEscrita por: Missa Sinfon\u00eda, Milo \u00c1vila y Edgar Desfassiaux.\n\nUna producci\u00f3n dirigida y realizada por Milo \u00c1vila y Edgar Desfassiaux para Cosmos by Bobo.\nBater\u00eda: Eduardo Torruco.\nIng. de mezcla: Adri\u00e1n \u201cRojo\u201d Trevi\u00f1o.\nProducci\u00f3n ejecutiva: Emilio \u00c1vila y Michkin Boyzo.\nLabel Manager: Carlos Faisal.\nManager personal: Lucas Garcia Noya.\n\nEspecial agradecimiento a mi equipo AttachMenta por el management y administraci\u00f3n del proyecto.\n\nGracias Adrien Mont por prestarnos su bello talento para el arte promocional, su instagram:\nhttps://www.instagram.com/adrien_mess/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/L1Ta38LNcUE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/L1Ta38LNcUE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/L1Ta38LNcUE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/L1Ta38LNcUE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/L1Ta38LNcUE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "MissaSinfonia",
-                "tags": [
-                    "missasinfonia",
-                    "missa sinfonia",
-                    "divertido",
-                    "analisis rosa de guadalupe",
-                    "lusito comunica",
-                    "wismichu",
-                    "momos",
-                    "memes",
-                    "sldg",
-                    "auronplay"
-                ],
-                "categoryId": "23",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Desconexi\u00f3n Emocional - MissaSinfonia",
-                    "description": "Sigamos en contacto!\nhttps://www.missasinfonia.com\nSpotify:\nhttps://open.spotify.com/intl-es/artist/7Ip8SqItaKjJtgtKUNCShb\ninstagram:\nhttp://instagram.com/missasinfonia\nTwitch:\nhttps://www.twitch.tv/missasinfonia\nX:\nhttp://www.x.com/MissaSinfonia\n\nLetra:\n\nTengo d\u00edas sin dormir\nPaso noches sin decir\nLo harto que estoy\nDe ti\n\nNi un segundo estoy en paz\nGrito fuerte en soledad\nY nadie me escucha\nNadie me ayuda\n\n(Coro)\nNo hay nadie que entienda\nMas que yo\nQue estoy cansado, desvelado.\n\nSintiendo que todo \nse acab\u00f3 \nPero esto es solo el principio.\n\n(Verso)\nDesconexi\u00f3n emocional\nSolo por querer lograr ser alguien\nLograr ser alguien\n\nEntre paredes de cristal\nTengo rocas que lanzar al aire,\nQue algo cambie.\n\n(Coro)\nNo hay nadie te entienda m\u00e1s que yo\nQue estoy cansado, desvelado\nSintiendo que todo se acab\u00f3\nPero esto es solo el principio\n\n(Puente)\nTengo miedo de continuar\nSi paro no s\u00e9 qu\u00e9 suceder\u00e1\n\nTodo podr\u00eda terminar \nUna oportunidad\n\n(Coro)\nNo hay nadie te entienda m\u00e1s que yo\nQue estoy cansado, desvelado\nSintiendo que todo se acab\u00f3\nPero esto es solo el principio\n\n(Coro)\nNo hay nadie te entienda m\u00e1s que yo\nQue estoy cansado, desvelado\nSintiendo que todo se acab\u00f3\nPero esto es solo el principio\n\n\nVideo producido por Enrique Rosas y dirigido por Alfonso Ramirez en Oncemil producciones.\n\nEscrita por: Missa Sinfon\u00eda, Milo \u00c1vila y Edgar Desfassiaux.\n\nUna producci\u00f3n dirigida y realizada por Milo \u00c1vila y Edgar Desfassiaux para Cosmos by Bobo.\nBater\u00eda: Eduardo Torruco.\nIng. de mezcla: Adri\u00e1n \u201cRojo\u201d Trevi\u00f1o.\nProducci\u00f3n ejecutiva: Emilio \u00c1vila y Michkin Boyzo.\nLabel Manager: Carlos Faisal.\nManager personal: Lucas Garcia Noya.\n\nEspecial agradecimiento a mi equipo AttachMenta por el management y administraci\u00f3n del proyecto.\n\nGracias Adrien Mont por prestarnos su bello talento para el arte promocional, su instagram:\nhttps://www.instagram.com/adrien_mess/"
-                },
-                "defaultAudioLanguage": "es-419"
-            },
-            "statistics": {
-                "viewCount": "1515679",
-                "likeCount": "276414",
-                "favoriteCount": "0",
-                "commentCount": "19968"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "0Z7ACqn7Uxj636VwERj2uOM5uoY",
-            "id": "w85hK1z31ZU",
-            "snippet": {
-                "publishedAt": "2025-04-25T02:00:06Z",
-                "channelId": "UCq4uL-aOqHnIzioax10cq7A",
-                "title": "Liz Loyo - As\u00ed Fue (Video Oficial)",
-                "description": "#lizloyo #asifue \n\nEscucha As\u00ed Fue en tu plataforma de streaming favorita: https://distrokid.com/hyperfollow/lizloyo/as-fue-3\n\n\ud83d\udea9 No te pierdas de nada sigui\u00e9ndome en redes sociales: \nInstagram: https://www.instagram.com/lizloyomusic/\nTikTok: https://www.tiktok.com/@liz_loyo\nFacebook: https://www.facebook.com/lizbet.sanchez.3114\n\nAutor: Alberto Aguilera Valadez\n\nUna producci\u00f3n de Tacos Films\n\n(c) 2025 La Chiquis del Mariachi\n\n#LizLoyo #mariachi #chiquisdelmariachi",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/w85hK1z31ZU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Liz Loyo",
-                "tags": [
-                    "Liz Loyo Asi Fue",
-                    "Asi Fue Juan Gabriel",
-                    "Liz Loyo Videos",
-                    "liz loyo no te aferres",
-                    "No Te Aferres",
-                    "Mariachi",
-                    "Ixtlahuac\u00e1n del R\u00edo",
-                    "Cadereyta"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Liz Loyo - As\u00ed Fue (Video Oficial)",
-                    "description": "#lizloyo #asifue \n\nEscucha As\u00ed Fue en tu plataforma de streaming favorita: https://distrokid.com/hyperfollow/lizloyo/as-fue-3\n\n\ud83d\udea9 No te pierdas de nada sigui\u00e9ndome en redes sociales: \nInstagram: https://www.instagram.com/lizloyomusic/\nTikTok: https://www.tiktok.com/@liz_loyo\nFacebook: https://www.facebook.com/lizbet.sanchez.3114\n\nAutor: Alberto Aguilera Valadez\n\nUna producci\u00f3n de Tacos Films\n\n(c) 2025 La Chiquis del Mariachi\n\n#LizLoyo #mariachi #chiquisdelmariachi"
-                }
-            },
-            "statistics": {
-                "viewCount": "866050",
-                "likeCount": "52949",
-                "favoriteCount": "0",
-                "commentCount": "2121"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "dAlfuK4CgiJexaL1wncRRFX12nY",
-            "id": "paRa7BRa3d4",
-            "snippet": {
-                "publishedAt": "2025-04-27T21:44:58Z",
-                "channelId": "UCX-XbFH18Dme_zLmbOR_HNw",
-                "title": "BASTA GAGO. River Plate 2 - Boca Juniors 1 - An\u00e1lisis en Caliente - Liga Argentina - Toto Bordieri",
-                "description": "Canal de Tacticando: https://www.youtube.com/@tacticando\nSeguime en Instagram \u25ba  https://instagram.com/totobordieri\nSeguime en TikTok \u25bahttps://www.tiktok.com/@totobordieri\nCompra el Buzo Buenos Aires 18/12: https://jinare.empretienda.com.ar/buzos/buzo-negro-over-baires\n\nSeguime en mi CANAL de FUTBOL EUROPEO \u25ba youtube.com/@totobordieriplus\nSeguime en Twitter \u25ba https://twitter.com/totobordieri\n\n\n- Top videos.\n\nANALISIS TACTICO del RIVAL de ARGENTINA en QATAR 2022\n\nhttps://youtube.com/playlist?list=PLRiTLJM3sV7cO1JjsMhWswup8g_rT_5WQ\n\nMI COLECCION DE CAMISETAS DE FUTBOL\n\nhttps://youtu.be/_zg2ku7veFg\nBOCA JUNIORS CAMPE\u00d3N vs GIMNASIA \n\nhttps://youtu.be/dbgpvqEJZu4\n\nANALISIS TACTICO - ROTACION POSICIONAL\n\nhttps://youtu.be/z74OoyebKfM\n\nRIVER 1 - FLAMENGO 2 REACCI\u00d3N\n\nhttps://youtu.be/QdD3x0IQ0G0\n\n\n\n\n\n\n\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\n\nDescripci\u00f3n del video: \n\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\n\n\n\n\n V\u00eddeo producido y editado por \"Toto Bordieri\".",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/paRa7BRa3d4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/paRa7BRa3d4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/paRa7BRa3d4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/paRa7BRa3d4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/paRa7BRa3d4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Toto Bordieri",
-                "tags": [
-                    "toto",
-                    "toto bordieri",
-                    "toto bordieri reaccion",
-                    "toto bordieri analisis en caliente",
-                    "toto bordieri analisis",
-                    "toto bordieri boca",
-                    "toto bordieri river",
-                    "hincha de boca",
-                    "reaccion hincha de boca",
-                    "hincha de river reaccion",
-                    "boca juniors",
-                    "river",
-                    "river 2 boca 1",
-                    "river plate 2 boca juniors 1",
-                    "river 2 boca 1 resumen",
-                    "river 2 boca 1 analisis",
-                    "analisis boca river",
-                    "resumen boca river",
-                    "gol mastantuono",
-                    "mastantuono",
-                    "gallardo",
-                    "fernando gago",
-                    "gago"
-                ],
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "BASTA GAGO. River Plate 2 - Boca Juniors 1 - An\u00e1lisis en Caliente - Liga Argentina - Toto Bordieri",
-                    "description": "Canal de Tacticando: https://www.youtube.com/@tacticando\nSeguime en Instagram \u25ba  https://instagram.com/totobordieri\nSeguime en TikTok \u25bahttps://www.tiktok.com/@totobordieri\nCompra el Buzo Buenos Aires 18/12: https://jinare.empretienda.com.ar/buzos/buzo-negro-over-baires\n\nSeguime en mi CANAL de FUTBOL EUROPEO \u25ba youtube.com/@totobordieriplus\nSeguime en Twitter \u25ba https://twitter.com/totobordieri\n\n\n- Top videos.\n\nANALISIS TACTICO del RIVAL de ARGENTINA en QATAR 2022\n\nhttps://youtube.com/playlist?list=PLRiTLJM3sV7cO1JjsMhWswup8g_rT_5WQ\n\nMI COLECCION DE CAMISETAS DE FUTBOL\n\nhttps://youtu.be/_zg2ku7veFg\nBOCA JUNIORS CAMPE\u00d3N vs GIMNASIA \n\nhttps://youtu.be/dbgpvqEJZu4\n\nANALISIS TACTICO - ROTACION POSICIONAL\n\nhttps://youtu.be/z74OoyebKfM\n\nRIVER 1 - FLAMENGO 2 REACCI\u00d3N\n\nhttps://youtu.be/QdD3x0IQ0G0\n\n\n\n\n\n\n\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\n\nDescripci\u00f3n del video: \n\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\n\n\n\n\n V\u00eddeo producido y editado por \"Toto Bordieri\"."
-                }
-            },
-            "statistics": {
-                "viewCount": "307670",
-                "likeCount": "19184",
-                "favoriteCount": "0",
-                "commentCount": "3946"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "kmLtrOynM9y0W4wn7V9uWub-kRo",
-            "id": "TQDUUSqcriM",
-            "snippet": {
-                "publishedAt": "2025-04-24T20:14:27Z",
-                "channelId": "UC0Vdv4N2cG6LixKtVZzZ11A",
-                "title": "Viaj\u00e9 a JAP\u00d3N y a ESTADOS UNIDOS solo para comprar PIZZA atrav\u00e9s de una WII. (Si, de verdad)",
-                "description": "https://www.missasinfonia.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/TQDUUSqcriM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/TQDUUSqcriM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/TQDUUSqcriM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/TQDUUSqcriM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "YoSoyMissa",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Viaj\u00e9 a JAP\u00d3N y a ESTADOS UNIDOS solo para comprar PIZZA atrav\u00e9s de una WII. (Si, de verdad)",
-                    "description": "https://www.missasinfonia.com"
-                },
-                "defaultAudioLanguage": "es-MX"
-            },
-            "statistics": {
-                "viewCount": "1768099",
-                "likeCount": "180872",
-                "favoriteCount": "0",
-                "commentCount": "3639"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "nXroCgHfNja95TZ5RLFIalYEzS8",
-            "id": "FQ2q0Q9frKE",
-            "snippet": {
-                "publishedAt": "2025-04-25T20:30:07Z",
-                "channelId": "UCzfyYtgvkx5mLy8nlLlayYg",
-                "title": "HELLAVERSE UPDATE",
-                "description": "GUESS WHAT?!! Helluva is comin' to Prime BUT it's also still going to be here too!! We get to make the ENTIRE show, with BIGGER $everything$, while still owning it, while still making it how we always have! It's a pretty big deal you guys!  Indie animation is rising and it's all thanks to you all who are enjoying our shows! Thanks for supporting us and getting us here and -OH YEAH! Crossovers anyone?? GET READY!\n\nThank you to the amazing Spindle crew for making this animated goodness for our announcement!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/FQ2q0Q9frKE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "Vivziepop",
-                "tags": [
-                    "Vivziepop",
-                    "Zoophobia"
-                ],
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "HELLAVERSE UPDATE",
-                    "description": "GUESS WHAT?!! Helluva is comin' to Prime BUT it's also still going to be here too!! We get to make the ENTIRE show, with BIGGER $everything$, while still owning it, while still making it how we always have! It's a pretty big deal you guys!  Indie animation is rising and it's all thanks to you all who are enjoying our shows! Thanks for supporting us and getting us here and -OH YEAH! Crossovers anyone?? GET READY!\n\nThank you to the amazing Spindle crew for making this animated goodness for our announcement!"
-                },
-                "defaultAudioLanguage": "en"
-            },
-            "statistics": {
-                "viewCount": "2944993",
-                "likeCount": "441545",
-                "favoriteCount": "0",
-                "commentCount": "35708"
+                "commentCount": "2789"
             }
         }
     ],
