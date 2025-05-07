@@ -22,7 +22,7 @@ The **Tube Virality** project aims to **collect, analyze, and model YouTube tren
 ## 🛠️ How the Data is Collected
 
 The data is automatically collected using the **YouTube API** and stored in this GitHub location:
-🔗 [Trending Video Metadata](https://github.com/gpsyrou/tube-virality/tree/main/assets/meta/trending)
+🔗 [Trending Video Metadata](https://github.com/Root-FTW/YT_DB_Trending/tree/main/assets/meta/trending)
 
 ### **Data Collection Process**
 1. **Fetching Trending Videos**
@@ -33,7 +33,7 @@ The data is automatically collected using the **YouTube API** and stored in this
    - A scheduled **GitHub Actions** workflow updates video statistics (views, likes, comments, video descrition, video privacy status, etc.).
    - These updates provide **historical trends** for analysis.
    - The latest data is stored here:
-     🔗 [Video Statistics](https://github.com/gpsyrou/tube-virality/tree/main/assets/meta/video_stats)
+     🔗 [Video Statistics](https://github.com/Root-FTW/YT_DB_Trending/tree/main/assets/meta/video_stats)
 
 ### **Countries Analyzed**
 
